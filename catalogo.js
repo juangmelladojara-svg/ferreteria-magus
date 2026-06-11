@@ -51,11 +51,33 @@
       }
       if (totalCountEl) totalCountEl.textContent = todosLosProductos.length.toLocaleString('es-CL');
 
+      // Leer parámetros URL (?cat=Ferreteria&q=tornillo)
+      const params = new URLSearchParams(window.location.search);
+      const urlCat = params.get('cat');
+      const urlQ   = params.get('q');
+      if (urlQ) {
+        busquedaActual = urlQ;
+        if (searchInput) searchInput.value = urlQ;
+      }
+
       // Estado inicial del checkbox de stock
       soloConStock = filterStock ? filterStock.checked : true;
 
       buildCatList(data.categorias || []);
+
+      // Pre-seleccionar categoría si viene en la URL
+      if (urlCat && data.categorias.includes(urlCat)) {
+        categoriaActiva = urlCat;
+      }
+
       aplicarFiltros();
+
+      // Scroll a resultados si llegamos con filtro
+      if (urlCat || urlQ) {
+        setTimeout(() => {
+          document.querySelector('.catalog-layout')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 300);
+      }
     })
     .catch(() => {
       // products.json no existe aún — mostrar mensaje amistoso
@@ -75,7 +97,7 @@
 
     // Botón "Todas"
     const btnTodas = document.createElement('button');
-    btnTodas.className = 'cat-btn active';
+    btnTodas.className = 'cat-btn' + (categoriaActiva === 'todas' ? ' active' : '');
     btnTodas.dataset.cat = 'todas';
     const totalStock = todosLosProductos.filter(p => !soloConStock || p.enStock).length;
     btnTodas.innerHTML = `<span>Todas</span><span class="cat-count">${totalStock.toLocaleString('es-CL')}</span>`;
@@ -85,7 +107,7 @@
     categorias.forEach(cat => {
       const count = todosLosProductos.filter(p => p.categoria === cat && (!soloConStock || p.enStock)).length;
       const btn   = document.createElement('button');
-      btn.className    = 'cat-btn';
+      btn.className    = 'cat-btn' + (cat === categoriaActiva ? ' active' : '');
       btn.dataset.cat  = cat;
       btn.innerHTML    = `<span>${cat}</span><span class="cat-count">${count.toLocaleString('es-CL')}</span>`;
       btn.addEventListener('click', () => setCat(cat));

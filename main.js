@@ -113,9 +113,7 @@
   function doSearch() {
     const q = (searchInput ? searchInput.value : '').trim();
     if (q) {
-      // Placeholder: in a real implementation, redirect or filter
-      console.log('Buscando:', q);
-      // Example: window.location.href = `/buscar?q=${encodeURIComponent(q)}`;
+      window.location.href = 'catalogo.html?q=' + encodeURIComponent(q);
     }
   }
   if (searchBtn) searchBtn.addEventListener('click', doSearch);
