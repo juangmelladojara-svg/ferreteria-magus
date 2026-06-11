@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ferretería Magus — Herramientas y Materiales de Construcción</title>
+  <meta name="description" content="Ferretería Magus, distribuidora de herramientas, ferretería y materiales de construcción en Chillán. Calidad garantizada." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,700&family=Roboto:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav class="nav" id="nav">
+    <!-- Promo bar -->
+    <div class="promo-bar">
+      <p>Envío gratis a Chillán en compras superiores a $100.000 &nbsp;·&nbsp; Pagos seguros &nbsp;·&nbsp; Calidad garantizada</p>
+    </div>
+
+    <div class="nav-inner">
+      <!-- Logo -->
+      <a href="#" class="nav-logo" aria-label="Ferretería Magus — Inicio">
+        <img src="logo-magus.png" alt="Ferretería Magus — Magus Distribuidora" class="nav-logo-img" width="120" height="60" />
+      </a>
+
+      <!-- SEARCH BAR — elemento central del nav -->
+      <div class="nav-search" role="search">
+        <label for="search-input" class="sr-only">Buscar productos</label>
+        <div class="search-wrap">
+          <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+          </svg>
+          <input
+            type="search"
+            id="search-input"
+            class="search-input"
+            placeholder="Buscar por nombre o SKU..."
+            autocomplete="off"
+            aria-label="Buscar por nombre o SKU"
+          />
+          <button type="button" class="btn btn-search" id="search-btn" aria-label="Buscar">
+            Buscar
+          </button>
+        </div>
+      </div>
+
+      <!-- Right actions -->
+      <div class="nav-actions">
+        <ul class="nav-links" id="nav-links">
+          <li><a href="#categorias" class="nav-link">Productos</a></li>
+          <li><a href="#mas-vendidos" class="nav-link">Más Vendidos</a></li>
+          <li><a href="#marcas" class="nav-link">Marcas</a></li>
+          <li><a href="#contacto" class="nav-link">Contacto</a></li>
+        </ul>
+        <button class="nav-cart" aria-label="Carrito de compras" id="cart-btn">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+            <path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/>
+            <line x1="3" y1="6" x2="21" y2="6"/>
+            <path d="M16 10a4 4 0 0 1-8 0"/>
+          </svg>
+          <span class="cart-count" id="cart-count">0</span>
+        </button>
+        <button class="hamburger" id="hamburger" aria-label="Abrir menú" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Mobile nav links -->
+    <div class="mobile-nav" id="mobile-nav" hidden>
+      <ul>
+        <li><a href="#categorias">Productos</a></li>
+        <li><a href="#mas-vendidos">Más Vendidos</a></li>
+        <li><a href="#marcas">Marcas</a></li>
+        <li><a href="#contacto">Contacto</a></li>
+      </ul>
+      <div class="mobile-search" role="search">
+        <label for="search-mobile" class="sr-only">Buscar productos</label>
+        <input type="search" id="search-mobile" class="search-input" placeholder="Buscar por nombre o SKU..." />
+        <button type="button" class="btn btn-primary w-full">Buscar</button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero" id="inicio">
+    <div class="hero-content">
+      <p class="hero-eyebrow">Distribución mayorista y minorista · Chillán</p>
+      <h1 class="hero-headline">Herramientas que<br><em>construyen el futuro</em></h1>
+      <p class="hero-sub">Todo lo que necesitas para construir, reparar e instalar. Herramientas, ferretería y materiales al mejor precio en la Región del Ñuble.</p>
+      <div class="hero-ctas">
+        <a href="#categorias" class="btn btn-primary">Ver Catálogo</a>
+        <a href="#contacto" class="btn btn-ghost">Cotizar ahora</a>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <img
+        src="https://images.unsplash.com/photo-1504148455328-c376907d081c?w=900&q=80"
+        alt="Herramientas y equipos de ferretería profesional"
+        class="hero-img"
+        width="900"
+        height="600"
+        loading="eager"
+      />
+      <div class="hero-badge">
+        <span class="badge-number">+5.000</span>
+        <span class="badge-label">productos disponibles</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- TRUST STRIP -->
+  <section class="trust-strip" aria-label="Beneficios">
+    <div class="trust-inner">
+      <div class="trust-item">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M5 12h14"/><path d="M12 5l7 7-7 7"/></svg>
+        <div><strong>Envío gratis</strong><span>Chillán en compras +$100.000</span></div>
+      </div>
+      <div class="trust-item">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+        <div><strong>Pagos seguros</strong><span>Transferencia y tarjeta</span></div>
+      </div>
+      <div class="trust-item">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+        <div><strong>Calidad garantizada</strong><span>Marcas certificadas</span></div>
+      </div>
+      <div class="trust-item">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+        <div><strong>Asesoría experta</strong><span>Equipo siempre disponible</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CATEGORÍAS -->
+  <section class="categories" id="categorias">
+    <div class="section-inner">
+      <h2 class="section-headline">Lo que ofrecemos</h2>
+      <div class="categories-grid">
+        <a href="#" class="cat-card cat-card--large reveal-item">
+          <img src="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=700&q=80" alt="Herramientas manuales" loading="lazy" />
+          <div class="cat-card-body">
+            <span class="cat-tag">Más popular</span>
+            <h3>Herramientas Manuales</h3>
+            <p>Destornilladores, llaves, alicates, martillos y más</p>
+          </div>
+        </a>
+        <a href="#" class="cat-card reveal-item">
+          <img src="https://images.unsplash.com/photo-1572981779307-38b8cabb2407?w=500&q=80" alt="Herramientas eléctricas" loading="lazy" />
+          <div class="cat-card-body">
+            <h3>Herramientas Eléctricas</h3>
+            <p>Taladros, amoladoras, sierras</p>
+          </div>
+        </a>
+        <a href="#" class="cat-card reveal-item">
+          <img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500&q=80" alt="Ferretería general" loading="lazy" />
+          <div class="cat-card-body">
+            <h3>Ferretería</h3>
+            <p>Tornillos, clavos, anclajes, bulones</p>
+          </div>
+        </a>
+        <a href="#" class="cat-card reveal-item">
+          <img src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=500&q=80" alt="Materiales de construcción" loading="lazy" />
+          <div class="cat-card-body">
+            <h3>Construcción</h3>
+            <p>Cemento, áridos, impermeabilizantes</p>
+          </div>
+        </a>
+        <a href="#" class="cat-card cat-card--wide reveal-item">
+          <img src="https://images.unsplash.com/photo-1616401784845-180882ba9ba8?w=700&q=80" alt="Ruedas y rodamientos" loading="lazy" />
+          <div class="cat-card-body">
+            <h3>Ruedas y Rodamientos</h3>
+            <p>Ruedas industriales, rodachines, rodamientos para todo uso</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- MÁS VENDIDOS -->
+  <section class="best-sellers" id="mas-vendidos">
+    <div class="section-inner">
+      <div class="section-header-row">
+        <h2 class="section-headline">Más vendidos</h2>
+        <a href="#" class="link-all">Ver todo el catálogo →</a>
+      </div>
+      <div class="products-grid">
+
+        <article class="product-card reveal-item">
+          <div class="product-img-wrap">
+            <span class="product-badge">-30%</span>
+            <img src="https://images.unsplash.com/photo-1581147036324-c47a03a81d48?w=400&q=75" alt="Tijera Corta Lata Aviación" loading="lazy" />
+          </div>
+          <div class="product-info">
+            <p class="product-sku">WT0305110</p>
+            <h3 class="product-name">Tijera Corta Lata Aviación Recta 10"</h3>
+            <div class="product-price-row">
+              <span class="product-price">$1.890</span>
+              <span class="product-price-old">$2.700</span>
+            </div>
+            <span class="product-stock out">Sin stock</span>
+            <div class="product-actions">
+              <div class="qty-wrap" aria-label="Cantidad">
+                <label for="qty-1" class="sr-only">Cantidad</label>
+                <button class="qty-btn qty-minus" aria-label="Restar" type="button">−</button>
+                <input type="number" id="qty-1" class="qty-input" value="1" min="1" max="999" aria-label="Cantidad" />
+                <button class="qty-btn qty-plus" aria-label="Sumar" type="button">+</button>
+              </div>
+              <a href="#" class="btn btn-outline btn-sm">Ver detalles</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="product-card reveal-item">
+          <div class="product-img-wrap">
+            <span class="product-badge">-30%</span>
+            <img src="https://images.unsplash.com/photo-1618090584126-129cd1f3fb74?w=400&q=75" alt="Pistola Calafatera Silicona" loading="lazy" />
+          </div>
+          <div class="product-info">
+            <p class="product-sku">WT0309045</p>
+            <h3 class="product-name">Pistola Calafatera Silicona Negro 9"</h3>
+            <div class="product-price-row">
+              <span class="product-price">$1.470</span>
+              <span class="product-price-old">$2.100</span>
+            </div>
+            <span class="product-stock in">En stock</span>
+            <div class="product-actions">
+              <div class="qty-wrap" aria-label="Cantidad">
+                <label for="qty-2" class="sr-only">Cantidad</label>
+                <button class="qty-btn qty-minus" aria-label="Restar" type="button">−</button>
+                <input type="number" id="qty-2" class="qty-input" value="1" min="1" max="999" aria-label="Cantidad" />
+                <button class="qty-btn qty-plus" aria-label="Sumar" type="button">+</button>
+              </div>
+              <button class="btn btn-primary btn-sm add-to-cart" data-product="Pistola Calafatera">Agregar al carro</button>
+            </div>
+          </div>
+        </article>
+
+        <article class="product-card reveal-item">
+          <div class="product-img-wrap">
+            <span class="product-badge">-30%</span>
+            <img src="https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?w=400&q=75" alt="Caja Inglete con Serrucho" loading="lazy" />
+          </div>
+          <div class="product-info">
+            <p class="product-sku">ING-12</p>
+            <h3 class="product-name">Caja Inglete c/Serrucho Costilla Negro 12"</h3>
+            <div class="product-price-row">
+              <span class="product-price">$1.715</span>
+              <span class="product-price-old">$2.450</span>
+            </div>
+            <span class="product-stock in">En stock</span>
+            <div class="product-actions">
+              <div class="qty-wrap" aria-label="Cantidad">
+                <label for="qty-3" class="sr-only">Cantidad</label>
+                <button class="qty-btn qty-minus" aria-label="Restar" type="button">−</button>
+                <input type="number" id="qty-3" class="qty-input" value="1" min="1" max="999" aria-label="Cantidad" />
+                <button class="qty-btn qty-plus" aria-label="Sumar" type="button">+</button>
+              </div>
+              <button class="btn btn-primary btn-sm add-to-cart" data-product="Caja Inglete">Agregar al carro</button>
+            </div>
+          </div>
+        </article>
+
+        <article class="product-card reveal-item">
+          <div class="product-img-wrap">
+            <span class="product-badge">-30%</span>
+            <img src="https://images.unsplash.com/photo-1609429019995-8c40f49535a5?w=400&q=75" alt="Sierra Manual Escolar" loading="lazy" />
+          </div>
+          <div class="product-info">
+            <p class="product-sku">QG094</p>
+            <h3 class="product-name">Sierra Escolar Manual Arte 6"</h3>
+            <div class="product-price-row">
+              <span class="product-price">$770</span>
+              <span class="product-price-old">$1.100</span>
+            </div>
+            <span class="product-stock in">En stock</span>
+            <div class="product-actions">
+              <div class="qty-wrap" aria-label="Cantidad">
+                <label for="qty-4" class="sr-only">Cantidad</label>
+                <button class="qty-btn qty-minus" aria-label="Restar" type="button">−</button>
+                <input type="number" id="qty-4" class="qty-input" value="1" min="1" max="999" aria-label="Cantidad" />
+                <button class="qty-btn qty-plus" aria-label="Sumar" type="button">+</button>
+              </div>
+              <button class="btn btn-primary btn-sm add-to-cart" data-product="Sierra Manual">Agregar al carro</button>
+            </div>
+          </div>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- MARCAS -->
+  <section class="brands" id="marcas">
+    <div class="section-inner">
+      <p class="brands-label">Marcas que distribuimos</p>
+      <div class="brands-grid">
+        <!-- Los logos se reemplazarán con las imágenes reales de cada marca -->
+        <div class="brand-slot"><div class="brand-placeholder"><img src="logo-magus.png" alt="Magus Distribuidora" class="brand-logo-img" /></div></div>
+        <div class="brand-slot"><div class="brand-placeholder"><img src="logo-magus.png" alt="Marca 2" class="brand-logo-img" /></div></div>
+        <div class="brand-slot"><div class="brand-placeholder"><img src="logo-magus.png" alt="Marca 3" class="brand-logo-img" /></div></div>
+        <div class="brand-slot"><div class="brand-placeholder"><img src="logo-magus.png" alt="Marca 4" class="brand-logo-img" /></div></div>
+        <div class="brand-slot"><div class="brand-placeholder"><img src="logo-magus.png" alt="Marca 5" class="brand-logo-img" /></div></div>
+        <div class="brand-slot"><div class="brand-placeholder"><img src="logo-magus.png" alt="Marca 6" class="brand-logo-img" /></div></div>
+        <div class="brand-slot"><div class="brand-placeholder"><img src="logo-magus.png" alt="Marca 7" class="brand-logo-img" /></div></div>
+        <div class="brand-slot"><div class="brand-placeholder"><img src="logo-magus.png" alt="Marca 8" class="brand-logo-img" /></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA COTIZACIÓN WHATSAPP -->
+  <section class="cta-whatsapp">
+    <div class="cta-wa-inner">
+      <div class="cta-wa-content">
+        <h2>¿Necesitas una cotización para tu empresa?</h2>
+        <p>Escríbenos por WhatsApp para pedidos al por mayor y cotizaciones personalizadas.</p>
+      </div>
+      <a href="https://wa.me/56942656028" target="_blank" rel="noopener" class="btn btn-whatsapp-lg">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+        </svg>
+        Cotizar por WhatsApp
+      </a>
+    </div>
+  </section>
+
+  <!-- CONTACTO -->
+  <section class="contact" id="contacto">
+    <div class="section-inner contact-grid">
+      <div class="contact-info">
+        <h2 class="section-headline">Contáctanos</h2>
+        <ul class="contact-details">
+          <li>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            Camino a Huape Km 4 Parcelas Celina, Chillán, Chile
+          </li>
+          <li>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+            magusferreteria@gmail.com
+          </li>
+          <li>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 13a19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 3.6 2.18h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L7.91 9.91a16 16 0 0 0 6.04 6.04l.91-.91a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 21.73 17z"/></svg>
+            +56 9 4265 6028
+          </li>
+        </ul>
+        <div class="newsletter">
+          <p class="newsletter-label">Recibe ofertas exclusivas</p>
+          <form class="newsletter-form" novalidate>
+            <div class="field-group">
+              <label for="email-input" class="sr-only">Correo electrónico</label>
+              <input type="email" id="email-input" name="email" class="input" placeholder="tu@email.cl" autocomplete="email" required />
+              <button type="submit" class="btn btn-primary">Suscribirse</button>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="contact-map">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3262!2d-72.12!3d-36.61!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sCamino+Huape+Chillan!5e0!3m2!1ses!2scl!4v1"
+          width="100%" height="320"
+          style="border:0;border-radius:8px;"
+          allowfullscreen="" loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          title="Ubicación Ferretería Magus — Chillán"
+        ></iframe>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-col footer-brand">
+        <img src="logo-magus.png" alt="Ferretería Magus" class="footer-logo" width="130" height="65" loading="lazy" />
+        <p>Distribuidora mayorista y minorista de herramientas, ferretería y materiales de construcción en Chillán, Región del Ñuble.</p>
+        <div class="social-links">
+          <a href="#" aria-label="Instagram Ferretería Magus">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+          </a>
+          <a href="#" aria-label="Facebook Ferretería Magus">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+          </a>
+        </div>
+      </div>
+      <div class="footer-col">
+        <h4>Productos</h4>
+        <ul>
+          <li><a href="#">Herramientas Manuales</a></li>
+          <li><a href="#">Herramientas Eléctricas</a></li>
+          <li><a href="#">Ferretería</a></li>
+          <li><a href="#">Construcción</a></li>
+          <li><a href="#">Ruedas y Rodamientos</a></li>
+          <li><a href="#">Outlet</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Empresa</h4>
+        <ul>
+          <li><a href="#">Quiénes somos</a></li>
+          <li><a href="#">Catálogos 2025/2026</a></li>
+          <li><a href="#">Marcas</a></li>
+          <li><a href="#contacto">Contáctanos</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Información</h4>
+        <ul>
+          <li><a href="#">Política de devoluciones</a></li>
+          <li><a href="#">Formas de pago</a></li>
+          <li><a href="#">Preguntas frecuentes</a></li>
+          <li><a href="#">Términos y condiciones</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2025 Ferretería Magus — Magus Distribuidora. Todos los derechos reservados.</p>
+      <p>Camino a Huape Km 4, Chillán, Chile</p>
+    </div>
+  </footer>
+
+  <!-- WhatsApp Float (único, no redundante) -->
+  <a href="https://wa.me/56942656028" target="_blank" rel="noopener" class="wa-float" aria-label="Escríbenos por WhatsApp">
+    <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+      <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+    </svg>
+  </a>
+
+  <script src="main.js"></script>
+</body>
+</html>
