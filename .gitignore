@@ -3,3 +3,6 @@ package-lock.json
 *.bat
 *.js.map
 INVENTARIO*.xlsx
+MAYORISTA*.xls
+.playwright-mcp/
+*-check.png

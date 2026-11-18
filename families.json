@@ -1,0 +1,8742 @@
+[
+  {
+    "key": "ABRAZADERA CONDUIT",
+    "slug": "abrazadera-conduit",
+    "categoria": "Electricidad",
+    "muestra": "ABRAZADERA CONDUIT 16MM",
+    "ids": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "key": "ABRAZADERA GALVANIZADA",
+    "slug": "abrazadera-galvanizada",
+    "categoria": "Herramientas",
+    "muestra": "ABRAZADERA GALVANIZADA 16MM",
+    "ids": [
+      4
+    ]
+  },
+  {
+    "key": "ABRAZADERA GALVANIZADA STANDFORD",
+    "slug": "abrazadera-galvanizada-standford",
+    "categoria": "Electricidad",
+    "muestra": "ABRAZADERA GALVANIZADA STANDFORD 20MM",
+    "ids": [
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "key": "ABRAZADERA MANGUERA",
+    "slug": "abrazadera-manguera",
+    "categoria": "Galvanizados",
+    "muestra": "ABRAZADERA MANGUERA 1 1/2\"",
+    "ids": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  {
+    "key": "ABRAZADERA PARA MANGUERA",
+    "slug": "abrazadera-para-manguera",
+    "categoria": "Herramientas",
+    "muestra": "ABRAZADERA PARA MANGUERA 2 1/2\"",
+    "ids": [
+      14
+    ]
+  },
+  {
+    "key": "ABRAZADERA PPR",
+    "slug": "abrazadera-ppr",
+    "categoria": "Fitting PPR",
+    "muestra": "ABRAZADERA PPR 20MM",
+    "ids": [
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "key": "ABRAZADERA PVC HIDRAULICO",
+    "slug": "abrazadera-pvc-hidraulico",
+    "categoria": "General",
+    "muestra": "ABRAZADERA PVC HIDRAULICO 20MM",
+    "ids": [
+      18,
+      19
+    ]
+  },
+  {
+    "key": "ABRAZADERA PVC SANITARIO",
+    "slug": "abrazadera-pvc-sanitario",
+    "categoria": "Fitting PVC",
+    "muestra": "ABRAZADERA PVC SANITARIO 110MM",
+    "ids": [
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "key": "ACEITE",
+    "slug": "aceite",
+    "categoria": "General",
+    "muestra": "ACEITE 2 TIEMPOS 100ML TRUPER (5LT)",
+    "ids": [
+      24,
+      25,
+      26,
+      27
+    ]
+  },
+  {
+    "key": "ACEITE IMPREGNANTE",
+    "slug": "aceite-impregnante",
+    "categoria": "General",
+    "muestra": "ACEITE IMPREGNANTE 1 LITRO",
+    "ids": [
+      28
+    ]
+  },
+  {
+    "key": "ACERO LIQUIDO REX",
+    "slug": "acero-liquido-rex",
+    "categoria": "Adhesivos",
+    "muestra": "ACERO LIQUIDO REX 56 GRAMOS",
+    "ids": [
+      29
+    ]
+  },
+  {
+    "key": "ACERO LIQUIDO YTS",
+    "slug": "acero-liquido-yts",
+    "categoria": "Adhesivos",
+    "muestra": "ACERO LIQUIDO YTS 28CC",
+    "ids": [
+      30
+    ]
+  },
+  {
+    "key": "ACIDO MURIATICO",
+    "slug": "acido-muriatico",
+    "categoria": "Quimicos",
+    "muestra": "ACIDO MURIATICO 1 LT",
+    "ids": [
+      31,
+      32
+    ]
+  },
+  {
+    "key": "ADAPTADOR",
+    "slug": "adaptador",
+    "categoria": "General",
+    "muestra": "ADAPTADOR 3/8\" A 1/2\" BRONCE",
+    "ids": [
+      33
+    ]
+  },
+  {
+    "key": "ADAPTADOR DE CONEXION",
+    "slug": "adaptador-de-conexion",
+    "categoria": "Jardin",
+    "muestra": "ADAPTADOR DE CONEXION MANGUERA 1-3/4\"",
+    "ids": [
+      34,
+      35
+    ]
+  },
+  {
+    "key": "ADAPTADOR LLAVE ANGULAR",
+    "slug": "adaptador-llave-angular",
+    "categoria": "General",
+    "muestra": "ADAPTADOR LLAVE ANGULAR",
+    "ids": [
+      36
+    ]
+  },
+  {
+    "key": "ADAPTADOR SCHUKO",
+    "slug": "adaptador-schuko",
+    "categoria": "General",
+    "muestra": "ADAPTADOR SCHUKO",
+    "ids": [
+      37
+    ]
+  },
+  {
+    "key": "ADHESIVO CERAMICO AC",
+    "slug": "adhesivo-ceramico-ac",
+    "categoria": "General",
+    "muestra": "ADHESIVO CERAMICO AC TINETA",
+    "ids": [
+      38,
+      39
+    ]
+  },
+  {
+    "key": "ADHESIVO CERAMICO ESTANDAR",
+    "slug": "adhesivo-ceramico-estandar",
+    "categoria": "General",
+    "muestra": "ADHESIVO CERAMICO ESTANDAR 25 KG",
+    "ids": [
+      40
+    ]
+  },
+  {
+    "key": "ADHESIVO INSTANTANEO REX",
+    "slug": "adhesivo-instantaneo-rex",
+    "categoria": "Adhesivos",
+    "muestra": "ADHESIVO INSTANTANEO REX UNIDAD 2 GRAMOS",
+    "ids": [
+      41
+    ]
+  },
+  {
+    "key": "ADHESIVO JUNTA POTE",
+    "slug": "adhesivo-junta-pote",
+    "categoria": "General",
+    "muestra": "ADHESIVO JUNTA POTE",
+    "ids": [
+      42
+    ]
+  },
+  {
+    "key": "ADHESIVO MAGICO REX",
+    "slug": "adhesivo-magico-rex",
+    "categoria": "General",
+    "muestra": "ADHESIVO MAGICO REX",
+    "ids": [
+      43
+    ]
+  },
+  {
+    "key": "ADHESIVO MONTAJE GALON",
+    "slug": "adhesivo-montaje-galon",
+    "categoria": "General",
+    "muestra": "ADHESIVO MONTAJE GALON 4KG",
+    "ids": [
+      44
+    ]
+  },
+  {
+    "key": "ADHESIVO PAPEL MURAL",
+    "slug": "adhesivo-papel-mural",
+    "categoria": "General",
+    "muestra": "ADHESIVO PAPEL MURAL",
+    "ids": [
+      45
+    ]
+  },
+  {
+    "key": "ADHESIVO PORCELANATO DOBLE",
+    "slug": "adhesivo-porcelanato-doble",
+    "categoria": "General",
+    "muestra": "ADHESIVO PORCELANATO DOBLE ACCION 25 KG",
+    "ids": [
+      46
+    ]
+  },
+  {
+    "key": "ADHESIVO PVC HOFFENS",
+    "slug": "adhesivo-pvc-hoffens",
+    "categoria": "General",
+    "muestra": "ADHESIVO PVC HOFFENS 20CC",
+    "ids": [
+      47
+    ]
+  },
+  {
+    "key": "ADHESIVO PVC REX",
+    "slug": "adhesivo-pvc-rex",
+    "categoria": "General",
+    "muestra": "ADHESIVO PVC REX 250 ML",
+    "ids": [
+      48
+    ]
+  },
+  {
+    "key": "ADHESIVO PVC VINILIT",
+    "slug": "adhesivo-pvc-vinilit",
+    "categoria": "General",
+    "muestra": "ADHESIVO PVC VINILIT 240CC",
+    "ids": [
+      49,
+      50
+    ]
+  },
+  {
+    "key": "ADHESIVO TAPAGOTERA EN",
+    "slug": "adhesivo-tapagotera-en",
+    "categoria": "General",
+    "muestra": "ADHESIVO TAPAGOTERA EN TARRO 200GR",
+    "ids": [
+      51,
+      52
+    ]
+  },
+  {
+    "key": "AGUA DESMINERALIZADA SOQUIPRA",
+    "slug": "agua-desmineralizada-soquipra",
+    "categoria": "Automotriz",
+    "muestra": "AGUA DESMINERALIZADA SOQUIPRA 5 LITROS",
+    "ids": [
+      53
+    ]
+  },
+  {
+    "key": "AGUA VERDE SOQUIPRA",
+    "slug": "agua-verde-soquipra",
+    "categoria": "Automotriz",
+    "muestra": "AGUA VERDE SOQUIPRA 5 LITROS",
+    "ids": [
+      54
+    ]
+  },
+  {
+    "key": "AGUARRAS",
+    "slug": "aguarras",
+    "categoria": "Quimicos",
+    "muestra": "AGUARRAS 1 LITRO",
+    "ids": [
+      55,
+      56
+    ]
+  },
+  {
+    "key": "AGUJA PELOTA",
+    "slug": "aguja-pelota",
+    "categoria": "Hogar",
+    "muestra": "AGUJA PELOTA",
+    "ids": [
+      57
+    ]
+  },
+  {
+    "key": "AISLAPOOL",
+    "slug": "aislapool",
+    "categoria": "General",
+    "muestra": "AISLAPOOL 50MM PACK",
+    "ids": [
+      58
+    ]
+  },
+  {
+    "key": "ALAMBRE GALVANIZADO",
+    "slug": "alambre-galvanizado",
+    "categoria": "General",
+    "muestra": "ALAMBRE GALVANIZADO 18X25 METROS",
+    "ids": [
+      59,
+      60,
+      61
+    ]
+  },
+  {
+    "key": "ALAMBRE RECOCIDO N18",
+    "slug": "alambre-recocido-n18",
+    "categoria": "General",
+    "muestra": "ALAMBRE RECOCIDO N18 1KG",
+    "ids": [
+      62
+    ]
+  },
+  {
+    "key": "ALARGADOR MACROTEL",
+    "slug": "alargador-macrotel",
+    "categoria": "Electricidad",
+    "muestra": "ALARGADOR MACROTEL 15 METROS NARANJO",
+    "ids": [
+      63
+    ]
+  },
+  {
+    "key": "ALARGADOR ZAPATILLA",
+    "slug": "alargador-zapatilla",
+    "categoria": "General",
+    "muestra": "ALARGADOR ZAPATILLA 3 METROS",
+    "ids": [
+      64,
+      65
+    ]
+  },
+  {
+    "key": "ALCOHOL ISOPROPILICO",
+    "slug": "alcohol-isopropilico",
+    "categoria": "General",
+    "muestra": "ALCOHOL ISOPROPILICO 1 LITRO",
+    "ids": [
+      66
+    ]
+  },
+  {
+    "key": "ALDABA PORTACANDADO TORO",
+    "slug": "aldaba-portacandado-toro",
+    "categoria": "General",
+    "muestra": "ALDABA PORTACANDADO TORO NEGRO 1,5\"",
+    "ids": [
+      67,
+      68,
+      69,
+      70
+    ]
+  },
+  {
+    "key": "ALGUICIDA",
+    "slug": "alguicida",
+    "categoria": "General",
+    "muestra": "ALGUICIDA 1 LITRO",
+    "ids": [
+      71
+    ]
+  },
+  {
+    "key": "ALICATE CORTANTE ECO",
+    "slug": "alicate-cortante-eco",
+    "categoria": "General",
+    "muestra": "ALICATE CORTANTE ECO 8\"",
+    "ids": [
+      72
+    ]
+  },
+  {
+    "key": "ALICATE DE PUNTA",
+    "slug": "alicate-de-punta",
+    "categoria": "General",
+    "muestra": "ALICATE DE PUNTA ECO 6\"",
+    "ids": [
+      73
+    ]
+  },
+  {
+    "key": "ALICATE NIVELADOR DE",
+    "slug": "alicate-nivelador-de",
+    "categoria": "General",
+    "muestra": "ALICATE NIVELADOR DE CERAMICA",
+    "ids": [
+      74
+    ]
+  },
+  {
+    "key": "ALICATE PICOLORO CROWMAN",
+    "slug": "alicate-picoloro-crowman",
+    "categoria": "General",
+    "muestra": "ALICATE PICOLORO CROWMAN 10\"",
+    "ids": [
+      75
+    ]
+  },
+  {
+    "key": "ALICATE PICOLORO TORO",
+    "slug": "alicate-picoloro-toro",
+    "categoria": "Herramientas Manual",
+    "muestra": "ALICATE PICOLORO TORO NEGRO 10\"",
+    "ids": [
+      76
+    ]
+  },
+  {
+    "key": "ALICATE UNIVERSAL",
+    "slug": "alicate-universal",
+    "categoria": "General",
+    "muestra": "ALICATE UNIVERSAL 7\"",
+    "ids": [
+      77
+    ]
+  },
+  {
+    "key": "ALICATE UNIVERSAL ECO",
+    "slug": "alicate-universal-eco",
+    "categoria": "General",
+    "muestra": "ALICATE UNIVERSAL ECO 8\"",
+    "ids": [
+      78
+    ]
+  },
+  {
+    "key": "AMARRA PLASTICA UNIDAD",
+    "slug": "amarra-plastica-unidad",
+    "categoria": "General",
+    "muestra": "AMARRA PLASTICA UNIDAD 10CM",
+    "ids": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85
+    ]
+  },
+  {
+    "key": "AMPOLLETA LED",
+    "slug": "ampolleta-led",
+    "categoria": "General",
+    "muestra": "AMPOLLETA LED 11W STANDFORD",
+    "ids": [
+      86,
+      87,
+      88
+    ]
+  },
+  {
+    "key": "ANTICONGELANTE -1° SOQUIPRA",
+    "slug": "anticongelante-1-soquipra",
+    "categoria": "General",
+    "muestra": "ANTICONGELANTE -1° SOQUIPRA 3.75 LITROS",
+    "ids": [
+      89
+    ]
+  },
+  {
+    "key": "ANTICORROSIVO BLANCO GALON",
+    "slug": "anticorrosivo-blanco-galon",
+    "categoria": "General",
+    "muestra": "ANTICORROSIVO BLANCO GALON PASSOL",
+    "ids": [
+      90
+    ]
+  },
+  {
+    "key": "ANTICORROSIVO EN SPRAY",
+    "slug": "anticorrosivo-en-spray",
+    "categoria": "General",
+    "muestra": "ANTICORROSIVO EN SPRAY GRIS",
+    "ids": [
+      91,
+      92
+    ]
+  },
+  {
+    "key": "ANTICORROSIVO GRIS",
+    "slug": "anticorrosivo-gris",
+    "categoria": "Pinturas",
+    "muestra": "ANTICORROSIVO GRIS 1/4 GALON PASSOL",
+    "ids": [
+      93
+    ]
+  },
+  {
+    "key": "ANTICORROSIVO GRIS GALON",
+    "slug": "anticorrosivo-gris-galon",
+    "categoria": "Pinturas",
+    "muestra": "ANTICORROSIVO GRIS GALON PASSOL",
+    "ids": [
+      94
+    ]
+  },
+  {
+    "key": "ANTICORROSIVO NEGRO",
+    "slug": "anticorrosivo-negro",
+    "categoria": "Pinturas",
+    "muestra": "ANTICORROSIVO NEGRO 1/4 GALON PASSOL",
+    "ids": [
+      95
+    ]
+  },
+  {
+    "key": "ANTICORROSIVO NEGRO GALON",
+    "slug": "anticorrosivo-negro-galon",
+    "categoria": "Pinturas",
+    "muestra": "ANTICORROSIVO NEGRO GALON PASSOL",
+    "ids": [
+      96
+    ]
+  },
+  {
+    "key": "ANTICORROSIVO ROJO GALON",
+    "slug": "anticorrosivo-rojo-galon",
+    "categoria": "General",
+    "muestra": "ANTICORROSIVO ROJO GALON PASSOL",
+    "ids": [
+      97
+    ]
+  },
+  {
+    "key": "ASIENTO WC COLOMBA",
+    "slug": "asiento-wc-colomba",
+    "categoria": "WC",
+    "muestra": "ASIENTO WC COLOMBA",
+    "ids": [
+      98
+    ]
+  },
+  {
+    "key": "ASIENTO WC ECO",
+    "slug": "asiento-wc-eco",
+    "categoria": "General",
+    "muestra": "ASIENTO WC ECO",
+    "ids": [
+      99
+    ]
+  },
+  {
+    "key": "ASPERSOR PLASTICO",
+    "slug": "aspersor-plastico",
+    "categoria": "General",
+    "muestra": "ASPERSOR PLASTICO",
+    "ids": [
+      100
+    ]
+  },
+  {
+    "key": "ATOMIZADOR PLASTICO",
+    "slug": "atomizador-plastico",
+    "categoria": "Articulos De Aseo",
+    "muestra": "ATOMIZADOR PLASTICO 1 LITRO",
+    "ids": [
+      101
+    ]
+  },
+  {
+    "key": "ATORNILLADOR CRUZ",
+    "slug": "atornillador-cruz",
+    "categoria": "General",
+    "muestra": "ATORNILLADOR CRUZ 6\"",
+    "ids": [
+      102,
+      103
+    ]
+  },
+  {
+    "key": "ATORNILLADOR PALETA",
+    "slug": "atornillador-paleta",
+    "categoria": "General",
+    "muestra": "ATORNILLADOR PALETA 6\"",
+    "ids": [
+      104
+    ]
+  },
+  {
+    "key": "AUTOMATICO",
+    "slug": "automatico",
+    "categoria": "Electricidad",
+    "muestra": "AUTOMATICO 10A",
+    "ids": [
+      105,
+      106,
+      107,
+      108,
+      109
+    ]
+  },
+  {
+    "key": "AUTOMATICO OMNIPOLAR",
+    "slug": "automatico-omnipolar",
+    "categoria": "General",
+    "muestra": "AUTOMATICO OMNIPOLAR 16A",
+    "ids": [
+      110,
+      111
+    ]
+  },
+  {
+    "key": "AZADON MANGO FIBRA",
+    "slug": "azadon-mango-fibra",
+    "categoria": "General",
+    "muestra": "AZADON MANGO FIBRA",
+    "ids": [
+      112
+    ]
+  },
+  {
+    "key": "AZADON MANGO MADERA",
+    "slug": "azadon-mango-madera",
+    "categoria": "General",
+    "muestra": "AZADON MANGO MADERA",
+    "ids": [
+      113
+    ]
+  },
+  {
+    "key": "BAJA PH POTE",
+    "slug": "baja-ph-pote",
+    "categoria": "General",
+    "muestra": "BAJA PH POTE 1 KG",
+    "ids": [
+      114
+    ]
+  },
+  {
+    "key": "BALDE CONCRETERO",
+    "slug": "balde-concretero",
+    "categoria": "General",
+    "muestra": "BALDE CONCRETERO",
+    "ids": [
+      115
+    ]
+  },
+  {
+    "key": "BANDEJA PINTURA NEGRO",
+    "slug": "bandeja-pintura-negro",
+    "categoria": "Herramientas Manual",
+    "muestra": "BANDEJA PINTURA NEGRO",
+    "ids": [
+      116
+    ]
+  },
+  {
+    "key": "BARBIQUEJO DAUMER GANCHO",
+    "slug": "barbiquejo-daumer-gancho",
+    "categoria": "Herramientas",
+    "muestra": "BARBIQUEJO DAUMER GANCHO METALICO",
+    "ids": [
+      117
+    ]
+  },
+  {
+    "key": "BARNIZ MARINO ALERCE",
+    "slug": "barniz-marino-alerce",
+    "categoria": "General",
+    "muestra": "BARNIZ MARINO ALERCE GALON",
+    "ids": [
+      118
+    ]
+  },
+  {
+    "key": "BARNIZ MARINO CAOBA",
+    "slug": "barniz-marino-caoba",
+    "categoria": "General",
+    "muestra": "BARNIZ MARINO CAOBA GALON",
+    "ids": [
+      119
+    ]
+  },
+  {
+    "key": "BARNIZ MARINO INCOLORO",
+    "slug": "barniz-marino-incoloro",
+    "categoria": "General",
+    "muestra": "BARNIZ MARINO INCOLORO GALON",
+    "ids": [
+      120,
+      121
+    ]
+  },
+  {
+    "key": "BARNIZ MARINO NOGAL",
+    "slug": "barniz-marino-nogal",
+    "categoria": "General",
+    "muestra": "BARNIZ MARINO NOGAL GALON",
+    "ids": [
+      122
+    ]
+  },
+  {
+    "key": "BARNIZ MARINO NOGAL1/4",
+    "slug": "barniz-marino-nogal1-4",
+    "categoria": "General",
+    "muestra": "BARNIZ MARINO NOGAL1/4 GALON",
+    "ids": [
+      123
+    ]
+  },
+  {
+    "key": "BARNIZ MARINO OLIVO",
+    "slug": "barniz-marino-olivo",
+    "categoria": "General",
+    "muestra": "BARNIZ MARINO OLIVO GALON",
+    "ids": [
+      124
+    ]
+  },
+  {
+    "key": "BARNIZ MARINO ROBLE",
+    "slug": "barniz-marino-roble",
+    "categoria": "General",
+    "muestra": "BARNIZ MARINO ROBLE 1/4 GALON",
+    "ids": [
+      125,
+      126
+    ]
+  },
+  {
+    "key": "BARNIZ REX",
+    "slug": "barniz-rex",
+    "categoria": "Pinturas",
+    "muestra": "BARNIZ REX 400ML ALERCE",
+    "ids": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132
+    ]
+  },
+  {
+    "key": "BARRA SILICONA",
+    "slug": "barra-silicona",
+    "categoria": "General",
+    "muestra": "BARRA SILICONA 11MM",
+    "ids": [
+      133,
+      134
+    ]
+  },
+  {
+    "key": "BARRA TOMA TIERRA",
+    "slug": "barra-toma-tierra",
+    "categoria": "General",
+    "muestra": "BARRA TOMA TIERRA 11MM",
+    "ids": [
+      135
+    ]
+  },
+  {
+    "key": "BARRE HOJAS",
+    "slug": "barre-hojas",
+    "categoria": "General",
+    "muestra": "BARRE HOJAS 22 DIENTES ECO",
+    "ids": [
+      136,
+      137
+    ]
+  },
+  {
+    "key": "BARREAGUA GOMA",
+    "slug": "barreagua-goma",
+    "categoria": "General",
+    "muestra": "BARREAGUA GOMA 50 CM",
+    "ids": [
+      138
+    ]
+  },
+  {
+    "key": "BASE RECTA LOZA",
+    "slug": "base-recta-loza",
+    "categoria": "Electricidad",
+    "muestra": "BASE RECTA LOZA STANDFORD BLANCO",
+    "ids": [
+      139
+    ]
+  },
+  {
+    "key": "BASE RECTA PLASTICA",
+    "slug": "base-recta-plastica",
+    "categoria": "Electricidad",
+    "muestra": "BASE RECTA PLASTICA STANDFORD BLANCO",
+    "ids": [
+      140
+    ]
+  },
+  {
+    "key": "BATERIA",
+    "slug": "bateria",
+    "categoria": "General",
+    "muestra": "BATERIA 9V VOLTECK",
+    "ids": [
+      141
+    ]
+  },
+  {
+    "key": "BENCINA BLANCA",
+    "slug": "bencina-blanca",
+    "categoria": "Quimicos",
+    "muestra": "BENCINA BLANCA 1/2 LT",
+    "ids": [
+      142
+    ]
+  },
+  {
+    "key": "BISAGRA PAR",
+    "slug": "bisagra-par",
+    "categoria": "Cerraduras",
+    "muestra": "BISAGRA PAR 1 1/2\"",
+    "ids": [
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153
+    ]
+  },
+  {
+    "key": "BISAGRA RECTA",
+    "slug": "bisagra-recta",
+    "categoria": "General",
+    "muestra": "BISAGRA RECTA 26MM",
+    "ids": [
+      154,
+      155
+    ]
+  },
+  {
+    "key": "BOLSA BASURA",
+    "slug": "bolsa-basura",
+    "categoria": "General",
+    "muestra": "BOLSA BASURA 50X70",
+    "ids": [
+      156,
+      157,
+      158,
+      159,
+      160
+    ]
+  },
+  {
+    "key": "BOLSA DE BASURA",
+    "slug": "bolsa-de-basura",
+    "categoria": "General",
+    "muestra": "BOLSA DE BASURA 105X150",
+    "ids": [
+      161
+    ]
+  },
+  {
+    "key": "BOMBA MANUAL PARAFINA",
+    "slug": "bomba-manual-parafina",
+    "categoria": "General",
+    "muestra": "BOMBA MANUAL PARAFINA",
+    "ids": [
+      162
+    ]
+  },
+  {
+    "key": "BOMBIN",
+    "slug": "bombin",
+    "categoria": "General",
+    "muestra": "BOMBIN 330MM",
+    "ids": [
+      163,
+      164
+    ]
+  },
+  {
+    "key": "BOTONERA DESCARGA LATERAL",
+    "slug": "botonera-descarga-lateral",
+    "categoria": "WC",
+    "muestra": "BOTONERA DESCARGA LATERAL HOFFENS CROMADO",
+    "ids": [
+      165,
+      166
+    ]
+  },
+  {
+    "key": "BRAZO DUCHA PLASTICO",
+    "slug": "brazo-ducha-plastico",
+    "categoria": "WC",
+    "muestra": "BRAZO DUCHA PLASTICO A MURO TAUMM",
+    "ids": [
+      167
+    ]
+  },
+  {
+    "key": "BROCA CERAMICA",
+    "slug": "broca-ceramica",
+    "categoria": "General",
+    "muestra": "BROCA CERAMICA 10 MM TRUPER",
+    "ids": [
+      168,
+      169,
+      170
+    ]
+  },
+  {
+    "key": "BROCA DIAMANTA",
+    "slug": "broca-diamanta",
+    "categoria": "General",
+    "muestra": "BROCA DIAMANTA 32 MM",
+    "ids": [
+      171
+    ]
+  },
+  {
+    "key": "BROCA DIAMANTADA",
+    "slug": "broca-diamantada",
+    "categoria": "General",
+    "muestra": "BROCA DIAMANTADA 110 MM",
+    "ids": [
+      172,
+      173
+    ]
+  },
+  {
+    "key": "BROCA ESCALONADA",
+    "slug": "broca-escalonada",
+    "categoria": "General",
+    "muestra": "BROCA ESCALONADA 4-32MM",
+    "ids": [
+      174
+    ]
+  },
+  {
+    "key": "BROCA FORSTNER",
+    "slug": "broca-forstner",
+    "categoria": "Brocas",
+    "muestra": "BROCA FORSTNER 26MM",
+    "ids": [
+      175,
+      176
+    ]
+  },
+  {
+    "key": "BROCA HORMIGON TOMA",
+    "slug": "broca-hormigon-toma",
+    "categoria": "General",
+    "muestra": "BROCA HORMIGON TOMA LISA DEWALT 10 MM",
+    "ids": [
+      177,
+      178,
+      179,
+      180,
+      181,
+      182
+    ]
+  },
+  {
+    "key": "BROCA MADERA DEWALT",
+    "slug": "broca-madera-dewalt",
+    "categoria": "General",
+    "muestra": "BROCA MADERA DEWALT 10 MM",
+    "ids": [
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189
+    ]
+  },
+  {
+    "key": "BROCA METAL",
+    "slug": "broca-metal",
+    "categoria": "General",
+    "muestra": "BROCA METAL 10 MM",
+    "ids": [
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212
+    ]
+  },
+  {
+    "key": "BROCA PALETA BOSCH",
+    "slug": "broca-paleta-bosch",
+    "categoria": "General",
+    "muestra": "BROCA PALETA BOSCH 32 MM",
+    "ids": [
+      213
+    ]
+  },
+  {
+    "key": "BROCA PALETA MADERA",
+    "slug": "broca-paleta-madera",
+    "categoria": "Brocas",
+    "muestra": "BROCA PALETA MADERA 1 1/2\"",
+    "ids": [
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222
+    ]
+  },
+  {
+    "key": "BROCA PALETA MAKITA",
+    "slug": "broca-paleta-makita",
+    "categoria": "Brocas",
+    "muestra": "BROCA PALETA MAKITA 16MM",
+    "ids": [
+      223
+    ]
+  },
+  {
+    "key": "BROCA PARA HORMIGON",
+    "slug": "broca-para-hormigon",
+    "categoria": "Brocas",
+    "muestra": "BROCA PARA HORMIGON TOMA LISA AKILDA 10 MM",
+    "ids": [
+      224,
+      225,
+      226
+    ]
+  },
+  {
+    "key": "BROCA SDS PLUS",
+    "slug": "broca-sds-plus",
+    "categoria": "General",
+    "muestra": "BROCA SDS PLUS 10 X 110 MM HEMIC",
+    "ids": [
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241
+    ]
+  },
+  {
+    "key": "BROCA TOMA LISA",
+    "slug": "broca-toma-lisa",
+    "categoria": "Brocas",
+    "muestra": "BROCA TOMA LISA 12MM BOSCH",
+    "ids": [
+      242,
+      243,
+      244
+    ]
+  },
+  {
+    "key": "BROCHA",
+    "slug": "brocha",
+    "categoria": "General",
+    "muestra": "BROCHA 1\"",
+    "ids": [
+      245,
+      246,
+      247,
+      248,
+      249,
+      250
+    ]
+  },
+  {
+    "key": "BROCHA ITIBRA",
+    "slug": "brocha-itibra",
+    "categoria": "Brochas",
+    "muestra": "BROCHA ITIBRA 2\"",
+    "ids": [
+      251,
+      252,
+      253,
+      254
+    ]
+  },
+  {
+    "key": "BROCHE MALLA",
+    "slug": "broche-malla",
+    "categoria": "General",
+    "muestra": "BROCHE MALLA 100UN",
+    "ids": [
+      255
+    ]
+  },
+  {
+    "key": "BROCHE MALLA UNIDAD",
+    "slug": "broche-malla-unidad",
+    "categoria": "General",
+    "muestra": "BROCHE MALLA UNIDAD",
+    "ids": [
+      256
+    ]
+  },
+  {
+    "key": "BURLETE BLANCO",
+    "slug": "burlete-blanco",
+    "categoria": "General",
+    "muestra": "BURLETE BLANCO",
+    "ids": [
+      257
+    ]
+  },
+  {
+    "key": "BURLETE CAFE",
+    "slug": "burlete-cafe",
+    "categoria": "General",
+    "muestra": "BURLETE CAFE",
+    "ids": [
+      258
+    ]
+  },
+  {
+    "key": "BURLETE GRIS",
+    "slug": "burlete-gris",
+    "categoria": "General",
+    "muestra": "BURLETE GRIS",
+    "ids": [
+      259
+    ]
+  },
+  {
+    "key": "BURLETE NEGRO",
+    "slug": "burlete-negro",
+    "categoria": "General",
+    "muestra": "BURLETE NEGRO",
+    "ids": [
+      260
+    ]
+  },
+  {
+    "key": "BUSHING PVC HIDRAULICO",
+    "slug": "bushing-pvc-hidraulico",
+    "categoria": "General",
+    "muestra": "BUSHING PVC HIDRAULICO 1X3/4\"",
+    "ids": [
+      261,
+      262
+    ]
+  },
+  {
+    "key": "BUZO PAPEL DESECHABLE",
+    "slug": "buzo-papel-desechable",
+    "categoria": "EPP",
+    "muestra": "BUZO PAPEL DESECHABLE TALLA L",
+    "ids": [
+      263,
+      264,
+      265
+    ]
+  },
+  {
+    "key": "CABLE EVA",
+    "slug": "cable-eva",
+    "categoria": "Herramientas",
+    "muestra": "CABLE EVA 1,5 BLANCO POR METRO",
+    "ids": [
+      266,
+      267,
+      268
+    ]
+  },
+  {
+    "key": "CABLE EVA BLANCO",
+    "slug": "cable-eva-blanco",
+    "categoria": "Herramientas",
+    "muestra": "CABLE EVA BLANCO POR METRO 2,5",
+    "ids": [
+      269
+    ]
+  },
+  {
+    "key": "CABLE EVA ROJO",
+    "slug": "cable-eva-rojo",
+    "categoria": "Herramientas",
+    "muestra": "CABLE EVA ROJO POR METRO 1,5",
+    "ids": [
+      270
+    ]
+  },
+  {
+    "key": "CABLE EVA VERDE",
+    "slug": "cable-eva-verde",
+    "categoria": "Herramientas",
+    "muestra": "CABLE EVA VERDE POR METRO 1,5",
+    "ids": [
+      271
+    ]
+  },
+  {
+    "key": "CABLE PARALELO NEGRO",
+    "slug": "cable-paralelo-negro",
+    "categoria": "Herramientas",
+    "muestra": "CABLE PARALELO NEGRO ULIX METRO",
+    "ids": [
+      272
+    ]
+  },
+  {
+    "key": "CABLE PARALELO ULIX",
+    "slug": "cable-paralelo-ulix",
+    "categoria": "Electricidad",
+    "muestra": "CABLE PARALELO ULIX ROLLO 100MTS BLANCO",
+    "ids": [
+      273,
+      274
+    ]
+  },
+  {
+    "key": "CABLE PASACORRIENTE",
+    "slug": "cable-pasacorriente",
+    "categoria": "General",
+    "muestra": "CABLE PASACORRIENTE 150AM",
+    "ids": [
+      275
+    ]
+  },
+  {
+    "key": "CACHIMBO BRONCE PIPA",
+    "slug": "cachimbo-bronce-pipa",
+    "categoria": "General",
+    "muestra": "CACHIMBO BRONCE PIPA HI 1/2 90° CON ESPIGA 3/8\"",
+    "ids": [
+      276
+    ]
+  },
+  {
+    "key": "CACHIMBO RECTO BRONCE",
+    "slug": "cachimbo-recto-bronce",
+    "categoria": "General",
+    "muestra": "CACHIMBO RECTO BRONCE 1/2- 3/8\"",
+    "ids": [
+      277,
+      278
+    ]
+  },
+  {
+    "key": "CADENA",
+    "slug": "cadena",
+    "categoria": "General",
+    "muestra": "CADENA 3 MM METRO",
+    "ids": [
+      279,
+      280,
+      281,
+      282
+    ]
+  },
+  {
+    "key": "CAIMAN",
+    "slug": "caiman",
+    "categoria": "General",
+    "muestra": "CAIMAN 10\"",
+    "ids": [
+      283
+    ]
+  },
+  {
+    "key": "CAJA CHINCHE DORADO",
+    "slug": "caja-chinche-dorado",
+    "categoria": "General",
+    "muestra": "CAJA CHINCHE DORADO",
+    "ids": [
+      284
+    ]
+  },
+  {
+    "key": "CAJA CHUQUI PLASTICA",
+    "slug": "caja-chuqui-plastica",
+    "categoria": "Electricidad",
+    "muestra": "CAJA CHUQUI PLASTICA",
+    "ids": [
+      285
+    ]
+  },
+  {
+    "key": "CAJA DERIVACION EMBUTIDA",
+    "slug": "caja-derivacion-embutida",
+    "categoria": "Electricidad",
+    "muestra": "CAJA DERIVACION EMBUTIDA ALFA GRIS",
+    "ids": [
+      286
+    ]
+  },
+  {
+    "key": "CAJA DERIVACIÓN EMBUTIDA",
+    "slug": "caja-derivacion-embutida-1",
+    "categoria": "Electricidad",
+    "muestra": "CAJA DERIVACIÓN EMBUTIDA HOFFENS NARANJO",
+    "ids": [
+      287
+    ]
+  },
+  {
+    "key": "CAJA DERIVACIÓN SOBRE",
+    "slug": "caja-derivacion-sobre",
+    "categoria": "Electricidad",
+    "muestra": "CAJA DERIVACIÓN SOBRE PUESTA MEC BLANCO",
+    "ids": [
+      288
+    ]
+  },
+  {
+    "key": "CAJA ESTANCA",
+    "slug": "caja-estanca",
+    "categoria": "Electricidad",
+    "muestra": "CAJA ESTANCA",
+    "ids": [
+      289
+    ]
+  },
+  {
+    "key": "CAL VIVA",
+    "slug": "cal-viva",
+    "categoria": "Quimicos",
+    "muestra": "CAL VIVA 1KG",
+    "ids": [
+      290
+    ]
+  },
+  {
+    "key": "CALAFATERA ECO ESQUELETO",
+    "slug": "calafatera-eco-esqueleto",
+    "categoria": "General",
+    "muestra": "CALAFATERA ECO ESQUELETO",
+    "ids": [
+      291
+    ]
+  },
+  {
+    "key": "CALAFATERA ECO METALICA",
+    "slug": "calafatera-eco-metalica",
+    "categoria": "General",
+    "muestra": "CALAFATERA ECO METALICA",
+    "ids": [
+      292
+    ]
+  },
+  {
+    "key": "CALAFATERA PATE",
+    "slug": "calafatera-pate",
+    "categoria": "General",
+    "muestra": "CALAFATERA PATE 600 ML",
+    "ids": [
+      293
+    ]
+  },
+  {
+    "key": "CALAFATERA REFORZADA TRUPER",
+    "slug": "calafatera-reforzada-truper",
+    "categoria": "Herramientas",
+    "muestra": "CALAFATERA REFORZADA TRUPER",
+    "ids": [
+      294
+    ]
+  },
+  {
+    "key": "CALAFATERA TRUPER ESQUELETO",
+    "slug": "calafatera-truper-esqueleto",
+    "categoria": "General",
+    "muestra": "CALAFATERA TRUPER ESQUELETO",
+    "ids": [
+      295
+    ]
+  },
+  {
+    "key": "CALAFATERA TRUPER PATE",
+    "slug": "calafatera-truper-pate",
+    "categoria": "General",
+    "muestra": "CALAFATERA TRUPER PATE 600ML",
+    "ids": [
+      296
+    ]
+  },
+  {
+    "key": "CAMARA DE BICICLETA",
+    "slug": "camara-de-bicicleta",
+    "categoria": "Bicicleta",
+    "muestra": "CAMARA DE BICICLETA 24\"",
+    "ids": [
+      297,
+      298,
+      299,
+      300
+    ]
+  },
+  {
+    "key": "CAMARA RUEDA CARRETILLA",
+    "slug": "camara-rueda-carretilla",
+    "categoria": "Herramientas Manual",
+    "muestra": "CAMARA RUEDA CARRETILLA",
+    "ids": [
+      301
+    ]
+  },
+  {
+    "key": "CANALETA ELECTRICA",
+    "slug": "canaleta-electrica",
+    "categoria": "General",
+    "muestra": "CANALETA ELECTRICA 20 X 10 CON ADHESIVO",
+    "ids": [
+      302,
+      303,
+      304,
+      305
+    ]
+  },
+  {
+    "key": "CANCAMO ABIERTO",
+    "slug": "cancamo-abierto",
+    "categoria": "Fijaciones",
+    "muestra": "CANCAMO ABIERTO NUMERO 10",
+    "ids": [
+      306,
+      307,
+      308,
+      309,
+      310
+    ]
+  },
+  {
+    "key": "CANCAMO CERRADO",
+    "slug": "cancamo-cerrado",
+    "categoria": "Fijaciones",
+    "muestra": "CANCAMO CERRADO NUMERO 10",
+    "ids": [
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317
+    ]
+  },
+  {
+    "key": "CANCAMO TIPO L",
+    "slug": "cancamo-tipo-l",
+    "categoria": "Herramientas",
+    "muestra": "CANCAMO TIPO L GRANDE",
+    "ids": [
+      318,
+      319
+    ]
+  },
+  {
+    "key": "CANDADO BICICLETA KAMASA",
+    "slug": "candado-bicicleta-kamasa",
+    "categoria": "Bicicleta",
+    "muestra": "CANDADO BICICLETA KAMASA 6MM",
+    "ids": [
+      320
+    ]
+  },
+  {
+    "key": "CANDADO DE VARILLA",
+    "slug": "candado-de-varilla",
+    "categoria": "General",
+    "muestra": "CANDADO DE VARILLA CORTA WURTH 40MM",
+    "ids": [
+      321,
+      322
+    ]
+  },
+  {
+    "key": "CANDADO ECO",
+    "slug": "candado-eco",
+    "categoria": "General",
+    "muestra": "CANDADO ECO 20MM",
+    "ids": [
+      323,
+      324,
+      325,
+      326,
+      327,
+      328
+    ]
+  },
+  {
+    "key": "CANDADO POLI",
+    "slug": "candado-poli",
+    "categoria": "General",
+    "muestra": "CANDADO POLI 30MM",
+    "ids": [
+      329,
+      330,
+      331,
+      332
+    ]
+  },
+  {
+    "key": "CAÑERIA COBRE TIPO",
+    "slug": "caneria-cobre-tipo",
+    "categoria": "General",
+    "muestra": "CAÑERIA COBRE TIPO L 1/2\" X 6 METROS",
+    "ids": [
+      333
+    ]
+  },
+  {
+    "key": "CAÑERIA PLANZA",
+    "slug": "caneria-planza",
+    "categoria": "General",
+    "muestra": "CAÑERIA PLANZA 1/2\" X 100 MTS",
+    "ids": [
+      334,
+      335,
+      336,
+      337
+    ]
+  },
+  {
+    "key": "CAPA IMPERMEABLE LIOI",
+    "slug": "capa-impermeable-lioi",
+    "categoria": "EPP",
+    "muestra": "CAPA IMPERMEABLE LIOI AZUL",
+    "ids": [
+      338
+    ]
+  },
+  {
+    "key": "CAPUCHON DE GOMA",
+    "slug": "capuchon-de-goma",
+    "categoria": "General",
+    "muestra": "CAPUCHON DE GOMA 40 MM",
+    "ids": [
+      339,
+      340
+    ]
+  },
+  {
+    "key": "CARBOLINEO",
+    "slug": "carbolineo",
+    "categoria": "General",
+    "muestra": "CARBOLINEO 1 LT",
+    "ids": [
+      341
+    ]
+  },
+  {
+    "key": "CARETA FACIAL",
+    "slug": "careta-facial",
+    "categoria": "General",
+    "muestra": "CARETA FACIAL",
+    "ids": [
+      342
+    ]
+  },
+  {
+    "key": "CARRETILLA DOSIFICADORA C/",
+    "slug": "carretilla-dosificadora-c",
+    "categoria": "General",
+    "muestra": "CARRETILLA DOSIFICADORA C/ RUEDA",
+    "ids": [
+      343
+    ]
+  },
+  {
+    "key": "CARTON CORRUGADO",
+    "slug": "carton-corrugado",
+    "categoria": "General",
+    "muestra": "CARTON CORRUGADO 1,20 X 10 MTS",
+    "ids": [
+      344
+    ]
+  },
+  {
+    "key": "CARTONERO ALUMINIO ASAKI",
+    "slug": "cartonero-aluminio-asaki",
+    "categoria": "General",
+    "muestra": "CARTONERO ALUMINIO ASAKI",
+    "ids": [
+      345
+    ]
+  },
+  {
+    "key": "CARTONERO METALICO",
+    "slug": "cartonero-metalico",
+    "categoria": "Herramientas Manual",
+    "muestra": "CARTONERO METALICO",
+    "ids": [
+      346
+    ]
+  },
+  {
+    "key": "CARTONERO WURTH",
+    "slug": "cartonero-wurth",
+    "categoria": "General",
+    "muestra": "CARTONERO WURTH",
+    "ids": [
+      347
+    ]
+  },
+  {
+    "key": "CARTONERO YTS",
+    "slug": "cartonero-yts",
+    "categoria": "General",
+    "muestra": "CARTONERO YTS 18MM",
+    "ids": [
+      348
+    ]
+  },
+  {
+    "key": "CAUTIN",
+    "slug": "cautin",
+    "categoria": "General",
+    "muestra": "CAUTIN 30W",
+    "ids": [
+      349
+    ]
+  },
+  {
+    "key": "CELOSIA ALUMINIO BLANCA",
+    "slug": "celosia-aluminio-blanca",
+    "categoria": "Herramientas",
+    "muestra": "CELOSIA ALUMINIO BLANCA LIOI 25X25",
+    "ids": [
+      350,
+      351,
+      352
+    ]
+  },
+  {
+    "key": "CELOSIA PLANA",
+    "slug": "celosia-plana",
+    "categoria": "General",
+    "muestra": "CELOSIA PLANA 15X15CM",
+    "ids": [
+      353,
+      354
+    ]
+  },
+  {
+    "key": "CELOSIA PLASTICA BLANCA",
+    "slug": "celosia-plastica-blanca",
+    "categoria": "Herramientas",
+    "muestra": "CELOSIA PLASTICA BLANCA LIOI 30X30",
+    "ids": [
+      355
+    ]
+  },
+  {
+    "key": "CEMENTO",
+    "slug": "cemento",
+    "categoria": "General",
+    "muestra": "CEMENTO KG",
+    "ids": [
+      356
+    ]
+  },
+  {
+    "key": "CEMENTO TX",
+    "slug": "cemento-tx",
+    "categoria": "General",
+    "muestra": "CEMENTO TX 25KG",
+    "ids": [
+      357
+    ]
+  },
+  {
+    "key": "CEPILLO PARA BAÑO",
+    "slug": "cepillo-para-bano",
+    "categoria": "General",
+    "muestra": "CEPILLO PARA BAÑO",
+    "ids": [
+      358
+    ]
+  },
+  {
+    "key": "CERRADURA ACCESO POLI",
+    "slug": "cerradura-acceso-poli",
+    "categoria": "Cerraduras",
+    "muestra": "CERRADURA ACCESO POLI CHILENA 2010",
+    "ids": [
+      359
+    ]
+  },
+  {
+    "key": "CERRADURA ACCESO REJA",
+    "slug": "cerradura-acceso-reja",
+    "categoria": "General",
+    "muestra": "CERRADURA ACCESO REJA POLI CON CAJA",
+    "ids": [
+      360
+    ]
+  },
+  {
+    "key": "CERRADURA BAÑO/DORMITORIO POLI",
+    "slug": "cerradura-bano-dormitorio-poli",
+    "categoria": "General",
+    "muestra": "CERRADURA BAÑO/DORMITORIO POLI",
+    "ids": [
+      361
+    ]
+  },
+  {
+    "key": "CERRADURA OFICINA/DORMITORIO POLI",
+    "slug": "cerradura-oficina-dormitorio-poli",
+    "categoria": "General",
+    "muestra": "CERRADURA OFICINA/DORMITORIO POLI",
+    "ids": [
+      362
+    ]
+  },
+  {
+    "key": "CERRADURA PORTON TIPO",
+    "slug": "cerradura-porton-tipo",
+    "categoria": "Cerraduras",
+    "muestra": "CERRADURA PORTON TIPO CANGREJO TORO NEGRO",
+    "ids": [
+      363
+    ]
+  },
+  {
+    "key": "CERRADURA SIMPLE PASO",
+    "slug": "cerradura-simple-paso",
+    "categoria": "General",
+    "muestra": "CERRADURA SIMPLE PASO POLI",
+    "ids": [
+      364
+    ]
+  },
+  {
+    "key": "CERROJO CARCELERO TORO",
+    "slug": "cerrojo-carcelero-toro",
+    "categoria": "Cerraduras",
+    "muestra": "CERROJO CARCELERO TORO NEGRO 10\"",
+    "ids": [
+      365
+    ]
+  },
+  {
+    "key": "CHALECO GEOLOGO AMARILLO",
+    "slug": "chaleco-geologo-amarillo",
+    "categoria": "General",
+    "muestra": "CHALECO GEOLOGO AMARILLO TALLA L",
+    "ids": [
+      366,
+      367,
+      368,
+      369,
+      370
+    ]
+  },
+  {
+    "key": "CHALECO GEOLOGO AZUL",
+    "slug": "chaleco-geologo-azul",
+    "categoria": "General",
+    "muestra": "CHALECO GEOLOGO AZUL TALLA L",
+    "ids": [
+      371,
+      372,
+      373,
+      374,
+      375
+    ]
+  },
+  {
+    "key": "CHALECO REFLECTANTE AMARILLO",
+    "slug": "chaleco-reflectante-amarillo",
+    "categoria": "General",
+    "muestra": "CHALECO REFLECTANTE AMARILLO ESTANDAR",
+    "ids": [
+      376
+    ]
+  },
+  {
+    "key": "CHALLA PEPITA",
+    "slug": "challa-pepita",
+    "categoria": "General",
+    "muestra": "CHALLA PEPITA",
+    "ids": [
+      377
+    ]
+  },
+  {
+    "key": "CHALLA SWERTT",
+    "slug": "challa-swertt",
+    "categoria": "General",
+    "muestra": "CHALLA SWERTT",
+    "ids": [
+      378
+    ]
+  },
+  {
+    "key": "CHASCON CHIMENEA",
+    "slug": "chascon-chimenea",
+    "categoria": "General",
+    "muestra": "CHASCON CHIMENEA 5\"",
+    "ids": [
+      379,
+      380,
+      381
+    ]
+  },
+  {
+    "key": "CHASCON PULIR PELO",
+    "slug": "chascon-pulir-pelo",
+    "categoria": "General",
+    "muestra": "CHASCON PULIR PELO DORADO 3\"",
+    "ids": [
+      382,
+      383
+    ]
+  },
+  {
+    "key": "CHINCHE TORO NEGRO",
+    "slug": "chinche-toro-negro",
+    "categoria": "Herramientas Manual",
+    "muestra": "CHINCHE TORO NEGRO UNIDAD DORADO",
+    "ids": [
+      384
+    ]
+  },
+  {
+    "key": "CHOLGUAN LISO",
+    "slug": "cholguan-liso",
+    "categoria": "General",
+    "muestra": "CHOLGUAN LISO",
+    "ids": [
+      385
+    ]
+  },
+  {
+    "key": "CHUZO HEX",
+    "slug": "chuzo-hex",
+    "categoria": "General",
+    "muestra": "CHUZO HEX 1 1/4\"",
+    "ids": [
+      386
+    ]
+  },
+  {
+    "key": "CIF CREMA",
+    "slug": "cif-crema",
+    "categoria": "General",
+    "muestra": "CIF CREMA",
+    "ids": [
+      387
+    ]
+  },
+  {
+    "key": "CINCEL MANUAL AKILDA",
+    "slug": "cincel-manual-akilda",
+    "categoria": "Herramientas Manual",
+    "muestra": "CINCEL MANUAL AKILDA DE PUNTA",
+    "ids": [
+      388,
+      389
+    ]
+  },
+  {
+    "key": "CINCEL SDS PUNTA",
+    "slug": "cincel-sds-punta",
+    "categoria": "General",
+    "muestra": "CINCEL SDS PUNTA 10\"",
+    "ids": [
+      390,
+      391
+    ]
+  },
+  {
+    "key": "CINTA AISLANTE",
+    "slug": "cinta-aislante",
+    "categoria": "General",
+    "muestra": "CINTA AISLANTE 10 METROS",
+    "ids": [
+      392,
+      393
+    ]
+  },
+  {
+    "key": "CINTA ALUMINIO",
+    "slug": "cinta-aluminio",
+    "categoria": "General",
+    "muestra": "CINTA ALUMINIO 48 MM X 30 MTS",
+    "ids": [
+      394,
+      395
+    ]
+  },
+  {
+    "key": "CINTA DOBLE CONTACTO",
+    "slug": "cinta-doble-contacto",
+    "categoria": "Cintas",
+    "muestra": "CINTA DOBLE CONTACTO TRUPPER 1,5MTS",
+    "ids": [
+      396,
+      397
+    ]
+  },
+  {
+    "key": "CINTA DUCTO",
+    "slug": "cinta-ducto",
+    "categoria": "General",
+    "muestra": "CINTA DUCTO 48MM X 10 MTS",
+    "ids": [
+      398
+    ]
+  },
+  {
+    "key": "CINTA EMBALAJE",
+    "slug": "cinta-embalaje",
+    "categoria": "General",
+    "muestra": "CINTA EMBALAJE 100 METROS",
+    "ids": [
+      399,
+      400,
+      401
+    ]
+  },
+  {
+    "key": "CINTA GOMA AUTOFUNDENTE",
+    "slug": "cinta-goma-autofundente",
+    "categoria": "Cintas",
+    "muestra": "CINTA GOMA AUTOFUNDENTE STANDFORD NEGRO",
+    "ids": [
+      402
+    ]
+  },
+  {
+    "key": "CINTA PARA JUNTAS",
+    "slug": "cinta-para-juntas",
+    "categoria": "Cintas",
+    "muestra": "CINTA PARA JUNTAS 48MMX40MTS",
+    "ids": [
+      403,
+      404,
+      405
+    ]
+  },
+  {
+    "key": "CINTA PELIGRO",
+    "slug": "cinta-peligro",
+    "categoria": "General",
+    "muestra": "CINTA PELIGRO 100 MTS",
+    "ids": [
+      406
+    ]
+  },
+  {
+    "key": "CINTA PERFORADA",
+    "slug": "cinta-perforada",
+    "categoria": "General",
+    "muestra": "CINTA PERFORADA",
+    "ids": [
+      407
+    ]
+  },
+  {
+    "key": "CINTA TAPAGOTERA",
+    "slug": "cinta-tapagotera",
+    "categoria": "General",
+    "muestra": "CINTA TAPAGOTERA 100MM X 4,3 MTS",
+    "ids": [
+      408
+    ]
+  },
+  {
+    "key": "CLARIFICANTE PISCINA LIQUIDO",
+    "slug": "clarificante-piscina-liquido",
+    "categoria": "General",
+    "muestra": "CLARIFICANTE PISCINA LIQUIDO 1 LITRO",
+    "ids": [
+      409
+    ]
+  },
+  {
+    "key": "CLAVO ACERO NEGRO",
+    "slug": "clavo-acero-negro",
+    "categoria": "General",
+    "muestra": "CLAVO ACERO NEGRO 25 MM BOLSA 100 UN",
+    "ids": [
+      410,
+      411
+    ]
+  },
+  {
+    "key": "CLAVO CORRIENTE",
+    "slug": "clavo-corriente",
+    "categoria": "General",
+    "muestra": "CLAVO CORRIENTE 2\"",
+    "ids": [
+      412,
+      413,
+      414,
+      415,
+      416,
+      417,
+      418
+    ]
+  },
+  {
+    "key": "CLAVO SDM",
+    "slug": "clavo-sdm",
+    "categoria": "General",
+    "muestra": "CLAVO SDM 1 1/2\"",
+    "ids": [
+      419,
+      420,
+      421,
+      422,
+      423,
+      424
+    ]
+  },
+  {
+    "key": "CLAVO TECHO",
+    "slug": "clavo-techo",
+    "categoria": "General",
+    "muestra": "CLAVO TECHO 1 3/4\" BOLSA 100 UN",
+    "ids": [
+      425,
+      426
+    ]
+  },
+  {
+    "key": "CLIP PORTA GUANTE",
+    "slug": "clip-porta-guante",
+    "categoria": "General",
+    "muestra": "CLIP PORTA GUANTE",
+    "ids": [
+      427
+    ]
+  },
+  {
+    "key": "CLORO GEL",
+    "slug": "cloro-gel",
+    "categoria": "General",
+    "muestra": "CLORO GEL",
+    "ids": [
+      428
+    ]
+  },
+  {
+    "key": "CLORO LIQUIDO CONCENTRADO",
+    "slug": "cloro-liquido-concentrado",
+    "categoria": "General",
+    "muestra": "CLORO LIQUIDO CONCENTRADO 5 LTS",
+    "ids": [
+      429
+    ]
+  },
+  {
+    "key": "CLORO PISCINA GRANULADO",
+    "slug": "cloro-piscina-granulado",
+    "categoria": "General",
+    "muestra": "CLORO PISCINA GRANULADO 1 KG",
+    "ids": [
+      430
+    ]
+  },
+  {
+    "key": "CLORO PISCINA TABLETA",
+    "slug": "cloro-piscina-tableta",
+    "categoria": "General",
+    "muestra": "CLORO PISCINA TABLETA 1 KG.",
+    "ids": [
+      431
+    ]
+  },
+  {
+    "key": "CLORO PISCINA TRIPLE",
+    "slug": "cloro-piscina-triple",
+    "categoria": "General",
+    "muestra": "CLORO PISCINA TRIPLE ACCION 1 KG",
+    "ids": [
+      432
+    ]
+  },
+  {
+    "key": "CODO DOBLE PPR",
+    "slug": "codo-doble-ppr",
+    "categoria": "General",
+    "muestra": "CODO DOBLE PPR 20 X 1/2 HI",
+    "ids": [
+      433
+    ]
+  },
+  {
+    "key": "CODO PLANZA",
+    "slug": "codo-planza",
+    "categoria": "General",
+    "muestra": "CODO PLANZA 1\"",
+    "ids": [
+      434,
+      435,
+      436
+    ]
+  },
+  {
+    "key": "CODO PPR",
+    "slug": "codo-ppr",
+    "categoria": "Fitting PPR",
+    "muestra": "CODO PPR 20X45° SOLDAR",
+    "ids": [
+      437,
+      438,
+      439,
+      440,
+      441,
+      442
+    ]
+  },
+  {
+    "key": "CODO PPR HE",
+    "slug": "codo-ppr-he",
+    "categoria": "General",
+    "muestra": "CODO PPR HE 20X1/2",
+    "ids": [
+      443,
+      444
+    ]
+  },
+  {
+    "key": "CODO PPR HI",
+    "slug": "codo-ppr-hi",
+    "categoria": "General",
+    "muestra": "CODO PPR HI 20X1/2",
+    "ids": [
+      445,
+      446,
+      447
+    ]
+  },
+  {
+    "key": "CODO PVC HIDRAULICO",
+    "slug": "codo-pvc-hidraulico",
+    "categoria": "Fitting Hidraulico",
+    "muestra": "CODO PVC HIDRAULICO 25MM",
+    "ids": [
+      448,
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456,
+      457,
+      458
+    ]
+  },
+  {
+    "key": "CODO PVC SANITARIO",
+    "slug": "codo-pvc-sanitario",
+    "categoria": "Fitting PVC",
+    "muestra": "CODO PVC SANITARIO 110MMX45",
+    "ids": [
+      459,
+      460,
+      461,
+      462,
+      463,
+      464,
+      465,
+      466
+    ]
+  },
+  {
+    "key": "CODO SO -",
+    "slug": "codo-so",
+    "categoria": "Fitting",
+    "muestra": "CODO SO - HE BRONCE 1/2\"",
+    "ids": [
+      467,
+      468,
+      469,
+      470
+    ]
+  },
+  {
+    "key": "COLA FRIA",
+    "slug": "cola-fria",
+    "categoria": "General",
+    "muestra": "COLA FRIA 1/2 KG",
+    "ids": [
+      471
+    ]
+  },
+  {
+    "key": "COLCHON",
+    "slug": "colchon",
+    "categoria": "General",
+    "muestra": "COLCHON 1 PLAZA",
+    "ids": [
+      472
+    ]
+  },
+  {
+    "key": "COLETO PORTA HERRAMIENTAS",
+    "slug": "coleto-porta-herramientas",
+    "categoria": "General",
+    "muestra": "COLETO PORTA HERRAMIENTAS",
+    "ids": [
+      473
+    ]
+  },
+  {
+    "key": "COLLARIN SELLO ESTANQUE",
+    "slug": "collarin-sello-estanque",
+    "categoria": "WC",
+    "muestra": "COLLARIN SELLO ESTANQUE TAZA NEGRO",
+    "ids": [
+      474
+    ]
+  },
+  {
+    "key": "COMBINACION LAVAPLATO ANTOINETTE",
+    "slug": "combinacion-lavaplato-antoinette",
+    "categoria": "General",
+    "muestra": "COMBINACION LAVAPLATO ANTOINETTE TAUMM",
+    "ids": [
+      475
+    ]
+  },
+  {
+    "key": "COMBINACION LAVAPLATO ANTONELLA",
+    "slug": "combinacion-lavaplato-antonella",
+    "categoria": "General",
+    "muestra": "COMBINACION LAVAPLATO ANTONELLA",
+    "ids": [
+      476,
+      477
+    ]
+  },
+  {
+    "key": "COMBINACION LAVAPLATOS MIRAGE",
+    "slug": "combinacion-lavaplatos-mirage",
+    "categoria": "General",
+    "muestra": "COMBINACION LAVAPLATOS MIRAGE TAUMM",
+    "ids": [
+      478
+    ]
+  },
+  {
+    "key": "CONECTOR BRONCE BARRA",
+    "slug": "conector-bronce-barra",
+    "categoria": "General",
+    "muestra": "CONECTOR BRONCE BARRA COOPER",
+    "ids": [
+      479
+    ]
+  },
+  {
+    "key": "CONECTOR DE MANGUERA",
+    "slug": "conector-de-manguera",
+    "categoria": "General",
+    "muestra": "CONECTOR DE MANGUERA 1/2\"",
+    "ids": [
+      480,
+      481
+    ]
+  },
+  {
+    "key": "CONECTOR RAPIDO MANGUERA",
+    "slug": "conector-rapido-manguera",
+    "categoria": "Jardin",
+    "muestra": "CONECTOR RAPIDO MANGUERA 1/2\"",
+    "ids": [
+      482,
+      483
+    ]
+  },
+  {
+    "key": "COPA HEXAGONAL",
+    "slug": "copa-hexagonal",
+    "categoria": "General",
+    "muestra": "COPA HEXAGONAL 1/4\" TRUPER",
+    "ids": [
+      484,
+      485,
+      486,
+      487
+    ]
+  },
+  {
+    "key": "COPA TRENZADA",
+    "slug": "copa-trenzada",
+    "categoria": "Abrasivo",
+    "muestra": "COPA TRENZADA 3\"",
+    "ids": [
+      488,
+      489
+    ]
+  },
+  {
+    "key": "COPLA PPR",
+    "slug": "copla-ppr",
+    "categoria": "Fitting PPR",
+    "muestra": "COPLA PPR 20MM SOLDAR",
+    "ids": [
+      490,
+      491,
+      492
+    ]
+  },
+  {
+    "key": "COPLA PVC HIDRAULICO",
+    "slug": "copla-pvc-hidraulico",
+    "categoria": "Herramientas",
+    "muestra": "COPLA PVC HIDRAULICO 20MM",
+    "ids": [
+      493,
+      494,
+      495,
+      496
+    ]
+  },
+  {
+    "key": "COPLA PVC SANITARIO",
+    "slug": "copla-pvc-sanitario",
+    "categoria": "Fitting PVC",
+    "muestra": "COPLA PVC SANITARIO 110MM",
+    "ids": [
+      497,
+      498,
+      499,
+      500
+    ]
+  },
+  {
+    "key": "COPLA SO BRONCE",
+    "slug": "copla-so-bronce",
+    "categoria": "General",
+    "muestra": "COPLA SO BRONCE 1/2 PASADA",
+    "ids": [
+      501,
+      502,
+      503
+    ]
+  },
+  {
+    "key": "CORCHETE ECO",
+    "slug": "corchete-eco",
+    "categoria": "General",
+    "muestra": "CORCHETE ECO 10MM",
+    "ids": [
+      504,
+      505,
+      506
+    ]
+  },
+  {
+    "key": "CORCHETE TRUPER",
+    "slug": "corchete-truper",
+    "categoria": "General",
+    "muestra": "CORCHETE TRUPER 10MM CAJA 1000U",
+    "ids": [
+      507,
+      508,
+      509
+    ]
+  },
+  {
+    "key": "CORDEL",
+    "slug": "cordel",
+    "categoria": "Hogar",
+    "muestra": "CORDEL 6MMX15 METROS",
+    "ids": [
+      510,
+      511,
+      512,
+      515,
+      516
+    ]
+  },
+  {
+    "key": "CORDEL PERLON",
+    "slug": "cordel-perlon",
+    "categoria": "General",
+    "muestra": "CORDEL PERLON 12 MM X 1 METRO",
+    "ids": [
+      513,
+      514
+    ]
+  },
+  {
+    "key": "CORDEL YTS",
+    "slug": "cordel-yts",
+    "categoria": "General",
+    "muestra": "CORDEL YTS 15 MTS",
+    "ids": [
+      517
+    ]
+  },
+  {
+    "key": "CORNERPLAC ESQUINERO PARA",
+    "slug": "cornerplac-esquinero-para",
+    "categoria": "General",
+    "muestra": "CORNERPLAC ESQUINERO PARA JUNTAS 5CMX30MTS",
+    "ids": [
+      518
+    ]
+  },
+  {
+    "key": "CORNIZA E6",
+    "slug": "corniza-e6",
+    "categoria": "General",
+    "muestra": "CORNIZA E6 33 X 32 MM X 2 MTS",
+    "ids": [
+      519
+    ]
+  },
+  {
+    "key": "CORTA TUBO",
+    "slug": "corta-tubo",
+    "categoria": "General",
+    "muestra": "CORTA TUBO 3MM A 28MM",
+    "ids": [
+      520
+    ]
+  },
+  {
+    "key": "CORTADOR DE VIDRIO",
+    "slug": "cortador-de-vidrio",
+    "categoria": "General",
+    "muestra": "CORTADOR DE VIDRIO 2-12 MM",
+    "ids": [
+      521
+    ]
+  },
+  {
+    "key": "CORTADOR TUBO COBRE",
+    "slug": "cortador-tubo-cobre",
+    "categoria": "Herramientas Manual",
+    "muestra": "CORTADOR TUBO COBRE 5/18",
+    "ids": [
+      522
+    ]
+  },
+  {
+    "key": "CREOLINA",
+    "slug": "creolina",
+    "categoria": "General",
+    "muestra": "CREOLINA 1 LITRO",
+    "ids": [
+      523
+    ]
+  },
+  {
+    "key": "CUARTO RODON",
+    "slug": "cuarto-rodon",
+    "categoria": "General",
+    "muestra": "CUARTO RODON 1\"",
+    "ids": [
+      524
+    ]
+  },
+  {
+    "key": "CUCHILLO CEPILLADORA MAKITA",
+    "slug": "cuchillo-cepilladora-makita",
+    "categoria": "General",
+    "muestra": "CUCHILLO CEPILLADORA MAKITA PAR",
+    "ids": [
+      525
+    ]
+  },
+  {
+    "key": "CUERDA ACERADA",
+    "slug": "cuerda-acerada",
+    "categoria": "General",
+    "muestra": "CUERDA ACERADA 10 MM",
+    "ids": [
+      526
+    ]
+  },
+  {
+    "key": "CUERDA YUTE",
+    "slug": "cuerda-yute",
+    "categoria": "General",
+    "muestra": "CUERDA YUTE 12MM X METRO",
+    "ids": [
+      527
+    ]
+  },
+  {
+    "key": "CUÑA DE NIVELACION",
+    "slug": "cuna-de-nivelacion",
+    "categoria": "General",
+    "muestra": "CUÑA DE NIVELACION CERAMICA",
+    "ids": [
+      528
+    ]
+  },
+  {
+    "key": "CURVA CONDUIT",
+    "slug": "curva-conduit",
+    "categoria": "Canalizacion",
+    "muestra": "CURVA CONDUIT 16MM",
+    "ids": [
+      529,
+      530,
+      531,
+      532
+    ]
+  },
+  {
+    "key": "CURVA EXTERNA PARA",
+    "slug": "curva-externa-para",
+    "categoria": "Electricidad",
+    "muestra": "CURVA EXTERNA PARA CANALETA ELECTRICA HOFFENS BLANCO",
+    "ids": [
+      533
+    ]
+  },
+  {
+    "key": "CURVA INTERNA PARA",
+    "slug": "curva-interna-para",
+    "categoria": "Electricidad",
+    "muestra": "CURVA INTERNA PARA CANALETA ELECTRICA HOFFENS BLANCO",
+    "ids": [
+      534
+    ]
+  },
+  {
+    "key": "CURVA PLANA PARA",
+    "slug": "curva-plana-para",
+    "categoria": "Electricidad",
+    "muestra": "CURVA PLANA PARA CANALETA ELECTRICA HOFFENS BLANCO",
+    "ids": [
+      535
+    ]
+  },
+  {
+    "key": "CURVADOR DE CONDUIT",
+    "slug": "curvador-de-conduit",
+    "categoria": "General",
+    "muestra": "CURVADOR DE CONDUIT 16 MM",
+    "ids": [
+      536,
+      537
+    ]
+  },
+  {
+    "key": "DADO POLIGONAL HOTECHE",
+    "slug": "dado-poligonal-hoteche",
+    "categoria": "Herramientas Manual",
+    "muestra": "DADO POLIGONAL HOTECHE 10MM",
+    "ids": [
+      538,
+      539,
+      540,
+      541,
+      542,
+      543,
+      544,
+      545,
+      546,
+      547,
+      548
+    ]
+  },
+  {
+    "key": "DECANTADOR POTE",
+    "slug": "decantador-pote",
+    "categoria": "General",
+    "muestra": "DECANTADOR POTE 1 KG",
+    "ids": [
+      549
+    ]
+  },
+  {
+    "key": "DERIVACION CABLE COAXIAL",
+    "slug": "derivacion-cable-coaxial",
+    "categoria": "Herramientas",
+    "muestra": "DERIVACION CABLE COAXIAL",
+    "ids": [
+      550
+    ]
+  },
+  {
+    "key": "DESAGUE CON COLA",
+    "slug": "desague-con-cola",
+    "categoria": "Sifones",
+    "muestra": "DESAGUE CON COLA LAVAMANOS 1 1/4 BLANCO",
+    "ids": [
+      551,
+      552
+    ]
+  },
+  {
+    "key": "DESAGUE CON REBALSE",
+    "slug": "desague-con-rebalse",
+    "categoria": "Sifones",
+    "muestra": "DESAGUE CON REBALSE LAVAPLATOS TAUMM BLANCO",
+    "ids": [
+      553
+    ]
+  },
+  {
+    "key": "DESAGUE CON SIFON",
+    "slug": "desague-con-sifon",
+    "categoria": "General",
+    "muestra": "DESAGUE CON SIFON CORRUGADO TAUMM",
+    "ids": [
+      554
+    ]
+  },
+  {
+    "key": "DESAGUE DE TINA",
+    "slug": "desague-de-tina",
+    "categoria": "General",
+    "muestra": "DESAGUE DE TINA CON REBALSE 1 1/2\"",
+    "ids": [
+      555
+    ]
+  },
+  {
+    "key": "DESAGUE LAVAMANOS",
+    "slug": "desague-lavamanos",
+    "categoria": "General",
+    "muestra": "DESAGUE LAVAMANOS 1 1/4\" BORDE CROMADO",
+    "ids": [
+      556
+    ]
+  },
+  {
+    "key": "DESAGUE LAVAMANOS METALICO",
+    "slug": "desague-lavamanos-metalico",
+    "categoria": "General",
+    "muestra": "DESAGUE LAVAMANOS METALICO S/ COLA",
+    "ids": [
+      557
+    ]
+  },
+  {
+    "key": "DESAGUE LAVAPLATO GRANDE",
+    "slug": "desague-lavaplato-grande",
+    "categoria": "General",
+    "muestra": "DESAGUE LAVAPLATO GRANDE",
+    "ids": [
+      558
+    ]
+  },
+  {
+    "key": "DESAGUE LAVAPLATOS",
+    "slug": "desague-lavaplatos",
+    "categoria": "General",
+    "muestra": "DESAGUE LAVAPLATOS 1 1/2 SIN COLA",
+    "ids": [
+      559,
+      560
+    ]
+  },
+  {
+    "key": "DESENGRASANTE MOTOR REX",
+    "slug": "desengrasante-motor-rex",
+    "categoria": "General",
+    "muestra": "DESENGRASANTE MOTOR REX 450ML",
+    "ids": [
+      561
+    ]
+  },
+  {
+    "key": "DESENGRASANTE MOTOR SOQUIPRA",
+    "slug": "desengrasante-motor-soquipra",
+    "categoria": "Automotriz",
+    "muestra": "DESENGRASANTE MOTOR SOQUIPRA 1 LITRO",
+    "ids": [
+      562
+    ]
+  },
+  {
+    "key": "DESINFECTANTE A/SOL",
+    "slug": "desinfectante-a-sol",
+    "categoria": "General",
+    "muestra": "DESINFECTANTE A/SOL 360CC LYSOFORM",
+    "ids": [
+      563
+    ]
+  },
+  {
+    "key": "DESODORANTE AMBIENTAL",
+    "slug": "desodorante-ambiental",
+    "categoria": "General",
+    "muestra": "DESODORANTE AMBIENTAL",
+    "ids": [
+      564
+    ]
+  },
+  {
+    "key": "DESOXIDANTE",
+    "slug": "desoxidante",
+    "categoria": "Quimicos",
+    "muestra": "DESOXIDANTE 1 LT",
+    "ids": [
+      565
+    ]
+  },
+  {
+    "key": "DIABLO",
+    "slug": "diablo",
+    "categoria": "Herramientas Manual",
+    "muestra": "DIABLO 24\"",
+    "ids": [
+      566,
+      567
+    ]
+  },
+  {
+    "key": "DIFERENCIAL",
+    "slug": "diferencial",
+    "categoria": "Electricidad",
+    "muestra": "DIFERENCIAL 25A",
+    "ids": [
+      568
+    ]
+  },
+  {
+    "key": "DILUYENTE ACRILICO",
+    "slug": "diluyente-acrilico",
+    "categoria": "General",
+    "muestra": "DILUYENTE ACRILICO 1 LITRO",
+    "ids": [
+      569
+    ]
+  },
+  {
+    "key": "DILUYENTE DUCO",
+    "slug": "diluyente-duco",
+    "categoria": "Quimicos",
+    "muestra": "DILUYENTE DUCO 1 LITRO",
+    "ids": [
+      570
+    ]
+  },
+  {
+    "key": "DILUYENTE EPOXICO",
+    "slug": "diluyente-epoxico",
+    "categoria": "General",
+    "muestra": "DILUYENTE EPOXICO 1 LITRO",
+    "ids": [
+      571
+    ]
+  },
+  {
+    "key": "DILUYENTE POLIURETANO",
+    "slug": "diluyente-poliuretano",
+    "categoria": "General",
+    "muestra": "DILUYENTE POLIURETANO 1 LITRO",
+    "ids": [
+      572
+    ]
+  },
+  {
+    "key": "DILUYENTE SINTETICO",
+    "slug": "diluyente-sintetico",
+    "categoria": "Quimicos",
+    "muestra": "DILUYENTE SINTETICO 1 LITRO",
+    "ids": [
+      573,
+      574
+    ]
+  },
+  {
+    "key": "DISCO DE DESBASTE",
+    "slug": "disco-de-desbaste",
+    "categoria": "General",
+    "muestra": "DISCO DE DESBASTE HORMIGON 4 1/2\" SIMPLE",
+    "ids": [
+      575,
+      585,
+      586,
+      587,
+      588,
+      589
+    ]
+  },
+  {
+    "key": "DISCO MULTIMATERIAL",
+    "slug": "disco-multimaterial",
+    "categoria": "General",
+    "muestra": "DISCO MULTIMATERIAL 4 1/2\" KAMASA",
+    "ids": [
+      576,
+      606
+    ]
+  },
+  {
+    "key": "DISCO DE CORTE",
+    "slug": "disco-de-corte",
+    "categoria": "General",
+    "muestra": "DISCO DE CORTE METAL 4 1/2\" KRAFTER",
+    "ids": [
+      577,
+      578,
+      579,
+      580,
+      581,
+      582,
+      583,
+      584
+    ]
+  },
+  {
+    "key": "DISCO DE LIMPIEZA",
+    "slug": "disco-de-limpieza",
+    "categoria": "General",
+    "muestra": "DISCO DE LIMPIEZA 4 1/2\" HEMIC",
+    "ids": [
+      590
+    ]
+  },
+  {
+    "key": "DISCO DESBASTE METAL",
+    "slug": "disco-desbaste-metal",
+    "categoria": "General",
+    "muestra": "DISCO DESBASTE METAL 7\"",
+    "ids": [
+      591
+    ]
+  },
+  {
+    "key": "DISCO DIAMANTADO",
+    "slug": "disco-diamantado",
+    "categoria": "General",
+    "muestra": "DISCO DIAMANTADO 4 1/2 LISO",
+    "ids": [
+      592,
+      593,
+      594,
+      595
+    ]
+  },
+  {
+    "key": "DISCO DIAMANTADO PARA",
+    "slug": "disco-diamantado-para",
+    "categoria": "General",
+    "muestra": "DISCO DIAMANTADO PARA VIDRIO 4 1/2\"",
+    "ids": [
+      596
+    ]
+  },
+  {
+    "key": "DISCO DIAMANTADO ULTRA",
+    "slug": "disco-diamantado-ultra",
+    "categoria": "General",
+    "muestra": "DISCO DIAMANTADO ULTRA FINO 4 1/2\"",
+    "ids": [
+      597
+    ]
+  },
+  {
+    "key": "DISCO ESCOFINA PARA",
+    "slug": "disco-escofina-para",
+    "categoria": "General",
+    "muestra": "DISCO ESCOFINA PARA GALLETERO",
+    "ids": [
+      598
+    ]
+  },
+  {
+    "key": "DISCO FLAP MADERA",
+    "slug": "disco-flap-madera",
+    "categoria": "Abrasivo",
+    "muestra": "DISCO FLAP MADERA GRANO 100",
+    "ids": [
+      599,
+      600,
+      601
+    ]
+  },
+  {
+    "key": "DISCO FLAP METAL",
+    "slug": "disco-flap-metal",
+    "categoria": "Abrasivo",
+    "muestra": "DISCO FLAP METAL GRANO 100",
+    "ids": [
+      602,
+      603
+    ]
+  },
+  {
+    "key": "DISCO LIJA CON",
+    "slug": "disco-lija-con",
+    "categoria": "Abrasivo",
+    "muestra": "DISCO LIJA CON RESPALDO 5UN 4 1/2",
+    "ids": [
+      604,
+      605
+    ]
+  },
+  {
+    "key": "DISCO SIERRA CIRCULAR",
+    "slug": "disco-sierra-circular",
+    "categoria": "General",
+    "muestra": "DISCO SIERRA CIRCULAR 7 1/4\" 24 DIENTES AKILDA",
+    "ids": [
+      607,
+      608,
+      609,
+      610,
+      611,
+      612,
+      613
+    ]
+  },
+  {
+    "key": "DISCO SIERRA PARA",
+    "slug": "disco-sierra-para",
+    "categoria": "Abrasivo",
+    "muestra": "DISCO SIERRA PARA ESMERIL TORO NEGRO 40 DIENTES 4 1/2",
+    "ids": [
+      614
+    ]
+  },
+  {
+    "key": "DISCO TRENZADO",
+    "slug": "disco-trenzado",
+    "categoria": "General",
+    "muestra": "DISCO TRENZADO 4 1/2\"",
+    "ids": [
+      615
+    ]
+  },
+  {
+    "key": "DISCO TRONZADORA",
+    "slug": "disco-tronzadora",
+    "categoria": "General",
+    "muestra": "DISCO TRONZADORA 14\"",
+    "ids": [
+      616
+    ]
+  },
+  {
+    "key": "DISPENSADOR CINTA EMBALAJE",
+    "slug": "dispensador-cinta-embalaje",
+    "categoria": "General",
+    "muestra": "DISPENSADOR CINTA EMBALAJE",
+    "ids": [
+      617
+    ]
+  },
+  {
+    "key": "DISPENSADOR DE JABON",
+    "slug": "dispensador-de-jabon",
+    "categoria": "General",
+    "muestra": "DISPENSADOR DE JABON LIQUIDO",
+    "ids": [
+      618
+    ]
+  },
+  {
+    "key": "DISPENSADOR PAPEL HIGIENICO",
+    "slug": "dispensador-papel-higienico",
+    "categoria": "General",
+    "muestra": "DISPENSADOR PAPEL HIGIENICO",
+    "ids": [
+      619
+    ]
+  },
+  {
+    "key": "DUCHA ELECTRICA PLASTICA",
+    "slug": "ducha-electrica-plastica",
+    "categoria": "General",
+    "muestra": "DUCHA ELECTRICA PLASTICA FAME",
+    "ids": [
+      620
+    ]
+  },
+  {
+    "key": "ELECTRODO",
+    "slug": "electrodo",
+    "categoria": "General",
+    "muestra": "ELECTRODO 6011 1/8 KRAFTER",
+    "ids": [
+      621,
+      622,
+      623,
+      624
+    ]
+  },
+  {
+    "key": "EMBUDO PLASTICO NEGRO",
+    "slug": "embudo-plastico-negro",
+    "categoria": "Herramientas Manual",
+    "muestra": "EMBUDO PLASTICO NEGRO",
+    "ids": [
+      625
+    ]
+  },
+  {
+    "key": "ENCENDEDOR LIN",
+    "slug": "encendedor-lin",
+    "categoria": "General",
+    "muestra": "ENCENDEDOR LIN",
+    "ids": [
+      626
+    ]
+  },
+  {
+    "key": "ENCHUFE EMBUTIDO",
+    "slug": "enchufe-embutido",
+    "categoria": "Electricidad",
+    "muestra": "ENCHUFE EMBUTIDO 1 MODULO 10/16 AMPERES",
+    "ids": [
+      627,
+      628,
+      629,
+      630,
+      631,
+      632,
+      633
+    ]
+  },
+  {
+    "key": "ENCHUFE INDUSTRIAL HEMBRA",
+    "slug": "enchufe-industrial-hembra",
+    "categoria": "Electricidad",
+    "muestra": "ENCHUFE INDUSTRIAL HEMBRA VOLANTE STANDFORD 220V",
+    "ids": [
+      634
+    ]
+  },
+  {
+    "key": "ENCHUFE INDUSTRIAL MACHO",
+    "slug": "enchufe-industrial-macho",
+    "categoria": "Electricidad",
+    "muestra": "ENCHUFE INDUSTRIAL MACHO VOLANTE STANDFORD 220V",
+    "ids": [
+      635
+    ]
+  },
+  {
+    "key": "ENCHUFE SOBREPUESTO",
+    "slug": "enchufe-sobrepuesto",
+    "categoria": "Electricidad",
+    "muestra": "ENCHUFE SOBREPUESTO 1 MODULO",
+    "ids": [
+      636,
+      637,
+      638
+    ]
+  },
+  {
+    "key": "ENCHUFE SOBREPUESTRO TRIPLE",
+    "slug": "enchufe-sobrepuestro-triple",
+    "categoria": "General",
+    "muestra": "ENCHUFE SOBREPUESTRO TRIPLE STANDFORD",
+    "ids": [
+      639
+    ]
+  },
+  {
+    "key": "ENCHUFE VOLANTE HEMBRA",
+    "slug": "enchufe-volante-hembra",
+    "categoria": "General",
+    "muestra": "ENCHUFE VOLANTE HEMBRA 16A STANDFORD",
+    "ids": [
+      640,
+      641
+    ]
+  },
+  {
+    "key": "ENCHUFE VOLANTE MACHO",
+    "slug": "enchufe-volante-macho",
+    "categoria": "General",
+    "muestra": "ENCHUFE VOLANTE MACHO 16A STANDFORD",
+    "ids": [
+      642,
+      643
+    ]
+  },
+  {
+    "key": "ENDURECEDOR MASILLA",
+    "slug": "endurecedor-masilla",
+    "categoria": "General",
+    "muestra": "ENDURECEDOR MASILLA 28 GR",
+    "ids": [
+      644
+    ]
+  },
+  {
+    "key": "ENGRAPADORA",
+    "slug": "engrapadora",
+    "categoria": "General",
+    "muestra": "ENGRAPADORA 4 - 14 MM",
+    "ids": [
+      645
+    ]
+  },
+  {
+    "key": "ENGRAPADORA EX FUERTE",
+    "slug": "engrapadora-ex-fuerte",
+    "categoria": "General",
+    "muestra": "ENGRAPADORA EX FUERTE STANLEY",
+    "ids": [
+      646
+    ]
+  },
+  {
+    "key": "EPOXY",
+    "slug": "epoxy",
+    "categoria": "General",
+    "muestra": "EPOXY 31 WEBER",
+    "ids": [
+      647,
+      648
+    ]
+  },
+  {
+    "key": "EQUIPO FLUORECENTE",
+    "slug": "equipo-fluorecente",
+    "categoria": "General",
+    "muestra": "EQUIPO FLUORECENTE 120 CM",
+    "ids": [
+      649
+    ]
+  },
+  {
+    "key": "ESCALERA METALICA",
+    "slug": "escalera-metalica",
+    "categoria": "General",
+    "muestra": "ESCALERA METALICA 3 PELDAÑOS",
+    "ids": [
+      650
+    ]
+  },
+  {
+    "key": "ESCOBILLA DE ACERO",
+    "slug": "escobilla-de-acero",
+    "categoria": "Herramientas Manual",
+    "muestra": "ESCOBILLA DE ACERO MANGO MADERA",
+    "ids": [
+      651,
+      652
+    ]
+  },
+  {
+    "key": "ESCOBILLON DOMESTICO",
+    "slug": "escobillon-domestico",
+    "categoria": "General",
+    "muestra": "ESCOBILLON DOMESTICO",
+    "ids": [
+      653
+    ]
+  },
+  {
+    "key": "ESCOBILLON DOMESTICO IMPEKE",
+    "slug": "escobillon-domestico-impeke",
+    "categoria": "Articulos De Aseo",
+    "muestra": "ESCOBILLON DOMESTICO IMPEKE",
+    "ids": [
+      654
+    ]
+  },
+  {
+    "key": "ESCOBILLON DOMESTICO VIRUTEX",
+    "slug": "escobillon-domestico-virutex",
+    "categoria": "General",
+    "muestra": "ESCOBILLON DOMESTICO VIRUTEX",
+    "ids": [
+      655
+    ]
+  },
+  {
+    "key": "ESCOBILLON MUNICIPAL",
+    "slug": "escobillon-municipal",
+    "categoria": "Herramientas",
+    "muestra": "ESCOBILLON MUNICIPAL",
+    "ids": [
+      656
+    ]
+  },
+  {
+    "key": "ESCUADRA CARPINTERA TRUPER",
+    "slug": "escuadra-carpintera-truper",
+    "categoria": "General",
+    "muestra": "ESCUADRA CARPINTERA TRUPER 24 X 16\"",
+    "ids": [
+      657
+    ]
+  },
+  {
+    "key": "ESCUADRA CARPINTERO",
+    "slug": "escuadra-carpintero",
+    "categoria": "General",
+    "muestra": "ESCUADRA CARPINTERO 12\"",
+    "ids": [
+      658
+    ]
+  },
+  {
+    "key": "ESCUADRA DE SILLA",
+    "slug": "escuadra-de-silla",
+    "categoria": "General",
+    "muestra": "ESCUADRA DE SILLA 100X100MM",
+    "ids": [
+      659,
+      660,
+      661,
+      662,
+      663,
+      664
+    ]
+  },
+  {
+    "key": "ESCUADRA MAGNETICA",
+    "slug": "escuadra-magnetica",
+    "categoria": "General",
+    "muestra": "ESCUADRA MAGNETICA 5\"",
+    "ids": [
+      665
+    ]
+  },
+  {
+    "key": "ESCUADRA MAGNETICA TORO",
+    "slug": "escuadra-magnetica-toro",
+    "categoria": "Escuadras",
+    "muestra": "ESCUADRA MAGNETICA TORO NEGRO 3\"",
+    "ids": [
+      666
+    ]
+  },
+  {
+    "key": "ESCUADRA PARA MUEBLE",
+    "slug": "escuadra-para-mueble",
+    "categoria": "General",
+    "muestra": "ESCUADRA PARA MUEBLE (BOLSA 100UN)",
+    "ids": [
+      667
+    ]
+  },
+  {
+    "key": "ESCUADRA RAPIDA ALUMINIO",
+    "slug": "escuadra-rapida-aluminio",
+    "categoria": "Escuadras",
+    "muestra": "ESCUADRA RAPIDA ALUMINIO AKILDA 12\"",
+    "ids": [
+      668,
+      669
+    ]
+  },
+  {
+    "key": "ESCUADRA REPISA UNIDAD",
+    "slug": "escuadra-repisa-unidad",
+    "categoria": "Escuadras",
+    "muestra": "ESCUADRA REPISA UNIDAD 10X12",
+    "ids": [
+      670,
+      671,
+      672
+    ]
+  },
+  {
+    "key": "ESLINGA",
+    "slug": "eslinga",
+    "categoria": "General",
+    "muestra": "ESLINGA 1\" X 15 MTS",
+    "ids": [
+      673
+    ]
+  },
+  {
+    "key": "ESMALTE AL AGUA",
+    "slug": "esmalte-al-agua",
+    "categoria": "Pinturas",
+    "muestra": "ESMALTE AL AGUA AZUL MERLIN GALAN GALON",
+    "ids": [
+      674,
+      675,
+      676,
+      677,
+      678
+    ]
+  },
+  {
+    "key": "ESMALTE ANTICORROSIVO TRIPLE",
+    "slug": "esmalte-anticorrosivo-triple",
+    "categoria": "Pinturas",
+    "muestra": "ESMALTE ANTICORROSIVO TRIPLE ACCION NEGRO GALON PASSOL",
+    "ids": [
+      679
+    ]
+  },
+  {
+    "key": "ESMALTE SINTETICO",
+    "slug": "esmalte-sintetico",
+    "categoria": "General",
+    "muestra": "ESMALTE SINTETICO 1/16 AMARILLO REY",
+    "ids": [
+      680,
+      681,
+      682,
+      683,
+      684,
+      685
+    ]
+  },
+  {
+    "key": "ESMALTE SINTETICO BLANCO",
+    "slug": "esmalte-sintetico-blanco",
+    "categoria": "Pinturas",
+    "muestra": "ESMALTE SINTETICO BLANCO 1/4 GALON PASSOL",
+    "ids": [
+      686,
+      687
+    ]
+  },
+  {
+    "key": "ESMALTE SINTETICO NEGRO",
+    "slug": "esmalte-sintetico-negro",
+    "categoria": "Pinturas",
+    "muestra": "ESMALTE SINTETICO NEGRO 1/4 GALON PASSOL",
+    "ids": [
+      688,
+      689
+    ]
+  },
+  {
+    "key": "ESMALTE TRIPLE ACCION",
+    "slug": "esmalte-triple-accion",
+    "categoria": "Pinturas",
+    "muestra": "ESMALTE TRIPLE ACCION NEGRO 1/4 GALON",
+    "ids": [
+      690
+    ]
+  },
+  {
+    "key": "ESPATULA",
+    "slug": "espatula",
+    "categoria": "Herramientas Manual",
+    "muestra": "ESPATULA 1\"",
+    "ids": [
+      691,
+      692,
+      693,
+      694,
+      695,
+      696
+    ]
+  },
+  {
+    "key": "ESPATULA MULTIPLE",
+    "slug": "espatula-multiple",
+    "categoria": "General",
+    "muestra": "ESPATULA MULTIPLE 6 EN 1",
+    "ids": [
+      697
+    ]
+  },
+  {
+    "key": "ESPATULA PLASTICA",
+    "slug": "espatula-plastica",
+    "categoria": "General",
+    "muestra": "ESPATULA PLASTICA 2\"",
+    "ids": [
+      698,
+      699,
+      700
+    ]
+  },
+  {
+    "key": "ESPONJA ACANALADA",
+    "slug": "esponja-acanalada",
+    "categoria": "General",
+    "muestra": "ESPONJA ACANALADA",
+    "ids": [
+      701
+    ]
+  },
+  {
+    "key": "ESPONJA PARA FRAGUE",
+    "slug": "esponja-para-frague",
+    "categoria": "General",
+    "muestra": "ESPONJA PARA FRAGUE",
+    "ids": [
+      702,
+      703
+    ]
+  },
+  {
+    "key": "ESPUMA EXPANSIVA",
+    "slug": "espuma-expansiva",
+    "categoria": "Adhesivos",
+    "muestra": "ESPUMA EXPANSIVA 750 ML",
+    "ids": [
+      704,
+      705
+    ]
+  },
+  {
+    "key": "ESTAÑO",
+    "slug": "estano",
+    "categoria": "General",
+    "muestra": "ESTAÑO 50% CARRETE 1/2 KG",
+    "ids": [
+      706
+    ]
+  },
+  {
+    "key": "EXTENSOR FLEXIBLE PUNTA",
+    "slug": "extensor-flexible-punta",
+    "categoria": "General",
+    "muestra": "EXTENSOR FLEXIBLE PUNTA PHILLIPS 300MM",
+    "ids": [
+      707
+    ]
+  },
+  {
+    "key": "EXTENSOR PUNTA PHILLIPS",
+    "slug": "extensor-punta-phillips",
+    "categoria": "Herramientas Manual",
+    "muestra": "EXTENSOR PUNTA PHILLIPS 150MM",
+    "ids": [
+      708,
+      709
+    ]
+  },
+  {
+    "key": "EXTRACTOR DE AIRE",
+    "slug": "extractor-de-aire",
+    "categoria": "General",
+    "muestra": "EXTRACTOR DE AIRE 15X15 13W",
+    "ids": [
+      710
+    ]
+  },
+  {
+    "key": "FERRUL",
+    "slug": "ferrul",
+    "categoria": "General",
+    "muestra": "FERRUL 10 AWG VERDE (6,0)",
+    "ids": [
+      711,
+      712,
+      713,
+      714
+    ]
+  },
+  {
+    "key": "FIELTRO LISO",
+    "slug": "fieltro-liso",
+    "categoria": "General",
+    "muestra": "FIELTRO LISO 10/40",
+    "ids": [
+      715,
+      716
+    ]
+  },
+  {
+    "key": "FILM ALUSA",
+    "slug": "film-alusa",
+    "categoria": "General",
+    "muestra": "FILM ALUSA",
+    "ids": [
+      717
+    ]
+  },
+  {
+    "key": "FLAPPER WC CADENA",
+    "slug": "flapper-wc-cadena",
+    "categoria": "General",
+    "muestra": "FLAPPER WC CADENA METALICA TAUMM",
+    "ids": [
+      718
+    ]
+  },
+  {
+    "key": "FLETE ABASTECIMIENTO",
+    "slug": "flete-abastecimiento",
+    "categoria": "General",
+    "muestra": "FLETE ABASTECIMIENTO",
+    "ids": [
+      719
+    ]
+  },
+  {
+    "key": "FLEXIBLE AGUA HI-HE",
+    "slug": "flexible-agua-hi-he",
+    "categoria": "General",
+    "muestra": "FLEXIBLE AGUA HI-HE 35CM",
+    "ids": [
+      720,
+      721,
+      722,
+      723,
+      724
+    ]
+  },
+  {
+    "key": "FLEXIBLE AGUA HI-HI",
+    "slug": "flexible-agua-hi-hi",
+    "categoria": "Flexibles",
+    "muestra": "FLEXIBLE AGUA HI-HI 40 CM",
+    "ids": [
+      725,
+      726,
+      727,
+      728,
+      729
+    ]
+  },
+  {
+    "key": "FLEXIBLE CALEFONT HI-HE",
+    "slug": "flexible-calefont-hi-he",
+    "categoria": "General",
+    "muestra": "FLEXIBLE CALEFONT HI-HE 1/2 25 CM",
+    "ids": [
+      730,
+      731
+    ]
+  },
+  {
+    "key": "FLEXIBLE CALEFONT HI-HI",
+    "slug": "flexible-calefont-hi-hi",
+    "categoria": "General",
+    "muestra": "FLEXIBLE CALEFONT HI-HI 1/2 25 CM",
+    "ids": [
+      732,
+      733
+    ]
+  },
+  {
+    "key": "FLEXIBLE DUCHA",
+    "slug": "flexible-ducha",
+    "categoria": "General",
+    "muestra": "FLEXIBLE DUCHA 1,6 MTS SWERTT TAUMM",
+    "ids": [
+      734,
+      735
+    ]
+  },
+  {
+    "key": "FLEXIBLE DUCHA YTS",
+    "slug": "flexible-ducha-yts",
+    "categoria": "Flexibles",
+    "muestra": "FLEXIBLE DUCHA YTS 1.5 METROS",
+    "ids": [
+      736,
+      737
+    ]
+  },
+  {
+    "key": "FLEXIBLE GAS",
+    "slug": "flexible-gas",
+    "categoria": "General",
+    "muestra": "FLEXIBLE GAS 3/8 X 1/2\" X 100 CM",
+    "ids": [
+      738,
+      739,
+      740
+    ]
+  },
+  {
+    "key": "FLEXIBLE GAS DE",
+    "slug": "flexible-gas-de",
+    "categoria": "General",
+    "muestra": "FLEXIBLE GAS DE 3/8 X 1/2\" X 60 CM",
+    "ids": [
+      741
+    ]
+  },
+  {
+    "key": "FLEXIBLE LAVADORA TAUMM",
+    "slug": "flexible-lavadora-taumm",
+    "categoria": "Flexibles",
+    "muestra": "FLEXIBLE LAVADORA TAUMM 1.5 MT",
+    "ids": [
+      742
+    ]
+  },
+  {
+    "key": "FLEXIBLE MONOMANDO HI-HE",
+    "slug": "flexible-monomando-hi-he",
+    "categoria": "General",
+    "muestra": "FLEXIBLE MONOMANDO HI-HE 1/2 35CM",
+    "ids": [
+      743,
+      744
+    ]
+  },
+  {
+    "key": "FLEXIBLE PARA LLAVE",
+    "slug": "flexible-para-llave",
+    "categoria": "General",
+    "muestra": "FLEXIBLE PARA LLAVE ANGULAR 35CM",
+    "ids": [
+      745
+    ]
+  },
+  {
+    "key": "FOCO LED",
+    "slug": "foco-led",
+    "categoria": "General",
+    "muestra": "FOCO LED 18W CUADRADO SOBREPUESTO",
+    "ids": [
+      746,
+      747,
+      748,
+      749
+    ]
+  },
+  {
+    "key": "FOCO LED REDONDO",
+    "slug": "foco-led-redondo",
+    "categoria": "General",
+    "muestra": "FOCO LED REDONDO 18W EMBUTIDO",
+    "ids": [
+      750
+    ]
+  },
+  {
+    "key": "FORMON AKILDA",
+    "slug": "formon-akilda",
+    "categoria": "General",
+    "muestra": "FORMON AKILDA 1\"",
+    "ids": [
+      751,
+      752
+    ]
+  },
+  {
+    "key": "FORMON",
+    "slug": "formon",
+    "categoria": "Herramientas Manual",
+    "muestra": "FORMON 1\" PRETUL",
+    "ids": [
+      753,
+      754
+    ]
+  },
+  {
+    "key": "FORRO BICICLETA",
+    "slug": "forro-bicicleta",
+    "categoria": "General",
+    "muestra": "FORRO BICICLETA 26\"",
+    "ids": [
+      755
+    ]
+  },
+  {
+    "key": "FRAGUADOR MANGO MADERA",
+    "slug": "fraguador-mango-madera",
+    "categoria": "General",
+    "muestra": "FRAGUADOR MANGO MADERA",
+    "ids": [
+      756
+    ]
+  },
+  {
+    "key": "FRAGUE ALMOND",
+    "slug": "frague-almond",
+    "categoria": "General",
+    "muestra": "FRAGUE ALMOND 1KG",
+    "ids": [
+      757
+    ]
+  },
+  {
+    "key": "FRAGUE BEIGE",
+    "slug": "frague-beige",
+    "categoria": "General",
+    "muestra": "FRAGUE BEIGE 1KG",
+    "ids": [
+      758
+    ]
+  },
+  {
+    "key": "FRAGUE BLANCO",
+    "slug": "frague-blanco",
+    "categoria": "General",
+    "muestra": "FRAGUE BLANCO 1KG",
+    "ids": [
+      759
+    ]
+  },
+  {
+    "key": "FRAGUE CAFE CLARO",
+    "slug": "frague-cafe-claro",
+    "categoria": "General",
+    "muestra": "FRAGUE CAFE CLARO 1KG",
+    "ids": [
+      760
+    ]
+  },
+  {
+    "key": "FRAGUE CAFE OSCURO",
+    "slug": "frague-cafe-oscuro",
+    "categoria": "General",
+    "muestra": "FRAGUE CAFE OSCURO 1KG",
+    "ids": [
+      761
+    ]
+  },
+  {
+    "key": "FRAGUE GRIS",
+    "slug": "frague-gris",
+    "categoria": "General",
+    "muestra": "FRAGUE GRIS 1KG",
+    "ids": [
+      762
+    ]
+  },
+  {
+    "key": "FRAGUE NEGRO",
+    "slug": "frague-negro",
+    "categoria": "General",
+    "muestra": "FRAGUE NEGRO 1KG",
+    "ids": [
+      763
+    ]
+  },
+  {
+    "key": "FRAGUE NEGRO BEKRON",
+    "slug": "frague-negro-bekron",
+    "categoria": "Frague",
+    "muestra": "FRAGUE NEGRO BEKRON 1KILO",
+    "ids": [
+      764
+    ]
+  },
+  {
+    "key": "FULMINANTE AMARILLO",
+    "slug": "fulminante-amarillo",
+    "categoria": "General",
+    "muestra": "FULMINANTE AMARILLO",
+    "ids": [
+      765
+    ]
+  },
+  {
+    "key": "FULMINANTE ROJO TIRA",
+    "slug": "fulminante-rojo-tira",
+    "categoria": "General",
+    "muestra": "FULMINANTE ROJO TIRA X 10",
+    "ids": [
+      766
+    ]
+  },
+  {
+    "key": "FUMIGADOR",
+    "slug": "fumigador",
+    "categoria": "General",
+    "muestra": "FUMIGADOR 5 LTS TORO NEGRO",
+    "ids": [
+      767
+    ]
+  },
+  {
+    "key": "GANCHO CANALETA METALICO",
+    "slug": "gancho-canaleta-metalico",
+    "categoria": "Canaletas",
+    "muestra": "GANCHO CANALETA METALICO FERROMAT GALVANIZADO",
+    "ids": [
+      768
+    ]
+  },
+  {
+    "key": "GANCHO TRUPAN CROMADO",
+    "slug": "gancho-trupan-cromado",
+    "categoria": "Galvanizados",
+    "muestra": "GANCHO TRUPAN CROMADO LIOI 10CM",
+    "ids": [
+      769,
+      770
+    ]
+  },
+  {
+    "key": "GAS BUTANO YAÑEZ",
+    "slug": "gas-butano-yanez",
+    "categoria": "Gas",
+    "muestra": "GAS BUTANO YAÑEZ 190 GRAMOS",
+    "ids": [
+      771,
+      772
+    ]
+  },
+  {
+    "key": "GASKET LIQUIDO",
+    "slug": "gasket-liquido",
+    "categoria": "General",
+    "muestra": "GASKET LIQUIDO 60 CC",
+    "ids": [
+      773
+    ]
+  },
+  {
+    "key": "GOLILLA PLANA NEGRA",
+    "slug": "golilla-plana-negra",
+    "categoria": "General",
+    "muestra": "GOLILLA PLANA NEGRA 1/2\"",
+    "ids": [
+      774,
+      775
+    ]
+  },
+  {
+    "key": "GRAPA CABLE COAXIAL",
+    "slug": "grapa-cable-coaxial",
+    "categoria": "General",
+    "muestra": "GRAPA CABLE COAXIAL 100UN 10MM",
+    "ids": [
+      776,
+      777,
+      778,
+      779,
+      780
+    ]
+  },
+  {
+    "key": "GRAPA GALVANIZADA",
+    "slug": "grapa-galvanizada",
+    "categoria": "General",
+    "muestra": "GRAPA GALVANIZADA 1 1/2\"",
+    "ids": [
+      781,
+      782,
+      783
+    ]
+  },
+  {
+    "key": "GRASA CONSISTENTE",
+    "slug": "grasa-consistente",
+    "categoria": "General",
+    "muestra": "GRASA CONSISTENTE 1/2 KG.",
+    "ids": [
+      784
+    ]
+  },
+  {
+    "key": "GRASA EN SPRAY",
+    "slug": "grasa-en-spray",
+    "categoria": "Automotriz",
+    "muestra": "GRASA EN SPRAY REX 450ML",
+    "ids": [
+      785
+    ]
+  },
+  {
+    "key": "GROUT",
+    "slug": "grout",
+    "categoria": "General",
+    "muestra": "GROUT 50 ANCLAJE Y NIVELACION 25 KG",
+    "ids": [
+      786
+    ]
+  },
+  {
+    "key": "GUANTE ALBAÑIL",
+    "slug": "guante-albanil",
+    "categoria": "General",
+    "muestra": "GUANTE ALBAÑIL",
+    "ids": [
+      787
+    ]
+  },
+  {
+    "key": "GUANTE ANTICORTE FORCE",
+    "slug": "guante-anticorte-force",
+    "categoria": "EPP",
+    "muestra": "GUANTE ANTICORTE FORCE TALLA 10",
+    "ids": [
+      788
+    ]
+  },
+  {
+    "key": "GUANTE ASEO LIOI",
+    "slug": "guante-aseo-lioi",
+    "categoria": "General",
+    "muestra": "GUANTE ASEO LIOI TALLA L",
+    "ids": [
+      789,
+      790,
+      791
+    ]
+  },
+  {
+    "key": "GUANTE CABRITILLA",
+    "slug": "guante-cabritilla",
+    "categoria": "EPP",
+    "muestra": "GUANTE CABRITILLA",
+    "ids": [
+      792
+    ]
+  },
+  {
+    "key": "GUANTE MULTIFLEX L-1201",
+    "slug": "guante-multiflex-l-1201",
+    "categoria": "General",
+    "muestra": "GUANTE MULTIFLEX L-1201",
+    "ids": [
+      793
+    ]
+  },
+  {
+    "key": "GUANTE MULTIFLEX L-1600",
+    "slug": "guante-multiflex-l-1600",
+    "categoria": "EPP",
+    "muestra": "GUANTE MULTIFLEX L-1600 BLUE FORCE TALLA 9",
+    "ids": [
+      794
+    ]
+  },
+  {
+    "key": "GUANTE MULTIFLEX LEGEND",
+    "slug": "guante-multiflex-legend",
+    "categoria": "General",
+    "muestra": "GUANTE MULTIFLEX LEGEND",
+    "ids": [
+      795
+    ]
+  },
+  {
+    "key": "GUANTE MULTIFLEX PU",
+    "slug": "guante-multiflex-pu",
+    "categoria": "General",
+    "muestra": "GUANTE MULTIFLEX PU TALLA 10 YTS",
+    "ids": [
+      796
+    ]
+  },
+  {
+    "key": "GUANTE PIGMENTADO BLACKBULL",
+    "slug": "guante-pigmentado-blackbull",
+    "categoria": "EPP",
+    "muestra": "GUANTE PIGMENTADO BLACKBULL ESTANDAR",
+    "ids": [
+      797
+    ]
+  },
+  {
+    "key": "GUANTE QUIRURGICO NITRILO",
+    "slug": "guante-quirurgico-nitrilo",
+    "categoria": "General",
+    "muestra": "GUANTE QUIRURGICO NITRILO TALLA M (CAJA 100UN)",
+    "ids": [
+      798,
+      799
+    ]
+  },
+  {
+    "key": "GUANTE SOLDADOR ROJO",
+    "slug": "guante-soldador-rojo",
+    "categoria": "General",
+    "muestra": "GUANTE SOLDADOR ROJO",
+    "ids": [
+      800
+    ]
+  },
+  {
+    "key": "GUARDAPOLVO",
+    "slug": "guardapolvo",
+    "categoria": "General",
+    "muestra": "GUARDAPOLVO 3\"",
+    "ids": [
+      801
+    ]
+  },
+  {
+    "key": "GUIA SIERRA COPA",
+    "slug": "guia-sierra-copa",
+    "categoria": "General",
+    "muestra": "GUIA SIERRA COPA BIMETAL 3/8\" (14-30MM)",
+    "ids": [
+      802,
+      803
+    ]
+  },
+  {
+    "key": "HACHA",
+    "slug": "hacha",
+    "categoria": "General",
+    "muestra": "HACHA 1500 GR",
+    "ids": [
+      804,
+      805
+    ]
+  },
+  {
+    "key": "HIDROBOX CON ENCHUFE",
+    "slug": "hidrobox-con-enchufe",
+    "categoria": "Electricidad",
+    "muestra": "HIDROBOX CON ENCHUFE DOBLE 10/16A",
+    "ids": [
+      806
+    ]
+  },
+  {
+    "key": "HILO CORRIDO NEGRO",
+    "slug": "hilo-corrido-negro",
+    "categoria": "General",
+    "muestra": "HILO CORRIDO NEGRO 1/2\" X 1 METRO",
+    "ids": [
+      807,
+      808
+    ]
+  },
+  {
+    "key": "HILO CORRIDO ZINCADO",
+    "slug": "hilo-corrido-zincado",
+    "categoria": "General",
+    "muestra": "HILO CORRIDO ZINCADO 1/2\" X 1 METRO",
+    "ids": [
+      809
+    ]
+  },
+  {
+    "key": "HOJA DE SIERRA",
+    "slug": "hoja-de-sierra",
+    "categoria": "Sierra",
+    "muestra": "HOJA DE SIERRA BAHCO UNIDAD SANDFLEX",
+    "ids": [
+      810,
+      811
+    ]
+  },
+  {
+    "key": "HOJA SIERRA SANDWICK",
+    "slug": "hoja-sierra-sandwick",
+    "categoria": "General",
+    "muestra": "HOJA SIERRA SANDWICK",
+    "ids": [
+      812
+    ]
+  },
+  {
+    "key": "HUAIPE HILACHA BLANCO",
+    "slug": "huaipe-hilacha-blanco",
+    "categoria": "General",
+    "muestra": "HUAIPE HILACHA BLANCO 1 KG",
+    "ids": [
+      813
+    ]
+  },
+  {
+    "key": "HUINCHA DE MEDIR",
+    "slug": "huincha-de-medir",
+    "categoria": "General",
+    "muestra": "HUINCHA DE MEDIR FLOVI 5 METROS",
+    "ids": [
+      814,
+      815,
+      816,
+      817,
+      818,
+      819
+    ]
+  },
+  {
+    "key": "HUNCHA DE MEDIR",
+    "slug": "huncha-de-medir",
+    "categoria": "General",
+    "muestra": "HUNCHA DE MEDIR TORO NEGRO 5 METROS",
+    "ids": [
+      820
+    ]
+  },
+  {
+    "key": "INGLETE CON BASE",
+    "slug": "inglete-con-base",
+    "categoria": "General",
+    "muestra": "INGLETE CON BASE TN",
+    "ids": [
+      821
+    ]
+  },
+  {
+    "key": "INICIADOR DE FUEGO",
+    "slug": "iniciador-de-fuego",
+    "categoria": "General",
+    "muestra": "INICIADOR DE FUEGO FLAMAX",
+    "ids": [
+      822
+    ]
+  },
+  {
+    "key": "INSECTICIDA KILLER CASA",
+    "slug": "insecticida-killer-casa",
+    "categoria": "General",
+    "muestra": "INSECTICIDA KILLER CASA Y JARDIN",
+    "ids": [
+      823
+    ]
+  },
+  {
+    "key": "INTERRUPTOR",
+    "slug": "interruptor",
+    "categoria": "Electricidad",
+    "muestra": "INTERRUPTOR 9/12 + ENCHUFE SOBREPUESTO",
+    "ids": [
+      824,
+      825
+    ]
+  },
+  {
+    "key": "INTERRUPTOR DE LAMPARA",
+    "slug": "interruptor-de-lampara",
+    "categoria": "General",
+    "muestra": "INTERRUPTOR DE LAMPARA BLANCO",
+    "ids": [
+      826
+    ]
+  },
+  {
+    "key": "INTERRUPTOR EMBUTIDO DOBLE",
+    "slug": "interruptor-embutido-doble",
+    "categoria": "Electricidad",
+    "muestra": "INTERRUPTOR EMBUTIDO DOBLE STANDFORD (9/15)",
+    "ids": [
+      827,
+      828
+    ]
+  },
+  {
+    "key": "INTERRUPTOR EMBUTIDO ESCALERA",
+    "slug": "interruptor-embutido-escalera",
+    "categoria": "Electricidad",
+    "muestra": "INTERRUPTOR EMBUTIDO ESCALERA STANDFORD (9/24)",
+    "ids": [
+      829
+    ]
+  },
+  {
+    "key": "INTERRUPTOR EMBUTIDO SIMPLE",
+    "slug": "interruptor-embutido-simple",
+    "categoria": "Electricidad",
+    "muestra": "INTERRUPTOR EMBUTIDO SIMPLE STANDFORD (9/12)",
+    "ids": [
+      830,
+      831
+    ]
+  },
+  {
+    "key": "INTERRUPTOR EMBUTIDO TRIPLE",
+    "slug": "interruptor-embutido-triple",
+    "categoria": "Electricidad",
+    "muestra": "INTERRUPTOR EMBUTIDO TRIPLE STANDFORD (9/32)",
+    "ids": [
+      832,
+      833
+    ]
+  },
+  {
+    "key": "INTERRUPTOR SOBREPUESTO DOBLE",
+    "slug": "interruptor-sobrepuesto-doble",
+    "categoria": "Electricidad",
+    "muestra": "INTERRUPTOR SOBREPUESTO DOBLE (9/15)",
+    "ids": [
+      834
+    ]
+  },
+  {
+    "key": "INTERRUPTOR SOBREPUESTO ESCALERA",
+    "slug": "interruptor-sobrepuesto-escalera",
+    "categoria": "Electricidad",
+    "muestra": "INTERRUPTOR SOBREPUESTO ESCALERA (9/24)",
+    "ids": [
+      835
+    ]
+  },
+  {
+    "key": "INTERRUPTOR SOBREPUESTO SIMPLE",
+    "slug": "interruptor-sobrepuesto-simple",
+    "categoria": "General",
+    "muestra": "INTERRUPTOR SOBREPUESTO SIMPLE (9/12)",
+    "ids": [
+      836
+    ]
+  },
+  {
+    "key": "INTERRUPTOR SOBREPUESTO TRIPLE",
+    "slug": "interruptor-sobrepuesto-triple",
+    "categoria": "Electricidad",
+    "muestra": "INTERRUPTOR SOBREPUESTO TRIPLE (9/32)",
+    "ids": [
+      837
+    ]
+  },
+  {
+    "key": "INTRAPLAST MEZCLA",
+    "slug": "intraplast-mezcla",
+    "categoria": "General",
+    "muestra": "INTRAPLAST MEZCLA 1 KG",
+    "ids": [
+      838
+    ]
+  },
+  {
+    "key": "JABON LIQUIDO",
+    "slug": "jabon-liquido",
+    "categoria": "General",
+    "muestra": "JABON LIQUIDO",
+    "ids": [
+      839
+    ]
+  },
+  {
+    "key": "JABON MECANICO SOQUIPRA",
+    "slug": "jabon-mecanico-soquipra",
+    "categoria": "Automotriz",
+    "muestra": "JABON MECANICO SOQUIPRA 1 LITRO",
+    "ids": [
+      840
+    ]
+  },
+  {
+    "key": "JUEGO ADAPTADOR DADOS",
+    "slug": "juego-adaptador-dados",
+    "categoria": "Herramientas Manual",
+    "muestra": "JUEGO ADAPTADOR DADOS PARA TALADRO TRUPER 3 PIEZAS",
+    "ids": [
+      841
+    ]
+  },
+  {
+    "key": "JUEGO DADOS",
+    "slug": "juego-dados",
+    "categoria": "General",
+    "muestra": "JUEGO DADOS 39 PIEZAS PRETUL",
+    "ids": [
+      842,
+      843
+    ]
+  },
+  {
+    "key": "JUEGO LLAVE ALLEN",
+    "slug": "juego-llave-allen",
+    "categoria": "General",
+    "muestra": "JUEGO LLAVE ALLEN TALLA S",
+    "ids": [
+      844
+    ]
+  },
+  {
+    "key": "JUEGO LLAVE ESTRELLA",
+    "slug": "juego-llave-estrella",
+    "categoria": "General",
+    "muestra": "JUEGO LLAVE ESTRELLA TALLA S",
+    "ids": [
+      845,
+      846
+    ]
+  },
+  {
+    "key": "JUEGO PITON",
+    "slug": "juego-piton",
+    "categoria": "General",
+    "muestra": "JUEGO PITON 5 PIEZAS VERDE",
+    "ids": [
+      847
+    ]
+  },
+  {
+    "key": "JUEGO SEPARADOR CERAMICA",
+    "slug": "juego-separador-ceramica",
+    "categoria": "Ceramica",
+    "muestra": "JUEGO SEPARADOR CERAMICA CON NIVELADOR KAMASA 50UN 1,5MM",
+    "ids": [
+      848
+    ]
+  },
+  {
+    "key": "KIT ANCLAJE ADMISION",
+    "slug": "kit-anclaje-admision",
+    "categoria": "WC",
+    "muestra": "KIT ANCLAJE ADMISION ANTIFUGA TAUMM AZUL",
+    "ids": [
+      849
+    ]
+  },
+  {
+    "key": "KIT ESTAÑO +",
+    "slug": "kit-estano",
+    "categoria": "Soldadura",
+    "muestra": "KIT ESTAÑO + PASTA YTS 20GRAMOS",
+    "ids": [
+      850
+    ]
+  },
+  {
+    "key": "KIT ESTANQUE CON",
+    "slug": "kit-estanque-con",
+    "categoria": "General",
+    "muestra": "KIT ESTANQUE CON BOTONERA",
+    "ids": [
+      851
+    ]
+  },
+  {
+    "key": "KIT ESTANQUE WC",
+    "slug": "kit-estanque-wc",
+    "categoria": "WC",
+    "muestra": "KIT ESTANQUE WC YTS BLANCO",
+    "ids": [
+      852
+    ]
+  },
+  {
+    "key": "KIT FLEXIBLE +",
+    "slug": "kit-flexible",
+    "categoria": "General",
+    "muestra": "KIT FLEXIBLE + LLAVE ANGULAR TAUMM",
+    "ids": [
+      853
+    ]
+  },
+  {
+    "key": "KIT PERNO DE",
+    "slug": "kit-perno-de",
+    "categoria": "WC",
+    "muestra": "KIT PERNO DE ANCLAJE WC A PISO",
+    "ids": [
+      854
+    ]
+  },
+  {
+    "key": "KIT SILICONA TABLERO",
+    "slug": "kit-silicona-tablero",
+    "categoria": "General",
+    "muestra": "KIT SILICONA TABLERO + RENOVADOR DE NEUMATICO 400 ML",
+    "ids": [
+      855
+    ]
+  },
+  {
+    "key": "KLERAT PELLET",
+    "slug": "klerat-pellet",
+    "categoria": "General",
+    "muestra": "KLERAT PELLET 50GR",
+    "ids": [
+      856
+    ]
+  },
+  {
+    "key": "L",
+    "slug": "l",
+    "categoria": "General",
+    "muestra": "L 1 LT",
+    "ids": [
+      857
+    ]
+  },
+  {
+    "key": "LA GOTITA",
+    "slug": "la-gotita",
+    "categoria": "General",
+    "muestra": "LA GOTITA 2 GRAMOS",
+    "ids": [
+      858
+    ]
+  },
+  {
+    "key": "LACA",
+    "slug": "laca",
+    "categoria": "General",
+    "muestra": "LACA 1/4 GALON",
+    "ids": [
+      859
+    ]
+  },
+  {
+    "key": "LACA SPRAY TORO",
+    "slug": "laca-spray-toro",
+    "categoria": "General",
+    "muestra": "LACA SPRAY TORO NEGRO",
+    "ids": [
+      860
+    ]
+  },
+  {
+    "key": "LADRON DE CORRIENTE",
+    "slug": "ladron-de-corriente",
+    "categoria": "Electricidad",
+    "muestra": "LADRON DE CORRIENTE TRIPLE STANDORD",
+    "ids": [
+      861
+    ]
+  },
+  {
+    "key": "LAMPARA PORTATIL YTS",
+    "slug": "lampara-portatil-yts",
+    "categoria": "Electricidad",
+    "muestra": "LAMPARA PORTATIL YTS 5 METROS",
+    "ids": [
+      862
+    ]
+  },
+  {
+    "key": "LANA DE VIDRIO",
+    "slug": "lana-de-vidrio",
+    "categoria": "General",
+    "muestra": "LANA DE VIDRIO 14MTS 2 50MM",
+    "ids": [
+      863
+    ]
+  },
+  {
+    "key": "LAPIZ BICOLOR",
+    "slug": "lapiz-bicolor",
+    "categoria": "General",
+    "muestra": "LAPIZ BICOLOR",
+    "ids": [
+      864
+    ]
+  },
+  {
+    "key": "LAPIZ BICOLOR SET",
+    "slug": "lapiz-bicolor-set",
+    "categoria": "General",
+    "muestra": "LAPIZ BICOLOR SET 2UN",
+    "ids": [
+      865
+    ]
+  },
+  {
+    "key": "LAPIZ CARPINTERO",
+    "slug": "lapiz-carpintero",
+    "categoria": "General",
+    "muestra": "LAPIZ CARPINTERO",
+    "ids": [
+      866
+    ]
+  },
+  {
+    "key": "LAPIZ MARCA METAL",
+    "slug": "lapiz-marca-metal",
+    "categoria": "General",
+    "muestra": "LAPIZ MARCA METAL AMARILLO MONAMI",
+    "ids": [
+      867,
+      868,
+      869
+    ]
+  },
+  {
+    "key": "LATEX BLANCO GALON",
+    "slug": "latex-blanco-galon",
+    "categoria": "Pinturas",
+    "muestra": "LATEX BLANCO GALON PASSOL",
+    "ids": [
+      870
+    ]
+  },
+  {
+    "key": "LATEX BLANCO TINETA",
+    "slug": "latex-blanco-tineta",
+    "categoria": "Pinturas",
+    "muestra": "LATEX BLANCO TINETA PASSOL",
+    "ids": [
+      871
+    ]
+  },
+  {
+    "key": "LATEX DAMASCO GALON",
+    "slug": "latex-damasco-galon",
+    "categoria": "Pinturas",
+    "muestra": "LATEX DAMASCO GALON PASSOL",
+    "ids": [
+      872
+    ]
+  },
+  {
+    "key": "LATEX EXTRACUBRIENTE BLANCO",
+    "slug": "latex-extracubriente-blanco",
+    "categoria": "General",
+    "muestra": "LATEX EXTRACUBRIENTE BLANCO TINETA PASSOL",
+    "ids": [
+      873
+    ]
+  },
+  {
+    "key": "LATEX GRIS PERLA",
+    "slug": "latex-gris-perla",
+    "categoria": "General",
+    "muestra": "LATEX GRIS PERLA GALON PASSOL",
+    "ids": [
+      874
+    ]
+  },
+  {
+    "key": "LAUCHA DESTAPADOR WC",
+    "slug": "laucha-destapador-wc",
+    "categoria": "General",
+    "muestra": "LAUCHA DESTAPADOR WC",
+    "ids": [
+      875
+    ]
+  },
+  {
+    "key": "LAUCHA PASA CABLE",
+    "slug": "laucha-pasa-cable",
+    "categoria": "General",
+    "muestra": "LAUCHA PASA CABLE 10 METROS",
+    "ids": [
+      876
+    ]
+  },
+  {
+    "key": "LAVALOZA",
+    "slug": "lavaloza",
+    "categoria": "General",
+    "muestra": "LAVALOZA 750CC",
+    "ids": [
+      877
+    ]
+  },
+  {
+    "key": "LAVALOZAS LIQUIDO",
+    "slug": "lavalozas-liquido",
+    "categoria": "General",
+    "muestra": "LAVALOZAS LIQUIDO 5 LT",
+    "ids": [
+      878
+    ]
+  },
+  {
+    "key": "LAVAMANOS CON PEDESTAL",
+    "slug": "lavamanos-con-pedestal",
+    "categoria": "WC",
+    "muestra": "LAVAMANOS CON PEDESTAL FANALOZA BLANCO",
+    "ids": [
+      879
+    ]
+  },
+  {
+    "key": "LAVAPARABRISAS SOQUIPRA",
+    "slug": "lavaparabrisas-soquipra",
+    "categoria": "Automotriz",
+    "muestra": "LAVAPARABRISAS SOQUIPRA 5 LITROS",
+    "ids": [
+      880
+    ]
+  },
+  {
+    "key": "LAVAPLATOS",
+    "slug": "lavaplatos",
+    "categoria": "General",
+    "muestra": "LAVAPLATOS 80X50 DERECHO",
+    "ids": [
+      881,
+      882
+    ]
+  },
+  {
+    "key": "LENTES DE SEGURIDAD",
+    "slug": "lentes-de-seguridad",
+    "categoria": "EPP",
+    "muestra": "LENTES DE SEGURIDAD KBEEN CLARO",
+    "ids": [
+      883,
+      884
+    ]
+  },
+  {
+    "key": "LIENZA CARPINTERA",
+    "slug": "lienza-carpintera",
+    "categoria": "Herramientas Manual",
+    "muestra": "LIENZA CARPINTERA 165 MTS BLANCA",
+    "ids": [
+      885,
+      886
+    ]
+  },
+  {
+    "key": "LIENZA CARPINTERA AMARILLO",
+    "slug": "lienza-carpintera-amarillo",
+    "categoria": "Herramientas Manual",
+    "muestra": "LIENZA CARPINTERA AMARILLO 165 METROS",
+    "ids": [
+      887
+    ]
+  },
+  {
+    "key": "LIENZA CARPINTERA BLANCA",
+    "slug": "lienza-carpintera-blanca",
+    "categoria": "Herramientas Manual",
+    "muestra": "LIENZA CARPINTERA BLANCA 65MTS",
+    "ids": [
+      888
+    ]
+  },
+  {
+    "key": "LIENZA CARPINTERA ROJO",
+    "slug": "lienza-carpintera-rojo",
+    "categoria": "Herramientas Manual",
+    "muestra": "LIENZA CARPINTERA ROJO 65MTS",
+    "ids": [
+      889
+    ]
+  },
+  {
+    "key": "LIENZA CARPINTERO",
+    "slug": "lienza-carpintero",
+    "categoria": "Herramientas Manual",
+    "muestra": "LIENZA CARPINTERO 65MTS AMARILLO",
+    "ids": [
+      890
+    ]
+  },
+  {
+    "key": "LIENZA CARPINTERO AZUL",
+    "slug": "lienza-carpintero-azul",
+    "categoria": "Herramientas Manual",
+    "muestra": "LIENZA CARPINTERO AZUL 165 MTS",
+    "ids": [
+      891
+    ]
+  },
+  {
+    "key": "LIENZA CARPINTERO ECONOMICA",
+    "slug": "lienza-carpintero-economica",
+    "categoria": "General",
+    "muestra": "LIENZA CARPINTERO ECONOMICA 200 MTS BLANCO",
+    "ids": [
+      892,
+      893
+    ]
+  },
+  {
+    "key": "LIENZA CARPINTERO ROJO",
+    "slug": "lienza-carpintero-rojo",
+    "categoria": "Herramientas Manual",
+    "muestra": "LIENZA CARPINTERO ROJO 165 METROS",
+    "ids": [
+      894
+    ]
+  },
+  {
+    "key": "LIJA AL AGUA",
+    "slug": "lija-al-agua",
+    "categoria": "Siliconas",
+    "muestra": "LIJA AL AGUA GR 1000",
+    "ids": [
+      895,
+      896,
+      897,
+      898,
+      899,
+      900,
+      901
+    ]
+  },
+  {
+    "key": "LIJA MADERA",
+    "slug": "lija-madera",
+    "categoria": "General",
+    "muestra": "LIJA MADERA GR 100",
+    "ids": [
+      902,
+      903,
+      904,
+      905,
+      906
+    ]
+  },
+  {
+    "key": "LIJA METAL",
+    "slug": "lija-metal",
+    "categoria": "General",
+    "muestra": "LIJA METAL GR 100",
+    "ids": [
+      907,
+      908,
+      909,
+      910
+    ]
+  },
+  {
+    "key": "LIMA ESCOFINA TRUPER",
+    "slug": "lima-escofina-truper",
+    "categoria": "General",
+    "muestra": "LIMA ESCOFINA TRUPER 8\"",
+    "ids": [
+      911
+    ]
+  },
+  {
+    "key": "LIMA MOTOSIERRA",
+    "slug": "lima-motosierra",
+    "categoria": "General",
+    "muestra": "LIMA MOTOSIERRA 3/16 PRETUL (MEDIANA)",
+    "ids": [
+      912,
+      913,
+      914
+    ]
+  },
+  {
+    "key": "LIMA PLANA KAMASA",
+    "slug": "lima-plana-kamasa",
+    "categoria": "General",
+    "muestra": "LIMA PLANA KAMASA 6\"",
+    "ids": [
+      915
+    ]
+  },
+  {
+    "key": "LIMA REDONDA KAMASA",
+    "slug": "lima-redonda-kamasa",
+    "categoria": "Herramientas Manual",
+    "muestra": "LIMA REDONDA KAMASA 6\"",
+    "ids": [
+      916
+    ]
+  },
+  {
+    "key": "LIMPIA CARBURADOR REX",
+    "slug": "limpia-carburador-rex",
+    "categoria": "Automotriz",
+    "muestra": "LIMPIA CARBURADOR REX 450ML",
+    "ids": [
+      917
+    ]
+  },
+  {
+    "key": "LIMPIA CONTACTO REX",
+    "slug": "limpia-contacto-rex",
+    "categoria": "General",
+    "muestra": "LIMPIA CONTACTO REX 400ML",
+    "ids": [
+      918
+    ]
+  },
+  {
+    "key": "LIMPIA FRENOS REX",
+    "slug": "limpia-frenos-rex",
+    "categoria": "Automotriz",
+    "muestra": "LIMPIA FRENOS REX 450ML",
+    "ids": [
+      919
+    ]
+  },
+  {
+    "key": "LIMPIA VIDRIO BIDON",
+    "slug": "limpia-vidrio-bidon",
+    "categoria": "General",
+    "muestra": "LIMPIA VIDRIO BIDON 5 LITROS",
+    "ids": [
+      920
+    ]
+  },
+  {
+    "key": "LIMPIADOR DE PISO",
+    "slug": "limpiador-de-piso",
+    "categoria": "General",
+    "muestra": "LIMPIADOR DE PISO BIDON",
+    "ids": [
+      921
+    ]
+  },
+  {
+    "key": "LIMPIAPISO MR PRO",
+    "slug": "limpiapiso-mr-pro",
+    "categoria": "Articulos De Aseo",
+    "muestra": "LIMPIAPISO MR PRO BRISA MARINA",
+    "ids": [
+      922,
+      923,
+      924
+    ]
+  },
+  {
+    "key": "LINTERNA MINERO",
+    "slug": "linterna-minero",
+    "categoria": "General",
+    "muestra": "LINTERNA MINERO",
+    "ids": [
+      925
+    ]
+  },
+  {
+    "key": "LIQUIDO DE FRENOS",
+    "slug": "liquido-de-frenos",
+    "categoria": "Automotriz",
+    "muestra": "LIQUIDO DE FRENOS SINFINECO 250ML",
+    "ids": [
+      926,
+      927
+    ]
+  },
+  {
+    "key": "LLANA DE GOMA",
+    "slug": "llana-de-goma",
+    "categoria": "General",
+    "muestra": "LLANA DE GOMA 230 X 100 MM",
+    "ids": [
+      928
+    ]
+  },
+  {
+    "key": "LLANA DENTADA (12X12MM)",
+    "slug": "llana-dentada-12x12mm",
+    "categoria": "General",
+    "muestra": "LLANA DENTADA (12X12MM)",
+    "ids": [
+      929
+    ]
+  },
+  {
+    "key": "LLANA DENTADA (5X5MM)",
+    "slug": "llana-dentada-5x5mm",
+    "categoria": "General",
+    "muestra": "LLANA DENTADA (5X5MM)",
+    "ids": [
+      930
+    ]
+  },
+  {
+    "key": "LLANA DENTADA MANGO",
+    "slug": "llana-dentada-mango",
+    "categoria": "General",
+    "muestra": "LLANA DENTADA MANGO PLASTICO",
+    "ids": [
+      931
+    ]
+  },
+  {
+    "key": "LLANA LISA",
+    "slug": "llana-lisa",
+    "categoria": "General",
+    "muestra": "LLANA LISA",
+    "ids": [
+      932
+    ]
+  },
+  {
+    "key": "LLAVE ANGULAR ECO",
+    "slug": "llave-angular-eco",
+    "categoria": "WC",
+    "muestra": "LLAVE ANGULAR ECO YTS CROMADO",
+    "ids": [
+      933
+    ]
+  },
+  {
+    "key": "LLAVE ANGULAR HE-HE",
+    "slug": "llave-angular-he-he",
+    "categoria": "General",
+    "muestra": "LLAVE ANGULAR HE-HE 1/2 TAUMM",
+    "ids": [
+      934
+    ]
+  },
+  {
+    "key": "LLAVE ANGULAR LAVADERO/LAVADORA",
+    "slug": "llave-angular-lavadero-lavadora",
+    "categoria": "General",
+    "muestra": "LLAVE ANGULAR LAVADERO/LAVADORA HE-HE 1/2 X 3/4\"",
+    "ids": [
+      935
+    ]
+  },
+  {
+    "key": "LLAVE BOLA JARDIN",
+    "slug": "llave-bola-jardin",
+    "categoria": "General",
+    "muestra": "LLAVE BOLA JARDIN 3/4\" A 1\"",
+    "ids": [
+      936,
+      937,
+      938
+    ]
+  },
+  {
+    "key": "LLAVE BROQUERO",
+    "slug": "llave-broquero",
+    "categoria": "General",
+    "muestra": "LLAVE BROQUERO 13 MM",
+    "ids": [
+      939
+    ]
+  },
+  {
+    "key": "LLAVE BUJIAS",
+    "slug": "llave-bujias",
+    "categoria": "General",
+    "muestra": "LLAVE BUJIAS",
+    "ids": [
+      940
+    ]
+  },
+  {
+    "key": "LLAVE CRUZ",
+    "slug": "llave-cruz",
+    "categoria": "General",
+    "muestra": "LLAVE CRUZ 14\" (17*19*21*23)",
+    "ids": [
+      941
+    ]
+  },
+  {
+    "key": "LLAVE DE PASO",
+    "slug": "llave-de-paso",
+    "categoria": "Jardin",
+    "muestra": "LLAVE DE PASO AGUA BRONCE SO-SO TAUMM 1/2\"",
+    "ids": [
+      942,
+      943,
+      944
+    ]
+  },
+  {
+    "key": "LLAVE FRANCESA TORO",
+    "slug": "llave-francesa-toro",
+    "categoria": "Herramientas Manual",
+    "muestra": "LLAVE FRANCESA TORO NEGRO 10\"",
+    "ids": [
+      945,
+      946,
+      947
+    ]
+  },
+  {
+    "key": "LLAVE GASFITER",
+    "slug": "llave-gasfiter",
+    "categoria": "General",
+    "muestra": "LLAVE GASFITER",
+    "ids": [
+      948
+    ]
+  },
+  {
+    "key": "LLAVE JARDIN BRONCE",
+    "slug": "llave-jardin-bronce",
+    "categoria": "Jardin",
+    "muestra": "LLAVE JARDIN BRONCE TAUMM 1/2\"",
+    "ids": [
+      949,
+      950
+    ]
+  },
+  {
+    "key": "LLAVE LAVACOPAS TAUMM",
+    "slug": "llave-lavacopas-taumm",
+    "categoria": "Llaves",
+    "muestra": "LLAVE LAVACOPAS TAUMM CROMADA",
+    "ids": [
+      951
+    ]
+  },
+  {
+    "key": "LLAVE PARA GALLETERO",
+    "slug": "llave-para-galletero",
+    "categoria": "Herramientas Manual",
+    "muestra": "LLAVE PARA GALLETERO YTS CROMADA",
+    "ids": [
+      952
+    ]
+  },
+  {
+    "key": "LLAVE PASO GAS",
+    "slug": "llave-paso-gas",
+    "categoria": "Llaves",
+    "muestra": "LLAVE PASO GAS HI-HE 1/2",
+    "ids": [
+      953
+    ]
+  },
+  {
+    "key": "LLAVE PASO PPR",
+    "slug": "llave-paso-ppr",
+    "categoria": "Fitting PPR",
+    "muestra": "LLAVE PASO PPR 20MM",
+    "ids": [
+      954,
+      955,
+      956
+    ]
+  },
+  {
+    "key": "LLAVE PASO PVC",
+    "slug": "llave-paso-pvc",
+    "categoria": "Llaves",
+    "muestra": "LLAVE PASO PVC HIDRAULICO 20 MM",
+    "ids": [
+      957,
+      958,
+      959,
+      960,
+      961
+    ]
+  },
+  {
+    "key": "LLAVE PUNTA CORONA",
+    "slug": "llave-punta-corona",
+    "categoria": "Herramientas Manual",
+    "muestra": "LLAVE PUNTA CORONA NUMERO 10",
+    "ids": [
+      962,
+      963,
+      964,
+      965,
+      966,
+      967,
+      968,
+      969,
+      970,
+      971,
+      972,
+      973,
+      974,
+      975,
+      976,
+      977,
+      978
+    ]
+  },
+  {
+    "key": "LLAVE SIMPLE MIRAGE",
+    "slug": "llave-simple-mirage",
+    "categoria": "Llaves",
+    "muestra": "LLAVE SIMPLE MIRAGE TAUMM CROMADA",
+    "ids": [
+      979
+    ]
+  },
+  {
+    "key": "LLAVE STILSON",
+    "slug": "llave-stilson",
+    "categoria": "General",
+    "muestra": "LLAVE STILSON 10\"",
+    "ids": [
+      980
+    ]
+  },
+  {
+    "key": "LLAVERO IDENTIFICADOR COLORES",
+    "slug": "llavero-identificador-colores",
+    "categoria": "Hogar",
+    "muestra": "LLAVERO IDENTIFICADOR COLORES",
+    "ids": [
+      981
+    ]
+  },
+  {
+    "key": "LUBRICANTE PVC",
+    "slug": "lubricante-pvc",
+    "categoria": "General",
+    "muestra": "LUBRICANTE PVC 500GR VINILIT",
+    "ids": [
+      982
+    ]
+  },
+  {
+    "key": "LUBRICANTE REX40",
+    "slug": "lubricante-rex40",
+    "categoria": "Automotriz",
+    "muestra": "LUBRICANTE REX40 400ML",
+    "ids": [
+      983
+    ]
+  },
+  {
+    "key": "LUBRICANTE TORO NEGRO",
+    "slug": "lubricante-toro-negro",
+    "categoria": "General",
+    "muestra": "LUBRICANTE TORO NEGRO 40 250ML",
+    "ids": [
+      984,
+      985
+    ]
+  },
+  {
+    "key": "LUSTRAMUEBLE CREMA",
+    "slug": "lustramueble-crema",
+    "categoria": "General",
+    "muestra": "LUSTRAMUEBLE CREMA 250ML",
+    "ids": [
+      986
+    ]
+  },
+  {
+    "key": "LYSOFORM DESINFECTANTE",
+    "slug": "lysoform-desinfectante",
+    "categoria": "General",
+    "muestra": "LYSOFORM DESINFECTANTE",
+    "ids": [
+      987
+    ]
+  },
+  {
+    "key": "MACETA",
+    "slug": "maceta",
+    "categoria": "Herramientas Manual",
+    "muestra": "MACETA 2 LIBRAS",
+    "ids": [
+      988,
+      989,
+      990
+    ]
+  },
+  {
+    "key": "MACETA GOMA",
+    "slug": "maceta-goma",
+    "categoria": "Herramientas Manual",
+    "muestra": "MACETA GOMA 8 OZ",
+    "ids": [
+      991,
+      992
+    ]
+  },
+  {
+    "key": "MALLA POLLERA ROLLO",
+    "slug": "malla-pollera-rollo",
+    "categoria": "General",
+    "muestra": "MALLA POLLERA ROLLO 1X10 MTS",
+    "ids": [
+      993
+    ]
+  },
+  {
+    "key": "MALLA RACHEL COLORES",
+    "slug": "malla-rachel-colores",
+    "categoria": "General",
+    "muestra": "MALLA RACHEL COLORES 4 X 100 METROS",
+    "ids": [
+      994
+    ]
+  },
+  {
+    "key": "MALLA RACHEL NEGRA",
+    "slug": "malla-rachel-negra",
+    "categoria": "General",
+    "muestra": "MALLA RACHEL NEGRA 4 X 100 METROS",
+    "ids": [
+      995
+    ]
+  },
+  {
+    "key": "MALLA RASCHEL",
+    "slug": "malla-raschel",
+    "categoria": "General",
+    "muestra": "MALLA RASCHEL 210X100 MTS",
+    "ids": [
+      996
+    ]
+  },
+  {
+    "key": "MALLA VERDE MT",
+    "slug": "malla-verde-mt",
+    "categoria": "General",
+    "muestra": "MALLA VERDE MT 4,20 80% SOMBRA",
+    "ids": [
+      997
+    ]
+  },
+  {
+    "key": "MANGO ESCOBILLON",
+    "slug": "mango-escobillon",
+    "categoria": "General",
+    "muestra": "MANGO ESCOBILLON",
+    "ids": [
+      998
+    ]
+  },
+  {
+    "key": "MANGO MADERA PICOTA/HACHA",
+    "slug": "mango-madera-picota-hacha",
+    "categoria": "General",
+    "muestra": "MANGO MADERA PICOTA/HACHA",
+    "ids": [
+      999
+    ]
+  },
+  {
+    "key": "MANGUERA DESAHUE LAVADORA",
+    "slug": "manguera-desahue-lavadora",
+    "categoria": "General",
+    "muestra": "MANGUERA DESAHUE LAVADORA 1,5 MTS",
+    "ids": [
+      1000
+    ]
+  },
+  {
+    "key": "MANGUERA NIVEL",
+    "slug": "manguera-nivel",
+    "categoria": "General",
+    "muestra": "MANGUERA NIVEL 3/8\" X 100 METROS",
+    "ids": [
+      1001
+    ]
+  },
+  {
+    "key": "MANGUERA PARA GAS",
+    "slug": "manguera-para-gas",
+    "categoria": "Mangueras",
+    "muestra": "MANGUERA PARA GAS AMARILLA METRO",
+    "ids": [
+      1002
+    ]
+  },
+  {
+    "key": "MANGUERA RETRACTIL",
+    "slug": "manguera-retractil",
+    "categoria": "General",
+    "muestra": "MANGUERA RETRACTIL 30 METROS",
+    "ids": [
+      1003
+    ]
+  },
+  {
+    "key": "MANGUERA RIEGO",
+    "slug": "manguera-riego",
+    "categoria": "General",
+    "muestra": "MANGUERA RIEGO 1/2\" ROLLO 10 METROS",
+    "ids": [
+      1004,
+      1005,
+      1006,
+      1007,
+      1008,
+      1009,
+      1010,
+      1011
+    ]
+  },
+  {
+    "key": "MANGUITO CONCENTRICO",
+    "slug": "manguito-concentrico",
+    "categoria": "General",
+    "muestra": "MANGUITO CONCENTRICO",
+    "ids": [
+      1012
+    ]
+  },
+  {
+    "key": "MANGUITO EXCENTRICO BLANCO",
+    "slug": "manguito-excentrico-blanco",
+    "categoria": "WC",
+    "muestra": "MANGUITO EXCENTRICO BLANCO",
+    "ids": [
+      1013
+    ]
+  },
+  {
+    "key": "MANILLA ESTANQUE ECO",
+    "slug": "manilla-estanque-eco",
+    "categoria": "WC",
+    "muestra": "MANILLA ESTANQUE ECO YTS CROMADO",
+    "ids": [
+      1014
+    ]
+  },
+  {
+    "key": "MANILLA MUEBLE INOX",
+    "slug": "manilla-mueble-inox",
+    "categoria": "General",
+    "muestra": "MANILLA MUEBLE INOX 20 CM PAR",
+    "ids": [
+      1015
+    ]
+  },
+  {
+    "key": "MANILLA MUEBLE TORO",
+    "slug": "manilla-mueble-toro",
+    "categoria": "Manillas",
+    "muestra": "MANILLA MUEBLE TORO NEGRO DORADA",
+    "ids": [
+      1016
+    ]
+  },
+  {
+    "key": "MANILLA PARA DESCARGA",
+    "slug": "manilla-para-descarga",
+    "categoria": "General",
+    "muestra": "MANILLA PARA DESCARGA CROMADA MIRAGE",
+    "ids": [
+      1017
+    ]
+  },
+  {
+    "key": "MARCA METAL TORO",
+    "slug": "marca-metal-toro",
+    "categoria": "General",
+    "muestra": "MARCA METAL TORO NEGRO TIPO LAPIZ",
+    "ids": [
+      1018,
+      1019
+    ]
+  },
+  {
+    "key": "MARCO DE SIERRA+HOJA",
+    "slug": "marco-de-sierra-hoja",
+    "categoria": "Herramientas Manual",
+    "muestra": "MARCO DE SIERRA+HOJA TORO NEGRO 12\"",
+    "ids": [
+      1020
+    ]
+  },
+  {
+    "key": "MARCO SIERRA ESCOLAR",
+    "slug": "marco-sierra-escolar",
+    "categoria": "Escolar",
+    "muestra": "MARCO SIERRA ESCOLAR TORO NEGRO 6\"",
+    "ids": [
+      1021
+    ]
+  },
+  {
+    "key": "MARTILLO",
+    "slug": "martillo",
+    "categoria": "General",
+    "muestra": "MARTILLO 16OZ PRETUL",
+    "ids": [
+      1022
+    ]
+  },
+  {
+    "key": "MARTILLO TORO NEGRO",
+    "slug": "martillo-toro-negro",
+    "categoria": "Herramientas Manual",
+    "muestra": "MARTILLO TORO NEGRO 20OZ",
+    "ids": [
+      1023
+    ]
+  },
+  {
+    "key": "MASCARA DE SOLDAR",
+    "slug": "mascara-de-soldar",
+    "categoria": "General",
+    "muestra": "MASCARA DE SOLDAR ECO",
+    "ids": [
+      1024,
+      1025
+    ]
+  },
+  {
+    "key": "MASCARILLA DESECHABLE KN90",
+    "slug": "mascarilla-desechable-kn90",
+    "categoria": "General",
+    "muestra": "MASCARILLA DESECHABLE KN90 PACK 10UN",
+    "ids": [
+      1026
+    ]
+  },
+  {
+    "key": "MASKING TAPE",
+    "slug": "masking-tape",
+    "categoria": "Cintas",
+    "muestra": "MASKING TAPE 48MMX40MTS",
+    "ids": [
+      1027,
+      1028,
+      1029
+    ]
+  },
+  {
+    "key": "MEDIA CAÑA",
+    "slug": "media-cana",
+    "categoria": "General",
+    "muestra": "MEDIA CAÑA 19 MM X 3 METROS",
+    "ids": [
+      1030
+    ]
+  },
+  {
+    "key": "MOLINILLO METALICO",
+    "slug": "molinillo-metalico",
+    "categoria": "General",
+    "muestra": "MOLINILLO METALICO",
+    "ids": [
+      1031
+    ]
+  },
+  {
+    "key": "MONOMANDO CUELLO FLEXIBLE",
+    "slug": "monomando-cuello-flexible",
+    "categoria": "Llaves",
+    "muestra": "MONOMANDO CUELLO FLEXIBLE TAUMM NEGRO",
+    "ids": [
+      1032
+    ]
+  },
+  {
+    "key": "MONOMANDO DUCHA COLOMBA",
+    "slug": "monomando-ducha-colomba",
+    "categoria": "General",
+    "muestra": "MONOMANDO DUCHA COLOMBA",
+    "ids": [
+      1033
+    ]
+  },
+  {
+    "key": "MONOMANDO LAVAMANOS COLOMBA",
+    "slug": "monomando-lavamanos-colomba",
+    "categoria": "General",
+    "muestra": "MONOMANDO LAVAMANOS COLOMBA",
+    "ids": [
+      1034
+    ]
+  },
+  {
+    "key": "MONOMANDO LAVAPLATOS COLOMBA",
+    "slug": "monomando-lavaplatos-colomba",
+    "categoria": "General",
+    "muestra": "MONOMANDO LAVAPLATOS COLOMBA",
+    "ids": [
+      1035
+    ]
+  },
+  {
+    "key": "MONOMANDO LAVAPLATOS MIRAGE",
+    "slug": "monomando-lavaplatos-mirage",
+    "categoria": "General",
+    "muestra": "MONOMANDO LAVAPLATOS MIRAGE",
+    "ids": [
+      1036
+    ]
+  },
+  {
+    "key": "MONOMANDO TINADUCHA COLOMBA",
+    "slug": "monomando-tinaducha-colomba",
+    "categoria": "General",
+    "muestra": "MONOMANDO TINADUCHA COLOMBA",
+    "ids": [
+      1037
+    ]
+  },
+  {
+    "key": "MORTERO REPARACION ESTRUCTURAL",
+    "slug": "mortero-reparacion-estructural",
+    "categoria": "General",
+    "muestra": "MORTERO REPARACION ESTRUCTURAL 25 KG (SIKA REP)",
+    "ids": [
+      1038
+    ]
+  },
+  {
+    "key": "MORTERO/HORMIGON PREPARADO SACO",
+    "slug": "mortero-hormigon-preparado-saco",
+    "categoria": "Herramientas",
+    "muestra": "MORTERO/HORMIGON PREPARADO SACO 25KG",
+    "ids": [
+      1039
+    ]
+  },
+  {
+    "key": "NAPOLEON",
+    "slug": "napoleon",
+    "categoria": "General",
+    "muestra": "NAPOLEON 18\"",
+    "ids": [
+      1040
+    ]
+  },
+  {
+    "key": "NEUMATICO+CAMARA PARA CARRETILLA",
+    "slug": "neumatico-camara-para-carretilla",
+    "categoria": "General",
+    "muestra": "NEUMATICO+CAMARA PARA CARRETILLA",
+    "ids": [
+      1041
+    ]
+  },
+  {
+    "key": "NIPLE CABLE COAXIAL",
+    "slug": "niple-cable-coaxial",
+    "categoria": "General",
+    "muestra": "NIPLE CABLE COAXIAL",
+    "ids": [
+      1042
+    ]
+  },
+  {
+    "key": "NIPLE HE -",
+    "slug": "niple-he",
+    "categoria": "General",
+    "muestra": "NIPLE HE - HE BRONCE 1/2\"",
+    "ids": [
+      1043
+    ]
+  },
+  {
+    "key": "NIPLE HI -",
+    "slug": "niple-hi",
+    "categoria": "General",
+    "muestra": "NIPLE HI - HE BRONCE 1/2\"",
+    "ids": [
+      1044
+    ]
+  },
+  {
+    "key": "NIPLE PVC HIDRAULICO",
+    "slug": "niple-pvc-hidraulico",
+    "categoria": "Herramientas",
+    "muestra": "NIPLE PVC HIDRAULICO HE-HE 20MM",
+    "ids": [
+      1045,
+      1046,
+      1047
+    ]
+  },
+  {
+    "key": "NIVEL ALUMINIO CON",
+    "slug": "nivel-aluminio-con",
+    "categoria": "General",
+    "muestra": "NIVEL ALUMINIO CON IMAN 20\" TORO NEGRO",
+    "ids": [
+      1048
+    ]
+  },
+  {
+    "key": "NIVEL MANUAL",
+    "slug": "nivel-manual",
+    "categoria": "General",
+    "muestra": "NIVEL MANUAL 48\" TRUPER",
+    "ids": [
+      1049
+    ]
+  },
+  {
+    "key": "NIVEL TORPEDO TORO",
+    "slug": "nivel-torpedo-toro",
+    "categoria": "Herramientas Manual",
+    "muestra": "NIVEL TORPEDO TORO NEGRO 9\"",
+    "ids": [
+      1050
+    ]
+  },
+  {
+    "key": "NYLON ORILLADORA",
+    "slug": "nylon-orilladora",
+    "categoria": "General",
+    "muestra": "NYLON ORILLADORA 2,4MM X 15MTS",
+    "ids": [
+      1051,
+      1052,
+      1053,
+      1054
+    ]
+  },
+  {
+    "key": "OLEO BRILLANTE BLANCO",
+    "slug": "oleo-brillante-blanco",
+    "categoria": "Pinturas",
+    "muestra": "OLEO BRILLANTE BLANCO 1/4 GALON PASSOL",
+    "ids": [
+      1055
+    ]
+  },
+  {
+    "key": "OVEROL TALLA L",
+    "slug": "overol-talla-l",
+    "categoria": "General",
+    "muestra": "OVEROL TALLA L",
+    "ids": [
+      1056
+    ]
+  },
+  {
+    "key": "OVEROL TALLA XL",
+    "slug": "overol-talla-xl",
+    "categoria": "General",
+    "muestra": "OVEROL TALLA XL",
+    "ids": [
+      1057
+    ]
+  },
+  {
+    "key": "OVEROL TALLA XXL",
+    "slug": "overol-talla-xxl",
+    "categoria": "General",
+    "muestra": "OVEROL TALLA XXL",
+    "ids": [
+      1058
+    ]
+  },
+  {
+    "key": "PALA PUNTA CUADRADA",
+    "slug": "pala-punta-cuadrada",
+    "categoria": "General",
+    "muestra": "PALA PUNTA CUADRADA",
+    "ids": [
+      1059
+    ]
+  },
+  {
+    "key": "PALA PUNTA HUEVO",
+    "slug": "pala-punta-huevo",
+    "categoria": "General",
+    "muestra": "PALA PUNTA HUEVO",
+    "ids": [
+      1060,
+      1064
+    ]
+  },
+  {
+    "key": "PALA ASEO METALICA",
+    "slug": "pala-aseo-metalica",
+    "categoria": "General",
+    "muestra": "PALA ASEO METALICA",
+    "ids": [
+      1061
+    ]
+  },
+  {
+    "key": "PALA ASEO PLASTICA",
+    "slug": "pala-aseo-plastica",
+    "categoria": "General",
+    "muestra": "PALA ASEO PLASTICA",
+    "ids": [
+      1062
+    ]
+  },
+  {
+    "key": "PALA JARDINERA YTS",
+    "slug": "pala-jardinera-yts",
+    "categoria": "Jardin",
+    "muestra": "PALA JARDINERA YTS VERDE",
+    "ids": [
+      1063
+    ]
+  },
+  {
+    "key": "PAÑO MULTIUSO AMARILLO",
+    "slug": "pano-multiuso-amarillo",
+    "categoria": "Articulos De Aseo",
+    "muestra": "PAÑO MULTIUSO AMARILLO",
+    "ids": [
+      1065
+    ]
+  },
+  {
+    "key": "PAÑO COCINA",
+    "slug": "pano-cocina",
+    "categoria": "General",
+    "muestra": "PAÑO COCINA",
+    "ids": [
+      1066
+    ]
+  },
+  {
+    "key": "PAÑO DE ASEO",
+    "slug": "pano-de-aseo",
+    "categoria": "Herramientas",
+    "muestra": "PAÑO DE ASEO 1KG",
+    "ids": [
+      1067,
+      1068
+    ]
+  },
+  {
+    "key": "PAÑO MICROFIBRA COLORES",
+    "slug": "pano-microfibra-colores",
+    "categoria": "Articulos De Aseo",
+    "muestra": "PAÑO MICROFIBRA COLORES",
+    "ids": [
+      1069
+    ]
+  },
+  {
+    "key": "PAÑO MULTIUSO MICROFIBRA",
+    "slug": "pano-multiuso-microfibra",
+    "categoria": "General",
+    "muestra": "PAÑO MULTIUSO MICROFIBRA 35X35CM PACK",
+    "ids": [
+      1070
+    ]
+  },
+  {
+    "key": "PAPEL HIGIENICO",
+    "slug": "papel-higienico",
+    "categoria": "General",
+    "muestra": "PAPEL HIGIENICO",
+    "ids": [
+      1071
+    ]
+  },
+  {
+    "key": "PAPEL HIGIENICO INSTITUCIONAL",
+    "slug": "papel-higienico-institucional",
+    "categoria": "General",
+    "muestra": "PAPEL HIGIENICO INSTITUCIONAL 6 ROLLOS 300MTS",
+    "ids": [
+      1072
+    ]
+  },
+  {
+    "key": "PAPEL HIGIENICO MANGA",
+    "slug": "papel-higienico-manga",
+    "categoria": "General",
+    "muestra": "PAPEL HIGIENICO MANGA 48 ROLLOS",
+    "ids": [
+      1073
+    ]
+  },
+  {
+    "key": "PARCHE PARA BICICLETA",
+    "slug": "parche-para-bicicleta",
+    "categoria": "General",
+    "muestra": "PARCHE PARA BICICLETA 24 UN",
+    "ids": [
+      1074,
+      1075
+    ]
+  },
+  {
+    "key": "PASA TUBO PPR",
+    "slug": "pasa-tubo-ppr",
+    "categoria": "General",
+    "muestra": "PASA TUBO PPR 20MM",
+    "ids": [
+      1076,
+      1077
+    ]
+  },
+  {
+    "key": "PASTA MURO INTERIOR",
+    "slug": "pasta-muro-interior",
+    "categoria": "Pinturas",
+    "muestra": "PASTA MURO INTERIOR 1 KILO",
+    "ids": [
+      1078,
+      1079,
+      1080
+    ]
+  },
+  {
+    "key": "PASTA MURO PLUS",
+    "slug": "pasta-muro-plus",
+    "categoria": "General",
+    "muestra": "PASTA MURO PLUS 24KG WEBER",
+    "ids": [
+      1081
+    ]
+  },
+  {
+    "key": "PASTA SOLDAR",
+    "slug": "pasta-soldar",
+    "categoria": "General",
+    "muestra": "PASTA SOLDAR 50G INDEPP",
+    "ids": [
+      1082
+    ]
+  },
+  {
+    "key": "PATE POLIURETANO BLANCO",
+    "slug": "pate-poliuretano-blanco",
+    "categoria": "General",
+    "muestra": "PATE POLIURETANO BLANCO 600ML",
+    "ids": [
+      1083
+    ]
+  },
+  {
+    "key": "PATE POLIURETANO GRIS",
+    "slug": "pate-poliuretano-gris",
+    "categoria": "Adhesivos",
+    "muestra": "PATE POLIURETANO GRIS 600ML",
+    "ids": [
+      1084
+    ]
+  },
+  {
+    "key": "PATELWELL",
+    "slug": "patelwell",
+    "categoria": "General",
+    "muestra": "PATELWELL 60 GALON",
+    "ids": [
+      1085
+    ]
+  },
+  {
+    "key": "PECHERA SOLDADOR",
+    "slug": "pechera-soldador",
+    "categoria": "General",
+    "muestra": "PECHERA SOLDADOR",
+    "ids": [
+      1086
+    ]
+  },
+  {
+    "key": "PEGA MOSCA SET",
+    "slug": "pega-mosca-set",
+    "categoria": "General",
+    "muestra": "PEGA MOSCA SET 4 UN",
+    "ids": [
+      1087
+    ]
+  },
+  {
+    "key": "PEGAMAC PATEL",
+    "slug": "pegamac-patel",
+    "categoria": "Adhesivos",
+    "muestra": "PEGAMAC PATEL 1/32 DE GALON",
+    "ids": [
+      1088,
+      1089
+    ]
+  },
+  {
+    "key": "PEGAMAC TANKE",
+    "slug": "pegamac-tanke",
+    "categoria": "Adhesivos",
+    "muestra": "PEGAMAC TANKE 57 GRAMOS",
+    "ids": [
+      1090
+    ]
+  },
+  {
+    "key": "PEGAMENTO PARA BICICLETAS",
+    "slug": "pegamento-para-bicicletas",
+    "categoria": "Bicicleta",
+    "muestra": "PEGAMENTO PARA BICICLETAS",
+    "ids": [
+      1091
+    ]
+  },
+  {
+    "key": "PERILLON PUERTA TORO",
+    "slug": "perillon-puerta-toro",
+    "categoria": "General",
+    "muestra": "PERILLON PUERTA TORO NEGRO",
+    "ids": [
+      1092
+    ]
+  },
+  {
+    "key": "PERNO ANCLAJE",
+    "slug": "perno-anclaje",
+    "categoria": "Herramientas",
+    "muestra": "PERNO ANCLAJE 1/2X2 3/4\"",
+    "ids": [
+      1093,
+      1094,
+      1095,
+      1096,
+      1097,
+      1098
+    ]
+  },
+  {
+    "key": "PERNO COCHE",
+    "slug": "perno-coche",
+    "categoria": "General",
+    "muestra": "PERNO COCHE 1/4\" X 1 1/2\" CAJA 100UN",
+    "ids": [
+      1099,
+      1100
+    ]
+  },
+  {
+    "key": "PERNO COCINA",
+    "slug": "perno-cocina",
+    "categoria": "General",
+    "muestra": "PERNO COCINA 3/16 X 1 1/2\" (CAJA 100 UN)",
+    "ids": [
+      1101,
+      1102,
+      1103
+    ]
+  },
+  {
+    "key": "PERNO FIJACION TAPA",
+    "slug": "perno-fijacion-tapa",
+    "categoria": "General",
+    "muestra": "PERNO FIJACION TAPA WC",
+    "ids": [
+      1104
+    ]
+  },
+  {
+    "key": "PERNO HEXAGONAL",
+    "slug": "perno-hexagonal",
+    "categoria": "General",
+    "muestra": "PERNO HEXAGONAL 1/4 X 1 1/4\"",
+    "ids": [
+      1105,
+      1106,
+      1107
+    ]
+  },
+  {
+    "key": "PERNO MARQUEZA",
+    "slug": "perno-marqueza",
+    "categoria": "General",
+    "muestra": "PERNO MARQUEZA 3/8\" X 5\"",
+    "ids": [
+      1108
+    ]
+  },
+  {
+    "key": "PERNOS FIJACION ESTANQUE",
+    "slug": "pernos-fijacion-estanque",
+    "categoria": "General",
+    "muestra": "PERNOS FIJACION ESTANQUE A TAZA MIRAGE",
+    "ids": [
+      1109
+    ]
+  },
+  {
+    "key": "PICAPORTE",
+    "slug": "picaporte",
+    "categoria": "General",
+    "muestra": "PICAPORTE 2 1/2\"",
+    "ids": [
+      1110,
+      1111,
+      1112,
+      1113,
+      1114,
+      1115
+    ]
+  },
+  {
+    "key": "PICOTA",
+    "slug": "picota",
+    "categoria": "General",
+    "muestra": "PICOTA",
+    "ids": [
+      1116
+    ]
+  },
+  {
+    "key": "PIE DE METRO",
+    "slug": "pie-de-metro",
+    "categoria": "General",
+    "muestra": "PIE DE METRO",
+    "ids": [
+      1117
+    ]
+  },
+  {
+    "key": "PIEDRA DE AFILAR",
+    "slug": "piedra-de-afilar",
+    "categoria": "General",
+    "muestra": "PIEDRA DE AFILAR 6\"",
+    "ids": [
+      1118
+    ]
+  },
+  {
+    "key": "PILA D DURACELL",
+    "slug": "pila-d-duracell",
+    "categoria": "General",
+    "muestra": "PILA D DURACELL PAR",
+    "ids": [
+      1119
+    ]
+  },
+  {
+    "key": "PILA PANASONIC AA",
+    "slug": "pila-panasonic-aa",
+    "categoria": "Pilas",
+    "muestra": "PILA PANASONIC AA",
+    "ids": [
+      1120
+    ]
+  },
+  {
+    "key": "PILA PANASONIC AAA",
+    "slug": "pila-panasonic-aaa",
+    "categoria": "Pilas",
+    "muestra": "PILA PANASONIC AAA",
+    "ids": [
+      1121
+    ]
+  },
+  {
+    "key": "PILA PANASONIC D",
+    "slug": "pila-panasonic-d",
+    "categoria": "General",
+    "muestra": "PILA PANASONIC D (PAR)",
+    "ids": [
+      1122
+    ]
+  },
+  {
+    "key": "PILETA UNIVERSAL",
+    "slug": "pileta-universal",
+    "categoria": "Herramientas",
+    "muestra": "PILETA UNIVERSAL",
+    "ids": [
+      1123
+    ]
+  },
+  {
+    "key": "PINO AROMA NEW",
+    "slug": "pino-aroma-new",
+    "categoria": "Automotriz",
+    "muestra": "PINO AROMA NEW CAR",
+    "ids": [
+      1124
+    ]
+  },
+  {
+    "key": "PINO AROMA STRAWBERRY",
+    "slug": "pino-aroma-strawberry",
+    "categoria": "Automotriz",
+    "muestra": "PINO AROMA STRAWBERRY",
+    "ids": [
+      1125
+    ]
+  },
+  {
+    "key": "PINO AROMA ICE",
+    "slug": "pino-aroma-ice",
+    "categoria": "General",
+    "muestra": "PINO AROMA ICE BLACK",
+    "ids": [
+      1126
+    ]
+  },
+  {
+    "key": "PINO AROMA VAINILLA",
+    "slug": "pino-aroma-vainilla",
+    "categoria": "General",
+    "muestra": "PINO AROMA VAINILLA",
+    "ids": [
+      1127
+    ]
+  },
+  {
+    "key": "PINO AROMATICO ROYAL",
+    "slug": "pino-aromatico-royal",
+    "categoria": "General",
+    "muestra": "PINO AROMATICO ROYAL PINE",
+    "ids": [
+      1128
+    ]
+  },
+  {
+    "key": "PINTACAL",
+    "slug": "pintacal",
+    "categoria": "General",
+    "muestra": "PINTACAL 1 KG",
+    "ids": [
+      1129
+    ]
+  },
+  {
+    "key": "PINTURA PARA TECHO",
+    "slug": "pintura-para-techo",
+    "categoria": "General",
+    "muestra": "PINTURA PARA TECHO GALON NEGRO",
+    "ids": [
+      1130,
+      1131,
+      1132
+    ]
+  },
+  {
+    "key": "PINZA TIERRA CON",
+    "slug": "pinza-tierra-con",
+    "categoria": "Soldadura",
+    "muestra": "PINZA TIERRA CON IMAN KAMASA",
+    "ids": [
+      1133
+    ]
+  },
+  {
+    "key": "PINZA TIERRA MAQUINA",
+    "slug": "pinza-tierra-maquina",
+    "categoria": "Herramientas",
+    "muestra": "PINZA TIERRA MAQUINA DE SOLDAR",
+    "ids": [
+      1134
+    ]
+  },
+  {
+    "key": "PISTOLA CALOR TH-HA",
+    "slug": "pistola-calor-th-ha",
+    "categoria": "General",
+    "muestra": "PISTOLA CALOR TH-HA 2000/1",
+    "ids": [
+      1135
+    ]
+  },
+  {
+    "key": "PISTOLA P/ PINTURA",
+    "slug": "pistola-p-pintura",
+    "categoria": "General",
+    "muestra": "PISTOLA P/ PINTURA DE ALTA PRESION",
+    "ids": [
+      1136
+    ]
+  },
+  {
+    "key": "PISTOLA RIEGO CON",
+    "slug": "pistola-riego-con",
+    "categoria": "General",
+    "muestra": "PISTOLA RIEGO CON ACCESORIOS HOFFENS",
+    "ids": [
+      1137
+    ]
+  },
+  {
+    "key": "PISTOLA RIEGO TORO",
+    "slug": "pistola-riego-toro",
+    "categoria": "General",
+    "muestra": "PISTOLA RIEGO TORO NEGRO",
+    "ids": [
+      1138
+    ]
+  },
+  {
+    "key": "PISTOLA SILICONA CALIENTE",
+    "slug": "pistola-silicona-caliente",
+    "categoria": "Escolar",
+    "muestra": "PISTOLA SILICONA CALIENTE",
+    "ids": [
+      1139,
+      1140
+    ]
+  },
+  {
+    "key": "PITA ALGODON",
+    "slug": "pita-algodon",
+    "categoria": "General",
+    "muestra": "PITA ALGODON 50 GRS",
+    "ids": [
+      1141
+    ]
+  },
+  {
+    "key": "PITA PLASTICA",
+    "slug": "pita-plastica",
+    "categoria": "General",
+    "muestra": "PITA PLASTICA 50 GRS",
+    "ids": [
+      1142
+    ]
+  },
+  {
+    "key": "PLACA CIEGA CON",
+    "slug": "placa-ciega-con",
+    "categoria": "General",
+    "muestra": "PLACA CIEGA CON SOPORTE BLANCA",
+    "ids": [
+      1143,
+      1144
+    ]
+  },
+  {
+    "key": "PLAFON BLANCO",
+    "slug": "plafon-blanco",
+    "categoria": "Electricidad",
+    "muestra": "PLAFON BLANCO",
+    "ids": [
+      1145
+    ]
+  },
+  {
+    "key": "PLANA CUADRADA TORO",
+    "slug": "plana-cuadrada-toro",
+    "categoria": "Herramientas Manual",
+    "muestra": "PLANA CUADRADA TORO NEGRO 7 PULGADAS",
+    "ids": [
+      1146
+    ]
+  },
+  {
+    "key": "PLANA PUNTA HUEVO",
+    "slug": "plana-punta-huevo",
+    "categoria": "Herramientas",
+    "muestra": "PLANA PUNTA HUEVO TORO NEGRO 7 PULGADAS",
+    "ids": [
+      1147
+    ]
+  },
+  {
+    "key": "PLANCHA INTERNIT",
+    "slug": "plancha-internit",
+    "categoria": "General",
+    "muestra": "PLANCHA INTERNIT 6 MM",
+    "ids": [
+      1148
+    ]
+  },
+  {
+    "key": "PLATACHO MADERA",
+    "slug": "platacho-madera",
+    "categoria": "General",
+    "muestra": "PLATACHO MADERA 12 X 35 CM (CHICO)",
+    "ids": [
+      1149,
+      1150
+    ]
+  },
+  {
+    "key": "PLATO DUCHA CON",
+    "slug": "plato-ducha-con",
+    "categoria": "Llaves",
+    "muestra": "PLATO DUCHA CON BRAZO TAUMM CROMADO",
+    "ids": [
+      1151
+    ]
+  },
+  {
+    "key": "PLOMO BRONCE TRUPER",
+    "slug": "plomo-bronce-truper",
+    "categoria": "General",
+    "muestra": "PLOMO BRONCE TRUPER 12 OZ",
+    "ids": [
+      1152,
+      1153
+    ]
+  },
+  {
+    "key": "PLUMILLA PARABRISAS",
+    "slug": "plumilla-parabrisas",
+    "categoria": "Automotriz",
+    "muestra": "PLUMILLA PARABRISAS 15 WURTH 380MM",
+    "ids": [
+      1154,
+      1155,
+      1156
+    ]
+  },
+  {
+    "key": "PLUMILLA UNIVERSAL",
+    "slug": "plumilla-universal",
+    "categoria": "Automotriz",
+    "muestra": "PLUMILLA UNIVERSAL 18 WURTH 450MM",
+    "ids": [
+      1157
+    ]
+  },
+  {
+    "key": "POLIETILENO NEGRO",
+    "slug": "polietileno-negro",
+    "categoria": "General",
+    "muestra": "POLIETILENO NEGRO 0.10 X 60 MTS",
+    "ids": [
+      1158
+    ]
+  },
+  {
+    "key": "POLIETILENO TRANSPARENTE",
+    "slug": "polietileno-transparente",
+    "categoria": "General",
+    "muestra": "POLIETILENO TRANSPARENTE 0,15 X 90 MTS",
+    "ids": [
+      1159
+    ]
+  },
+  {
+    "key": "POMEL PAR",
+    "slug": "pomel-par",
+    "categoria": "General",
+    "muestra": "POMEL PAR 1\"",
+    "ids": [
+      1160,
+      1161,
+      1162,
+      1163,
+      1164,
+      1165
+    ]
+  },
+  {
+    "key": "PORTA ELECTRODO TORO",
+    "slug": "porta-electrodo-toro",
+    "categoria": "Herramientas",
+    "muestra": "PORTA ELECTRODO TORO NEGRO 500AM",
+    "ids": [
+      1166
+    ]
+  },
+  {
+    "key": "PRENSA C",
+    "slug": "prensa-c",
+    "categoria": "General",
+    "muestra": "PRENSA C 6\"",
+    "ids": [
+      1167
+    ]
+  },
+  {
+    "key": "PRENSA CROSBY",
+    "slug": "prensa-crosby",
+    "categoria": "General",
+    "muestra": "PRENSA CROSBY 10 MM",
+    "ids": [
+      1168,
+      1169
+    ]
+  },
+  {
+    "key": "PROBADOR DE CORRIENTE",
+    "slug": "probador-de-corriente",
+    "categoria": "General",
+    "muestra": "PROBADOR DE CORRIENTE GRANDE",
+    "ids": [
+      1170,
+      1171
+    ]
+  },
+  {
+    "key": "PROYECTOR LED",
+    "slug": "proyector-led",
+    "categoria": "General",
+    "muestra": "PROYECTOR LED 20W",
+    "ids": [
+      1172
+    ]
+  },
+  {
+    "key": "PULPO AMARRE YTS",
+    "slug": "pulpo-amarre-yts",
+    "categoria": "Hogar",
+    "muestra": "PULPO AMARRE YTS 120CM",
+    "ids": [
+      1173
+    ]
+  },
+  {
+    "key": "PUNTA ESTRELLA T25",
+    "slug": "punta-estrella-t25",
+    "categoria": "General",
+    "muestra": "PUNTA ESTRELLA T25",
+    "ids": [
+      1174
+    ]
+  },
+  {
+    "key": "PUNTA ESTRELLA T30",
+    "slug": "punta-estrella-t30",
+    "categoria": "General",
+    "muestra": "PUNTA ESTRELLA T30",
+    "ids": [
+      1175
+    ]
+  },
+  {
+    "key": "PUNTA PHILLIPS PH1",
+    "slug": "punta-phillips-ph1",
+    "categoria": "General",
+    "muestra": "PUNTA PHILLIPS PH1 TRUPER",
+    "ids": [
+      1176
+    ]
+  },
+  {
+    "key": "PUNTA PHILLIPS PH2",
+    "slug": "punta-phillips-ph2",
+    "categoria": "General",
+    "muestra": "PUNTA PHILLIPS PH2 CON TOPE HEMIC",
+    "ids": [
+      1177,
+      1178,
+      1179,
+      1180,
+      1181
+    ]
+  },
+  {
+    "key": "PUNTA PHILLIPS PH3",
+    "slug": "punta-phillips-ph3",
+    "categoria": "General",
+    "muestra": "PUNTA PHILLIPS PH3 TRUPER",
+    "ids": [
+      1182
+    ]
+  },
+  {
+    "key": "PUNTILLA",
+    "slug": "puntilla",
+    "categoria": "Herramientas",
+    "muestra": "PUNTILLA 2\"",
+    "ids": [
+      1183,
+      1184
+    ]
+  },
+  {
+    "key": "PUNTO CINCEL SDS",
+    "slug": "punto-cincel-sds",
+    "categoria": "Brocas",
+    "muestra": "PUNTO CINCEL SDS MAX MAKITA 280MM",
+    "ids": [
+      1185,
+      1186
+    ]
+  },
+  {
+    "key": "PUNTO PALETA SDS",
+    "slug": "punto-paleta-sds",
+    "categoria": "Brocas",
+    "muestra": "PUNTO PALETA SDS MAX MAKITA 25CMX400MM",
+    "ids": [
+      1187
+    ]
+  },
+  {
+    "key": "RASPADOR DE VIDRIO",
+    "slug": "raspador-de-vidrio",
+    "categoria": "General",
+    "muestra": "RASPADOR DE VIDRIO METALICO",
+    "ids": [
+      1188,
+      1189
+    ]
+  },
+  {
+    "key": "RASPADOR Y APLICADOR",
+    "slug": "raspador-y-aplicador",
+    "categoria": "General",
+    "muestra": "RASPADOR Y APLICADOR DE SILICONA",
+    "ids": [
+      1190
+    ]
+  },
+  {
+    "key": "RASTRILLO",
+    "slug": "rastrillo",
+    "categoria": "General",
+    "muestra": "RASTRILLO 14 DIENTES MANGO MADERA",
+    "ids": [
+      1191
+    ]
+  },
+  {
+    "key": "RECOGEDOR TELESCOPICO C/",
+    "slug": "recogedor-telescopico-c",
+    "categoria": "General",
+    "muestra": "RECOGEDOR TELESCOPICO C/ IMAN",
+    "ids": [
+      1192
+    ]
+  },
+  {
+    "key": "REDUCCION PPR",
+    "slug": "reduccion-ppr",
+    "categoria": "Fitting PPR",
+    "muestra": "REDUCCION PPR 25X20MM",
+    "ids": [
+      1193,
+      1194
+    ]
+  },
+  {
+    "key": "REDUCCION PVC HIDRAULICO",
+    "slug": "reduccion-pvc-hidraulico",
+    "categoria": "Fitting Hidraulico",
+    "muestra": "REDUCCION PVC HIDRAULICO 25X20MM",
+    "ids": [
+      1195,
+      1196,
+      1197,
+      1198,
+      1199
+    ]
+  },
+  {
+    "key": "REDUCCION PVC SANITARIO",
+    "slug": "reduccion-pvc-sanitario",
+    "categoria": "Fitting PVC",
+    "muestra": "REDUCCION PVC SANITARIO 110X50MM",
+    "ids": [
+      1200,
+      1201,
+      1202,
+      1203
+    ]
+  },
+  {
+    "key": "REDUCCION SO",
+    "slug": "reduccion-so",
+    "categoria": "General",
+    "muestra": "REDUCCION SO 3/4 X 1/2 BRONCE",
+    "ids": [
+      1204
+    ]
+  },
+  {
+    "key": "REGLA ALUMINIO",
+    "slug": "regla-aluminio",
+    "categoria": "General",
+    "muestra": "REGLA ALUMINIO 75X25X6 MTS",
+    "ids": [
+      1205
+    ]
+  },
+  {
+    "key": "REGLETAS DE CONEXIÓN",
+    "slug": "regletas-de-conexion",
+    "categoria": "Electricidad",
+    "muestra": "REGLETAS DE CONEXIÓN 12 POLOS STANDFORD",
+    "ids": [
+      1206
+    ]
+  },
+  {
+    "key": "REGULADOR DE GAS",
+    "slug": "regulador-de-gas",
+    "categoria": "Valvulas",
+    "muestra": "REGULADOR DE GAS CERTIFICADO",
+    "ids": [
+      1207,
+      1208
+    ]
+  },
+  {
+    "key": "REJILLA LAVAPLATOS CROMADA",
+    "slug": "rejilla-lavaplatos-cromada",
+    "categoria": "Hogar",
+    "muestra": "REJILLA LAVAPLATOS CROMADA",
+    "ids": [
+      1209
+    ]
+  },
+  {
+    "key": "REJILLA PILETA BLANCA",
+    "slug": "rejilla-pileta-blanca",
+    "categoria": "General",
+    "muestra": "REJILLA PILETA BLANCA",
+    "ids": [
+      1210
+    ]
+  },
+  {
+    "key": "REMACHADORA",
+    "slug": "remachadora",
+    "categoria": "General",
+    "muestra": "REMACHADORA 9\" TRUPER",
+    "ids": [
+      1211,
+      1212
+    ]
+  },
+  {
+    "key": "REMACHE POP",
+    "slug": "remache-pop",
+    "categoria": "General",
+    "muestra": "REMACHE POP 4 X 10MM BOLSA 100UN",
+    "ids": [
+      1213,
+      1214,
+      1215
+    ]
+  },
+  {
+    "key": "RENOVADOR DE GOMA",
+    "slug": "renovador-de-goma",
+    "categoria": "Automotriz",
+    "muestra": "RENOVADOR DE GOMA REX 650ML",
+    "ids": [
+      1216,
+      1217,
+      1218
+    ]
+  },
+  {
+    "key": "REPUESTO CARTONERO GRANDE",
+    "slug": "repuesto-cartonero-grande",
+    "categoria": "Cortante",
+    "muestra": "REPUESTO CARTONERO GRANDE 18 MM",
+    "ids": [
+      1219
+    ]
+  },
+  {
+    "key": "REPUESTO CARTONERO PEQUEÑO",
+    "slug": "repuesto-cartonero-pequeno",
+    "categoria": "Cortante",
+    "muestra": "REPUESTO CARTONERO PEQUEÑO",
+    "ids": [
+      1220
+    ]
+  },
+  {
+    "key": "REPUESTO CORTADOR DE",
+    "slug": "repuesto-cortador-de",
+    "categoria": "General",
+    "muestra": "REPUESTO CORTADOR DE CERAMICA",
+    "ids": [
+      1221
+    ]
+  },
+  {
+    "key": "REPUESTO GOMA HI",
+    "slug": "repuesto-goma-hi",
+    "categoria": "General",
+    "muestra": "REPUESTO GOMA HI 1/2\"",
+    "ids": [
+      1222,
+      1223
+    ]
+  },
+  {
+    "key": "REPUESTO HOJA SIERRA",
+    "slug": "repuesto-hoja-sierra",
+    "categoria": "General",
+    "muestra": "REPUESTO HOJA SIERRA SABLE",
+    "ids": [
+      1224
+    ]
+  },
+  {
+    "key": "REPUESTO LIJA GRANO",
+    "slug": "repuesto-lija-grano",
+    "categoria": "General",
+    "muestra": "REPUESTO LIJA GRANO 100",
+    "ids": [
+      1225,
+      1226,
+      1227,
+      1228,
+      1229
+    ]
+  },
+  {
+    "key": "REPUESTO RASPADOR DE",
+    "slug": "repuesto-raspador-de",
+    "categoria": "General",
+    "muestra": "REPUESTO RASPADOR DE VIDRIO",
+    "ids": [
+      1230,
+      1231
+    ]
+  },
+  {
+    "key": "RESMA TAMAÑO CARTA",
+    "slug": "resma-tamano-carta",
+    "categoria": "General",
+    "muestra": "RESMA TAMAÑO CARTA",
+    "ids": [
+      1232
+    ]
+  },
+  {
+    "key": "REVOLVEDOR TOMA SDS",
+    "slug": "revolvedor-toma-sds",
+    "categoria": "General",
+    "muestra": "REVOLVEDOR TOMA SDS 100M",
+    "ids": [
+      1233
+    ]
+  },
+  {
+    "key": "RIEL TELESCOPICO",
+    "slug": "riel-telescopico",
+    "categoria": "General",
+    "muestra": "RIEL TELESCOPICO 25 X 400 MM PAR",
+    "ids": [
+      1234
+    ]
+  },
+  {
+    "key": "RODILLERA KBEEN",
+    "slug": "rodillera-kbeen",
+    "categoria": "EPP",
+    "muestra": "RODILLERA KBEEN",
+    "ids": [
+      1235
+    ]
+  },
+  {
+    "key": "RODILLO AMERICANO",
+    "slug": "rodillo-americano",
+    "categoria": "General",
+    "muestra": "RODILLO AMERICANO 18 CM",
+    "ids": [
+      1236
+    ]
+  },
+  {
+    "key": "RODILLO ANTIGOTEO",
+    "slug": "rodillo-antigoteo",
+    "categoria": "General",
+    "muestra": "RODILLO ANTIGOTEO 18CM YTS",
+    "ids": [
+      1237,
+      1238
+    ]
+  },
+  {
+    "key": "RODILLO CHIPORRO ECO",
+    "slug": "rodillo-chiporro-eco",
+    "categoria": "Rodillos",
+    "muestra": "RODILLO CHIPORRO ECO 12 CM",
+    "ids": [
+      1239,
+      1240,
+      1241,
+      1242
+    ]
+  },
+  {
+    "key": "RODILLO CHIPORRO LANA",
+    "slug": "rodillo-chiporro-lana",
+    "categoria": "Rodillos",
+    "muestra": "RODILLO CHIPORRO LANA NATURAL PINTEC 18CM",
+    "ids": [
+      1243
+    ]
+  },
+  {
+    "key": "RODILLO CHIPORRO NATURAL",
+    "slug": "rodillo-chiporro-natural",
+    "categoria": "General",
+    "muestra": "RODILLO CHIPORRO NATURAL 18CM LIZCAL",
+    "ids": [
+      1244
+    ]
+  },
+  {
+    "key": "RODILLO CHIPORRO SINTETICO",
+    "slug": "rodillo-chiporro-sintetico",
+    "categoria": "General",
+    "muestra": "RODILLO CHIPORRO SINTETICO 18CM LIZCAL",
+    "ids": [
+      1245
+    ]
+  },
+  {
+    "key": "RODILLO ESPONJA ECO",
+    "slug": "rodillo-esponja-eco",
+    "categoria": "Rodillos",
+    "muestra": "RODILLO ESPONJA ECO 12 CM",
+    "ids": [
+      1246,
+      1247,
+      1248,
+      1249,
+      1250
+    ]
+  },
+  {
+    "key": "RODILLO POLIESTER",
+    "slug": "rodillo-poliester",
+    "categoria": "General",
+    "muestra": "RODILLO POLIESTER 11 CM LIZCAL",
+    "ids": [
+      1251,
+      1252,
+      1253
+    ]
+  },
+  {
+    "key": "RODILLO TEXTURADO MALLA",
+    "slug": "rodillo-texturado-malla",
+    "categoria": "General",
+    "muestra": "RODILLO TEXTURADO MALLA 18 CM LIZCAL",
+    "ids": [
+      1254
+    ]
+  },
+  {
+    "key": "ROLLO PAPEL TERMICO",
+    "slug": "rollo-papel-termico",
+    "categoria": "General",
+    "muestra": "ROLLO PAPEL TERMICO",
+    "ids": [
+      1255
+    ]
+  },
+  {
+    "key": "RUEDA CARRETILLA",
+    "slug": "rueda-carretilla",
+    "categoria": "Herramientas Manual",
+    "muestra": "RUEDA CARRETILLA",
+    "ids": [
+      1256
+    ]
+  },
+  {
+    "key": "RUEDA GIRATORIA",
+    "slug": "rueda-giratoria",
+    "categoria": "General",
+    "muestra": "RUEDA GIRATORIA 5\"",
+    "ids": [
+      1257
+    ]
+  },
+  {
+    "key": "RUEDA PORTON CON",
+    "slug": "rueda-porton-con",
+    "categoria": "General",
+    "muestra": "RUEDA PORTON CON BASE 100 MM PAR",
+    "ids": [
+      1258,
+      1259,
+      1260,
+      1261,
+      1262
+    ]
+  },
+  {
+    "key": "SACO ESCOMBRO",
+    "slug": "saco-escombro",
+    "categoria": "General",
+    "muestra": "SACO ESCOMBRO 25 KG",
+    "ids": [
+      1263,
+      1264
+    ]
+  },
+  {
+    "key": "SALA DE BAÑO",
+    "slug": "sala-de-bano",
+    "categoria": "General",
+    "muestra": "SALA DE BAÑO",
+    "ids": [
+      1265
+    ]
+  },
+  {
+    "key": "SALIDA DE CAJA",
+    "slug": "salida-de-caja",
+    "categoria": "Canalizacion",
+    "muestra": "SALIDA DE CAJA CONDUIT 16MM",
+    "ids": [
+      1266,
+      1267,
+      1268,
+      1269
+    ]
+  },
+  {
+    "key": "SELLADOR POLIURETANO BLANCO",
+    "slug": "sellador-poliuretano-blanco",
+    "categoria": "General",
+    "muestra": "SELLADOR POLIURETANO BLANCO 300ML",
+    "ids": [
+      1270
+    ]
+  },
+  {
+    "key": "SELLADOR POLIURETANO GRIS",
+    "slug": "sellador-poliuretano-gris",
+    "categoria": "General",
+    "muestra": "SELLADOR POLIURETANO GRIS 300ML",
+    "ids": [
+      1271
+    ]
+  },
+  {
+    "key": "SELLO ANTIFUGAS MIRAGE",
+    "slug": "sello-antifugas-mirage",
+    "categoria": "General",
+    "muestra": "SELLO ANTIFUGAS MIRAGE",
+    "ids": [
+      1272
+    ]
+  },
+  {
+    "key": "SELLO ANTIFUGAS TAUMM",
+    "slug": "sello-antifugas-taumm",
+    "categoria": "General",
+    "muestra": "SELLO ANTIFUGAS TAUMM",
+    "ids": [
+      1273
+    ]
+  },
+  {
+    "key": "SEPARADOR CERAMICA PARA",
+    "slug": "separador-ceramica-para",
+    "categoria": "Herramientas",
+    "muestra": "SEPARADOR CERAMICA PARA CUÑAS 100UN",
+    "ids": [
+      1274
+    ]
+  },
+  {
+    "key": "SEPARADOR DE CERAMICA",
+    "slug": "separador-de-ceramica",
+    "categoria": "Ceramica",
+    "muestra": "SEPARADOR DE CERAMICA 100UN AKILDA 2,5MM",
+    "ids": [
+      1275,
+      1276,
+      1277,
+      1278,
+      1279
+    ]
+  },
+  {
+    "key": "SERRUCHO MANUAL",
+    "slug": "serrucho-manual",
+    "categoria": "General",
+    "muestra": "SERRUCHO MANUAL 18\"",
+    "ids": [
+      1280,
+      1281
+    ]
+  },
+  {
+    "key": "SERRUCHO PODA",
+    "slug": "serrucho-poda",
+    "categoria": "Cortante",
+    "muestra": "SERRUCHO PODA",
+    "ids": [
+      1282
+    ]
+  },
+  {
+    "key": "SET ACCESORIOS BAÑO",
+    "slug": "set-accesorios-bano",
+    "categoria": "General",
+    "muestra": "SET ACCESORIOS BAÑO 5 PIEZAS COLOMBA",
+    "ids": [
+      1283
+    ]
+  },
+  {
+    "key": "SET ACCESORIOS COMPRESOR",
+    "slug": "set-accesorios-compresor",
+    "categoria": "General",
+    "muestra": "SET ACCESORIOS COMPRESOR 5 PIEZAS",
+    "ids": [
+      1284
+    ]
+  },
+  {
+    "key": "SET ATORNILLADOR",
+    "slug": "set-atornillador",
+    "categoria": "General",
+    "muestra": "SET ATORNILLADOR 2 PIEZAS",
+    "ids": [
+      1285,
+      1286
+    ]
+  },
+  {
+    "key": "SET ATORNILLADOR DE",
+    "slug": "set-atornillador-de",
+    "categoria": "Herramientas Manual",
+    "muestra": "SET ATORNILLADOR DE PRECISION ASAKI 6 PIEZAS",
+    "ids": [
+      1287
+    ]
+  },
+  {
+    "key": "SET BROCA ESCALONADA",
+    "slug": "set-broca-escalonada",
+    "categoria": "General",
+    "muestra": "SET BROCA ESCALONADA",
+    "ids": [
+      1288
+    ]
+  },
+  {
+    "key": "SET CUCHILLO CEPILLO",
+    "slug": "set-cuchillo-cepillo",
+    "categoria": "General",
+    "muestra": "SET CUCHILLO CEPILLO DT3676 DW",
+    "ids": [
+      1289
+    ]
+  },
+  {
+    "key": "SET DUCHA PEPITA",
+    "slug": "set-ducha-pepita",
+    "categoria": "Flexibles",
+    "muestra": "SET DUCHA PEPITA YTS CROMADO",
+    "ids": [
+      1290
+    ]
+  },
+  {
+    "key": "SET DUCHA SWEERT",
+    "slug": "set-ducha-sweert",
+    "categoria": "Herramientas",
+    "muestra": "SET DUCHA SWEERT TAUMM",
+    "ids": [
+      1291
+    ]
+  },
+  {
+    "key": "SET EMBUDOS",
+    "slug": "set-embudos",
+    "categoria": "General",
+    "muestra": "SET EMBUDOS",
+    "ids": [
+      1292
+    ]
+  },
+  {
+    "key": "SET ESCOBILLAS PARA",
+    "slug": "set-escobillas-para",
+    "categoria": "Abrasivo",
+    "muestra": "SET ESCOBILLAS PARA TALADRO TORO NEGRO 3 PIEZAS",
+    "ids": [
+      1293
+    ]
+  },
+  {
+    "key": "SET ESCOLAR YTS",
+    "slug": "set-escolar-yts",
+    "categoria": "Escolar",
+    "muestra": "SET ESCOLAR YTS 9 PIEZAS",
+    "ids": [
+      1294
+    ]
+  },
+  {
+    "key": "SET FUSIBLES +",
+    "slug": "set-fusibles",
+    "categoria": "General",
+    "muestra": "SET FUSIBLES + PROBADOR DE CORRIENTE",
+    "ids": [
+      1295
+    ]
+  },
+  {
+    "key": "SET GOMA AUTO",
+    "slug": "set-goma-auto",
+    "categoria": "General",
+    "muestra": "SET GOMA AUTO",
+    "ids": [
+      1296
+    ]
+  },
+  {
+    "key": "SET HOJA SIERRA",
+    "slug": "set-hoja-sierra",
+    "categoria": "General",
+    "muestra": "SET HOJA SIERRA CALADORA 5 PIEZAS",
+    "ids": [
+      1297
+    ]
+  },
+  {
+    "key": "SET JARDIN HUERTO",
+    "slug": "set-jardin-huerto",
+    "categoria": "General",
+    "muestra": "SET JARDIN HUERTO PEQUEÑO 3 PIEZAS",
+    "ids": [
+      1298,
+      1299
+    ]
+  },
+  {
+    "key": "SET O RING",
+    "slug": "set-o-ring",
+    "categoria": "General",
+    "muestra": "SET O RING 225 PIEZAS",
+    "ids": [
+      1300
+    ]
+  },
+  {
+    "key": "SET SIERRA COPA",
+    "slug": "set-sierra-copa",
+    "categoria": "General",
+    "muestra": "SET SIERRA COPA 6 PIEZAS",
+    "ids": [
+      1301,
+      1302
+    ]
+  },
+  {
+    "key": "SHAMPOO CARROCERIA SOQUIPRA",
+    "slug": "shampoo-carroceria-soquipra",
+    "categoria": "Automotriz",
+    "muestra": "SHAMPOO CARROCERIA SOQUIPRA 1 LITRO",
+    "ids": [
+      1303
+    ]
+  },
+  {
+    "key": "SIERRA CIRCULAR",
+    "slug": "sierra-circular",
+    "categoria": "General",
+    "muestra": "SIERRA CIRCULAR 7 1/4\" DEWALT 1500W",
+    "ids": [
+      1304
+    ]
+  },
+  {
+    "key": "SIERRA COPA BIMETAL",
+    "slug": "sierra-copa-bimetal",
+    "categoria": "General",
+    "muestra": "SIERRA COPA BIMETAL 102MM",
+    "ids": [
+      1305,
+      1306,
+      1307,
+      1308,
+      1309,
+      1310,
+      1311,
+      1312,
+      1313,
+      1314,
+      1315,
+      1316,
+      1317,
+      1318,
+      1319,
+      1320
+    ]
+  },
+  {
+    "key": "SIFON CORRUGADO",
+    "slug": "sifon-corrugado",
+    "categoria": "General",
+    "muestra": "SIFON CORRUGADO 1 1/2\" TORO NEGRO",
+    "ids": [
+      1321,
+      1322
+    ]
+  },
+  {
+    "key": "SIFON DOBLE LAVAPLATOS",
+    "slug": "sifon-doble-lavaplatos",
+    "categoria": "General",
+    "muestra": "SIFON DOBLE LAVAPLATOS 1 1/2\"",
+    "ids": [
+      1323
+    ]
+  },
+  {
+    "key": "SIFON LAVAMANOS",
+    "slug": "sifon-lavamanos",
+    "categoria": "General",
+    "muestra": "SIFON LAVAMANOS 1 1/4\" TAUMM",
+    "ids": [
+      1324
+    ]
+  },
+  {
+    "key": "SIFON LAVAMANOS METALICO",
+    "slug": "sifon-lavamanos-metalico",
+    "categoria": "General",
+    "muestra": "SIFON LAVAMANOS METALICO TAUMM",
+    "ids": [
+      1325
+    ]
+  },
+  {
+    "key": "SIFON LAVAPLATOS",
+    "slug": "sifon-lavaplatos",
+    "categoria": "General",
+    "muestra": "SIFON LAVAPLATOS 1 1/2 CON CODO DE SALIDA TAUMM",
+    "ids": [
+      1326,
+      1327
+    ]
+  },
+  {
+    "key": "SIFON TINA BLANCO",
+    "slug": "sifon-tina-blanco",
+    "categoria": "Sifones",
+    "muestra": "SIFON TINA BLANCO",
+    "ids": [
+      1328
+    ]
+  },
+  {
+    "key": "SIKADUR",
+    "slug": "sikadur",
+    "categoria": "Herramientas",
+    "muestra": "SIKADUR 31 SIKA",
+    "ids": [
+      1329,
+      1330
+    ]
+  },
+  {
+    "key": "SILICONA ACETICA BLANCA",
+    "slug": "silicona-acetica-blanca",
+    "categoria": "General",
+    "muestra": "SILICONA ACETICA BLANCA",
+    "ids": [
+      1331
+    ]
+  },
+  {
+    "key": "SILICONA ACETICA NEGRA",
+    "slug": "silicona-acetica-negra",
+    "categoria": "General",
+    "muestra": "SILICONA ACETICA NEGRA",
+    "ids": [
+      1332
+    ]
+  },
+  {
+    "key": "SILICONA ACETICA TRANSPARENTE",
+    "slug": "silicona-acetica-transparente",
+    "categoria": "General",
+    "muestra": "SILICONA ACETICA TRANSPARENTE",
+    "ids": [
+      1333
+    ]
+  },
+  {
+    "key": "SILICONA ADHESIVO DE",
+    "slug": "silicona-adhesivo-de",
+    "categoria": "Siliconas",
+    "muestra": "SILICONA ADHESIVO DE MONTAJE",
+    "ids": [
+      1334
+    ]
+  },
+  {
+    "key": "SILICONA ALTA TEMPERATURA",
+    "slug": "silicona-alta-temperatura",
+    "categoria": "General",
+    "muestra": "SILICONA ALTA TEMPERATURA 300ML",
+    "ids": [
+      1335,
+      1336
+    ]
+  },
+  {
+    "key": "SILICONA NEUTRA BLANCA",
+    "slug": "silicona-neutra-blanca",
+    "categoria": "General",
+    "muestra": "SILICONA NEUTRA BLANCA",
+    "ids": [
+      1337
+    ]
+  },
+  {
+    "key": "SILICONA NEUTRA NEGRA",
+    "slug": "silicona-neutra-negra",
+    "categoria": "General",
+    "muestra": "SILICONA NEUTRA NEGRA",
+    "ids": [
+      1338
+    ]
+  },
+  {
+    "key": "SILICONA NEUTRA TOFFEE",
+    "slug": "silicona-neutra-toffee",
+    "categoria": "General",
+    "muestra": "SILICONA NEUTRA TOFFEE",
+    "ids": [
+      1339
+    ]
+  },
+  {
+    "key": "SILICONA PINTABLE ACRILICA",
+    "slug": "silicona-pintable-acrilica",
+    "categoria": "Siliconas",
+    "muestra": "SILICONA PINTABLE ACRILICA",
+    "ids": [
+      1340
+    ]
+  },
+  {
+    "key": "SILICONA TABLERO REX",
+    "slug": "silicona-tablero-rex",
+    "categoria": "Automotriz",
+    "muestra": "SILICONA TABLERO REX 650ML",
+    "ids": [
+      1341
+    ]
+  },
+  {
+    "key": "SILICONA TABLERO SOQUIPRA",
+    "slug": "silicona-tablero-soquipra",
+    "categoria": "Automotriz",
+    "muestra": "SILICONA TABLERO SOQUIPRA 1 LITRO",
+    "ids": [
+      1342
+    ]
+  },
+  {
+    "key": "SILICONA TABLERO TORO",
+    "slug": "silicona-tablero-toro",
+    "categoria": "Automotriz",
+    "muestra": "SILICONA TABLERO TORO NEGRO 480ML",
+    "ids": [
+      1343
+    ]
+  },
+  {
+    "key": "SILICONA TAPAGOTERA REX",
+    "slug": "silicona-tapagotera-rex",
+    "categoria": "General",
+    "muestra": "SILICONA TAPAGOTERA REX",
+    "ids": [
+      1344
+    ]
+  },
+  {
+    "key": "SODA CAUSTICA",
+    "slug": "soda-caustica",
+    "categoria": "General",
+    "muestra": "SODA CAUSTICA 1 KG",
+    "ids": [
+      1345,
+      1346
+    ]
+  },
+  {
+    "key": "SOLDADURA PLATA INDEPP",
+    "slug": "soldadura-plata-indepp",
+    "categoria": "Soldadura",
+    "muestra": "SOLDADURA PLATA INDEPP 15%",
+    "ids": [
+      1347
+    ]
+  },
+  {
+    "key": "SOPAPO MANGO MADERA",
+    "slug": "sopapo-mango-madera",
+    "categoria": "General",
+    "muestra": "SOPAPO MANGO MADERA",
+    "ids": [
+      1348
+    ]
+  },
+  {
+    "key": "SOPLADOR ELECTRICO TOTAL",
+    "slug": "soplador-electrico-total",
+    "categoria": "Herramientas",
+    "muestra": "SOPLADOR ELECTRICO TOTAL 400W",
+    "ids": [
+      1349
+    ]
+  },
+  {
+    "key": "SOPLETE GASFITER YANES",
+    "slug": "soplete-gasfiter-yanes",
+    "categoria": "General",
+    "muestra": "SOPLETE GASFITER YANES VERDE",
+    "ids": [
+      1350
+    ]
+  },
+  {
+    "key": "SOPLETE REPOSTERO PARA",
+    "slug": "soplete-repostero-para",
+    "categoria": "General",
+    "muestra": "SOPLETE REPOSTERO PARA GAS 227GR",
+    "ids": [
+      1351
+    ]
+  },
+  {
+    "key": "SOPORTE DUCHA ECO",
+    "slug": "soporte-ducha-eco",
+    "categoria": "Flexibles",
+    "muestra": "SOPORTE DUCHA ECO YTS CROMADO",
+    "ids": [
+      1352
+    ]
+  },
+  {
+    "key": "SOPORTE DUCHA SWEERT",
+    "slug": "soporte-ducha-sweert",
+    "categoria": "WC",
+    "muestra": "SOPORTE DUCHA SWEERT TAUMM",
+    "ids": [
+      1353
+    ]
+  },
+  {
+    "key": "SOPORTE TV DE",
+    "slug": "soporte-tv-de",
+    "categoria": "General",
+    "muestra": "SOPORTE TV DE 14\" A 42\"",
+    "ids": [
+      1354,
+      1355
+    ]
+  },
+  {
+    "key": "SOQUETE LAMPARA STANDFORD",
+    "slug": "soquete-lampara-standford",
+    "categoria": "Electricidad",
+    "muestra": "SOQUETE LAMPARA STANDFORD BLANCO",
+    "ids": [
+      1356,
+      1357
+    ]
+  },
+  {
+    "key": "SPRAY ALTA TEMPERATURA",
+    "slug": "spray-alta-temperatura",
+    "categoria": "General",
+    "muestra": "SPRAY ALTA TEMPERATURA NEGRO",
+    "ids": [
+      1358
+    ]
+  },
+  {
+    "key": "SPRAY ALUMINIO TORO",
+    "slug": "spray-aluminio-toro",
+    "categoria": "Pinturas",
+    "muestra": "SPRAY ALUMINIO TORO NEGRO",
+    "ids": [
+      1359
+    ]
+  },
+  {
+    "key": "SPRAY GALVANIZADO EN",
+    "slug": "spray-galvanizado-en",
+    "categoria": "General",
+    "muestra": "SPRAY GALVANIZADO EN FRIO FULLTEC 400ML",
+    "ids": [
+      1360
+    ]
+  },
+  {
+    "key": "SPRAY REX NARANJO",
+    "slug": "spray-rex-naranjo",
+    "categoria": "Pinturas",
+    "muestra": "SPRAY REX NARANJO FLUORECENTE",
+    "ids": [
+      1361
+    ]
+  },
+  {
+    "key": "SPRAY REX ROJO",
+    "slug": "spray-rex-rojo",
+    "categoria": "Pinturas",
+    "muestra": "SPRAY REX ROJO FLUORECENTE",
+    "ids": [
+      1362
+    ]
+  },
+  {
+    "key": "SPRAY REX VERDE",
+    "slug": "spray-rex-verde",
+    "categoria": "Pinturas",
+    "muestra": "SPRAY REX VERDE FLUORECENTE",
+    "ids": [
+      1363
+    ]
+  },
+  {
+    "key": "SPRAY RUST OLEUM",
+    "slug": "spray-rust-oleum",
+    "categoria": "General",
+    "muestra": "SPRAY RUST OLEUM BLANCO",
+    "ids": [
+      1364
+    ]
+  },
+  {
+    "key": "SPRAY TORO NEGRO",
+    "slug": "spray-toro-negro",
+    "categoria": "Pinturas",
+    "muestra": "SPRAY TORO NEGRO 400ML AMARILLO REY",
+    "ids": [
+      1365,
+      1366,
+      1367,
+      1368,
+      1369,
+      1370,
+      1371,
+      1372,
+      1373,
+      1374,
+      1375,
+      1376,
+      1377,
+      1378,
+      1379,
+      1380
+    ]
+  },
+  {
+    "key": "STAIN PASSOL ALERCE",
+    "slug": "stain-passol-alerce",
+    "categoria": "General",
+    "muestra": "STAIN PASSOL ALERCE GALON",
+    "ids": [
+      1381
+    ]
+  },
+  {
+    "key": "STAIN PASSOL INCOLORO",
+    "slug": "stain-passol-incoloro",
+    "categoria": "General",
+    "muestra": "STAIN PASSOL INCOLORO GALON",
+    "ids": [
+      1382
+    ]
+  },
+  {
+    "key": "STAIN PASSOL MIEL",
+    "slug": "stain-passol-miel",
+    "categoria": "General",
+    "muestra": "STAIN PASSOL MIEL GALON",
+    "ids": [
+      1383
+    ]
+  },
+  {
+    "key": "STAIN PASSOL NEGRO",
+    "slug": "stain-passol-negro",
+    "categoria": "General",
+    "muestra": "STAIN PASSOL NEGRO GALON",
+    "ids": [
+      1384
+    ]
+  },
+  {
+    "key": "STAIN PASSOL ROBLE",
+    "slug": "stain-passol-roble",
+    "categoria": "General",
+    "muestra": "STAIN PASSOL ROBLE GALON",
+    "ids": [
+      1385
+    ]
+  },
+  {
+    "key": "SUBE PH POTE",
+    "slug": "sube-ph-pote",
+    "categoria": "General",
+    "muestra": "SUBE PH POTE 1 KG",
+    "ids": [
+      1386
+    ]
+  },
+  {
+    "key": "TABLERO SOBREPUESTO PVC",
+    "slug": "tablero-sobrepuesto-pvc",
+    "categoria": "General",
+    "muestra": "TABLERO SOBREPUESTO PVC 1 POLO BLANCO",
+    "ids": [
+      1387,
+      1388,
+      1389
+    ]
+  },
+  {
+    "key": "TALADRO PERCUTOR",
+    "slug": "taladro-percutor",
+    "categoria": "General",
+    "muestra": "TALADRO PERCUTOR 20V",
+    "ids": [
+      1390
+    ]
+  },
+  {
+    "key": "TAPA CIEGA BLANCA",
+    "slug": "tapa-ciega-blanca",
+    "categoria": "General",
+    "muestra": "TAPA CIEGA BLANCA",
+    "ids": [
+      1391
+    ]
+  },
+  {
+    "key": "TAPA CROMADA PARA",
+    "slug": "tapa-cromada-para",
+    "categoria": "General",
+    "muestra": "TAPA CROMADA PARA LAVAPLATOS",
+    "ids": [
+      1392
+    ]
+  },
+  {
+    "key": "TAPA FINAL PARA",
+    "slug": "tapa-final-para",
+    "categoria": "Electricidad",
+    "muestra": "TAPA FINAL PARA CANALETA ELECTRICA HOFFENS BLANCO",
+    "ids": [
+      1393
+    ]
+  },
+  {
+    "key": "TAPA GORRO HE",
+    "slug": "tapa-gorro-he",
+    "categoria": "General",
+    "muestra": "TAPA GORRO HE BRONCE 1/2\"",
+    "ids": [
+      1394
+    ]
+  },
+  {
+    "key": "TAPA GORRO HI",
+    "slug": "tapa-gorro-hi",
+    "categoria": "General",
+    "muestra": "TAPA GORRO HI BRONCE 1/2\"",
+    "ids": [
+      1395
+    ]
+  },
+  {
+    "key": "TAPA GORRO PPR",
+    "slug": "tapa-gorro-ppr",
+    "categoria": "Fitting PPR",
+    "muestra": "TAPA GORRO PPR 20MM SOLDAR",
+    "ids": [
+      1396,
+      1397,
+      1398,
+      1399,
+      1400
+    ]
+  },
+  {
+    "key": "TAPA GORRO PVC",
+    "slug": "tapa-gorro-pvc",
+    "categoria": "Herramientas",
+    "muestra": "TAPA GORRO PVC HIDRAULICO HE 20MM",
+    "ids": [
+      1401,
+      1402,
+      1403,
+      1404,
+      1405,
+      1406,
+      1407,
+      1408,
+      1409,
+      1410
+    ]
+  },
+  {
+    "key": "TAPA GORRO SO",
+    "slug": "tapa-gorro-so",
+    "categoria": "General",
+    "muestra": "TAPA GORRO SO BRONCE 1/2\" BRONCE",
+    "ids": [
+      1411
+    ]
+  },
+  {
+    "key": "TAPA PINO",
+    "slug": "tapa-pino",
+    "categoria": "General",
+    "muestra": "TAPA PINO 1 X 4 X 3,20",
+    "ids": [
+      1412
+    ]
+  },
+  {
+    "key": "TAPA PVC SANITARIO",
+    "slug": "tapa-pvc-sanitario",
+    "categoria": "Fitting PVC",
+    "muestra": "TAPA PVC SANITARIO 110MM",
+    "ids": [
+      1413,
+      1414,
+      1415,
+      1416
+    ]
+  },
+  {
+    "key": "TAPON AUDITIVO DAUMER",
+    "slug": "tapon-auditivo-daumer",
+    "categoria": "EPP",
+    "muestra": "TAPON AUDITIVO DAUMER",
+    "ids": [
+      1417
+    ]
+  },
+  {
+    "key": "TAPON LAVAPLATOS CON",
+    "slug": "tapon-lavaplatos-con",
+    "categoria": "General",
+    "muestra": "TAPON LAVAPLATOS CON CADENA",
+    "ids": [
+      1418
+    ]
+  },
+  {
+    "key": "TARRO",
+    "slug": "tarro",
+    "categoria": "General",
+    "muestra": "TARRO 400 GR",
+    "ids": [
+      1419
+    ]
+  },
+  {
+    "key": "TARUGO AUTORROSCANTE BOLSA",
+    "slug": "tarugo-autorroscante-bolsa",
+    "categoria": "Tarugos",
+    "muestra": "TARUGO AUTORROSCANTE BOLSA 100UN",
+    "ids": [
+      1420
+    ]
+  },
+  {
+    "key": "TARUGO AUTORROSCANTE UNIDAD",
+    "slug": "tarugo-autorroscante-unidad",
+    "categoria": "Tarugos",
+    "muestra": "TARUGO AUTORROSCANTE UNIDAD 10MM",
+    "ids": [
+      1421
+    ]
+  },
+  {
+    "key": "TARUGO CLAVO",
+    "slug": "tarugo-clavo",
+    "categoria": "General",
+    "muestra": "TARUGO CLAVO 6 X 60 MM",
+    "ids": [
+      1422,
+      1423,
+      1424
+    ]
+  },
+  {
+    "key": "TARUGO FISHER",
+    "slug": "tarugo-fisher",
+    "categoria": "General",
+    "muestra": "TARUGO FISHER 12 MM",
+    "ids": [
+      1425,
+      1426
+    ]
+  },
+  {
+    "key": "TARUGO MADERA",
+    "slug": "tarugo-madera",
+    "categoria": "Tarugos",
+    "muestra": "TARUGO MADERA 50UN M&S 6MM",
+    "ids": [
+      1427,
+      1428,
+      1429
+    ]
+  },
+  {
+    "key": "TARUGO MADERA UNIDAD",
+    "slug": "tarugo-madera-unidad",
+    "categoria": "Tarugos",
+    "muestra": "TARUGO MADERA UNIDAD 10MM",
+    "ids": [
+      1430,
+      1431,
+      1432
+    ]
+  },
+  {
+    "key": "TARUGO PALOMA BOLSA",
+    "slug": "tarugo-paloma-bolsa",
+    "categoria": "Tarugos",
+    "muestra": "TARUGO PALOMA BOLSA 100UN 10MM",
+    "ids": [
+      1433
+    ]
+  },
+  {
+    "key": "TARUGO PALOMA UNIDAD",
+    "slug": "tarugo-paloma-unidad",
+    "categoria": "General",
+    "muestra": "TARUGO PALOMA UNIDAD",
+    "ids": [
+      1434
+    ]
+  },
+  {
+    "key": "TARUGO PLASTICO",
+    "slug": "tarugo-plastico",
+    "categoria": "General",
+    "muestra": "TARUGO PLASTICO 10 MM (50UN)",
+    "ids": [
+      1435,
+      1436,
+      1437
+    ]
+  },
+  {
+    "key": "TARUGO PLASTICO UNIDAD",
+    "slug": "tarugo-plastico-unidad",
+    "categoria": "Tarugos",
+    "muestra": "TARUGO PLASTICO UNIDAD 10MM",
+    "ids": [
+      1438,
+      1439,
+      1440
+    ]
+  },
+  {
+    "key": "TEE DENTADA BRONCE",
+    "slug": "tee-dentada-bronce",
+    "categoria": "General",
+    "muestra": "TEE DENTADA BRONCE",
+    "ids": [
+      1441
+    ]
+  },
+  {
+    "key": "TEE PLANZA",
+    "slug": "tee-planza",
+    "categoria": "General",
+    "muestra": "TEE PLANZA 1\"",
+    "ids": [
+      1442
+    ]
+  },
+  {
+    "key": "TEE PLANZA MANGUERA",
+    "slug": "tee-planza-manguera",
+    "categoria": "General",
+    "muestra": "TEE PLANZA MANGUERA 1/2\"",
+    "ids": [
+      1443,
+      1444
+    ]
+  },
+  {
+    "key": "TEE PPR",
+    "slug": "tee-ppr",
+    "categoria": "Fitting PPR",
+    "muestra": "TEE PPR 20MM SOLDAR",
+    "ids": [
+      1445,
+      1446,
+      1447
+    ]
+  },
+  {
+    "key": "TEE PPR HE",
+    "slug": "tee-ppr-he",
+    "categoria": "Fitting PPR",
+    "muestra": "TEE PPR HE 25X1/2",
+    "ids": [
+      1448,
+      1449
+    ]
+  },
+  {
+    "key": "TEE PPR HI",
+    "slug": "tee-ppr-hi",
+    "categoria": "Fitting PPR",
+    "muestra": "TEE PPR HI 25X3/4",
+    "ids": [
+      1450
+    ]
+  },
+  {
+    "key": "TEE PVC HIDRAULICO",
+    "slug": "tee-pvc-hidraulico",
+    "categoria": "Fitting Hidraulico",
+    "muestra": "TEE PVC HIDRAULICO 20MM",
+    "ids": [
+      1451,
+      1452,
+      1453,
+      1454,
+      1455
+    ]
+  },
+  {
+    "key": "TEE PVC SANITARIO",
+    "slug": "tee-pvc-sanitario",
+    "categoria": "General",
+    "muestra": "TEE PVC SANITARIO 110MM",
+    "ids": [
+      1456,
+      1457,
+      1458,
+      1459,
+      1460,
+      1461,
+      1462,
+      1463,
+      1464,
+      1465
+    ]
+  },
+  {
+    "key": "TEE REGISTRO PVC",
+    "slug": "tee-registro-pvc",
+    "categoria": "General",
+    "muestra": "TEE REGISTRO PVC SANITARIO 110",
+    "ids": [
+      1466
+    ]
+  },
+  {
+    "key": "TEE SO -",
+    "slug": "tee-so",
+    "categoria": "General",
+    "muestra": "TEE SO - HI BRONCE 1/2\"",
+    "ids": [
+      1467
+    ]
+  },
+  {
+    "key": "TEE SO BRONCE",
+    "slug": "tee-so-bronce",
+    "categoria": "General",
+    "muestra": "TEE SO BRONCE 1/2\"",
+    "ids": [
+      1468,
+      1469
+    ]
+  },
+  {
+    "key": "TEFLON AGUA",
+    "slug": "teflon-agua",
+    "categoria": "General",
+    "muestra": "TEFLON AGUA 1/2",
+    "ids": [
+      1470,
+      1471
+    ]
+  },
+  {
+    "key": "TEFLON GAS",
+    "slug": "teflon-gas",
+    "categoria": "General",
+    "muestra": "TEFLON GAS 1/2",
+    "ids": [
+      1472,
+      1473
+    ]
+  },
+  {
+    "key": "TERCIADO ESTRUCTURAL DE",
+    "slug": "terciado-estructural-de",
+    "categoria": "General",
+    "muestra": "TERCIADO ESTRUCTURAL DE 8MM",
+    "ids": [
+      1474
+    ]
+  },
+  {
+    "key": "TERMINAL BATERIA TORO",
+    "slug": "terminal-bateria-toro",
+    "categoria": "Automotriz",
+    "muestra": "TERMINAL BATERIA TORO NEGRO BORNER",
+    "ids": [
+      1475
+    ]
+  },
+  {
+    "key": "TERMINAL CABLE COAXIAL",
+    "slug": "terminal-cable-coaxial",
+    "categoria": "General",
+    "muestra": "TERMINAL CABLE COAXIAL",
+    "ids": [
+      1476
+    ]
+  },
+  {
+    "key": "TERMINAL PPR HE",
+    "slug": "terminal-ppr-he",
+    "categoria": "General",
+    "muestra": "TERMINAL PPR HE 20X1/2",
+    "ids": [
+      1477,
+      1478,
+      1479,
+      1480
+    ]
+  },
+  {
+    "key": "TERMINAL PPR HI",
+    "slug": "terminal-ppr-hi",
+    "categoria": "General",
+    "muestra": "TERMINAL PPR HI 20X1/2",
+    "ids": [
+      1481,
+      1482,
+      1483,
+      1484
+    ]
+  },
+  {
+    "key": "TERMINAL PVC HIDRAULICO",
+    "slug": "terminal-pvc-hidraulico",
+    "categoria": "Herramientas",
+    "muestra": "TERMINAL PVC HIDRAULICO HE 20MM",
+    "ids": [
+      1485,
+      1486,
+      1487,
+      1488,
+      1489,
+      1490,
+      1491,
+      1492,
+      1493,
+      1494
+    ]
+  },
+  {
+    "key": "TERMINAL SO -",
+    "slug": "terminal-so",
+    "categoria": "Fitting",
+    "muestra": "TERMINAL SO - HE BRONCE 1/2\"",
+    "ids": [
+      1495,
+      1496,
+      1497,
+      1498,
+      1499
+    ]
+  },
+  {
+    "key": "TIERRA COLOR ROJA",
+    "slug": "tierra-color-roja",
+    "categoria": "General",
+    "muestra": "TIERRA COLOR ROJA 1 KG DIDEVAL",
+    "ids": [
+      1500
+    ]
+  },
+  {
+    "key": "TIJERA CORTA TUBO",
+    "slug": "tijera-corta-tubo",
+    "categoria": "General",
+    "muestra": "TIJERA CORTA TUBO PPR HOFFENS",
+    "ids": [
+      1501,
+      1502
+    ]
+  },
+  {
+    "key": "TIJERA CORTAR PASTO",
+    "slug": "tijera-cortar-pasto",
+    "categoria": "Jardin",
+    "muestra": "TIJERA CORTAR PASTO AKILDA 12 PULGADAS",
+    "ids": [
+      1503
+    ]
+  },
+  {
+    "key": "TIJERA HOJALATERA",
+    "slug": "tijera-hojalatera",
+    "categoria": "General",
+    "muestra": "TIJERA HOJALATERA 10\" NEVA",
+    "ids": [
+      1504,
+      1505
+    ]
+  },
+  {
+    "key": "TIJERA MULTIUSO YTS",
+    "slug": "tijera-multiuso-yts",
+    "categoria": "Cortante",
+    "muestra": "TIJERA MULTIUSO YTS 10\"",
+    "ids": [
+      1506,
+      1507,
+      1508
+    ]
+  },
+  {
+    "key": "TIJERA PODA",
+    "slug": "tijera-poda",
+    "categoria": "General",
+    "muestra": "TIJERA PODA 7,5\"",
+    "ids": [
+      1509
+    ]
+  },
+  {
+    "key": "TIJERA PODA UVA",
+    "slug": "tijera-poda-uva",
+    "categoria": "General",
+    "muestra": "TIJERA PODA UVA 8\"",
+    "ids": [
+      1510
+    ]
+  },
+  {
+    "key": "TIRAFONDO",
+    "slug": "tirafondo",
+    "categoria": "General",
+    "muestra": "TIRAFONDO 1/4 X 2\" (NEGRO)",
+    "ids": [
+      1511,
+      1512,
+      1513,
+      1514,
+      1515,
+      1516
+    ]
+  },
+  {
+    "key": "TIZADOR CON TIERRA",
+    "slug": "tizador-con-tierra",
+    "categoria": "General",
+    "muestra": "TIZADOR CON TIERRA STANLEY",
+    "ids": [
+      1517,
+      1518,
+      1519
+    ]
+  },
+  {
+    "key": "TIZADOR TORO NEGRO",
+    "slug": "tizador-toro-negro",
+    "categoria": "General",
+    "muestra": "TIZADOR TORO NEGRO 15 METROS",
+    "ids": [
+      1520
+    ]
+  },
+  {
+    "key": "TOALLA HUMEDA",
+    "slug": "toalla-humeda",
+    "categoria": "General",
+    "muestra": "TOALLA HUMEDA",
+    "ids": [
+      1521
+    ]
+  },
+  {
+    "key": "TOALLA JUMBO PREPICADA",
+    "slug": "toalla-jumbo-prepicada",
+    "categoria": "General",
+    "muestra": "TOALLA JUMBO PREPICADA",
+    "ids": [
+      1522
+    ]
+  },
+  {
+    "key": "TOALLA PAPEL",
+    "slug": "toalla-papel",
+    "categoria": "General",
+    "muestra": "TOALLA PAPEL",
+    "ids": [
+      1523,
+      1524
+    ]
+  },
+  {
+    "key": "TOMA A-10 STARRET",
+    "slug": "toma-a-10-starret",
+    "categoria": "General",
+    "muestra": "TOMA A-10 STARRET",
+    "ids": [
+      1525
+    ]
+  },
+  {
+    "key": "TOPE DE PUERTA",
+    "slug": "tope-de-puerta",
+    "categoria": "General",
+    "muestra": "TOPE DE PUERTA CAFE GOMA",
+    "ids": [
+      1526,
+      1527
+    ]
+  },
+  {
+    "key": "TOPE PUERTA MEDIA",
+    "slug": "tope-puerta-media",
+    "categoria": "General",
+    "muestra": "TOPE PUERTA MEDIA LUNA",
+    "ids": [
+      1528
+    ]
+  },
+  {
+    "key": "TORNILLO .SUPER JET",
+    "slug": "tornillo-super-jet",
+    "categoria": "General",
+    "muestra": "TORNILLO .SUPER JET C/PLA.TORX PTA.17 8 X 200",
+    "ids": [
+      1529
+    ]
+  },
+  {
+    "key": "TORNILLO AUTOAVELLANANTE",
+    "slug": "tornillo-autoavellanante",
+    "categoria": "General",
+    "muestra": "TORNILLO AUTOAVELLANANTE 6 X 1 1/4\" PUNTA ESPADA",
+    "ids": [
+      1530,
+      1531
+    ]
+  },
+  {
+    "key": "TORNILLO CABEZA LENTEJA",
+    "slug": "tornillo-cabeza-lenteja",
+    "categoria": "Herramientas",
+    "muestra": "TORNILLO CABEZA LENTEJA PUNTA BROCA 8X1 1/2\" (CAJA)",
+    "ids": [
+      1532,
+      1533,
+      1534,
+      1535,
+      1536,
+      1537,
+      1538,
+      1539,
+      1540,
+      1541,
+      1542,
+      1543,
+      1544,
+      1545,
+      1546,
+      1547,
+      1548,
+      1549
+    ]
+  },
+  {
+    "key": "TORNILLO DRYWALL",
+    "slug": "tornillo-drywall",
+    "categoria": "General",
+    "muestra": "TORNILLO DRYWALL 6 X 1 1/4\" PUNTA FINA 100UN (CAJA)",
+    "ids": [
+      1550,
+      1551
+    ]
+  },
+  {
+    "key": "TORNILLO HEXAGONAL CON",
+    "slug": "tornillo-hexagonal-con",
+    "categoria": "General",
+    "muestra": "TORNILLO HEXAGONAL CON GOLILLA 12X1\" PUNTA BROCA (CAJA)",
+    "ids": [
+      1552,
+      1553,
+      1554,
+      1555,
+      1556,
+      1557,
+      1558,
+      1559,
+      1560,
+      1561,
+      1562,
+      1563,
+      1564,
+      1565
+    ]
+  },
+  {
+    "key": "TORNILLO HEXAGONAL CONICO",
+    "slug": "tornillo-hexagonal-conico",
+    "categoria": "General",
+    "muestra": "TORNILLO HEXAGONAL CONICO CON GOLILLA 12X3/4\" PUNTA BROCA (CAJA)",
+    "ids": [
+      1566
+    ]
+  },
+  {
+    "key": "TORNILLO HEXAGONAL PUNTA",
+    "slug": "tornillo-hexagonal-punta",
+    "categoria": "General",
+    "muestra": "TORNILLO HEXAGONAL PUNTA ESPADA 10X1 1/2\" (CAJA)",
+    "ids": [
+      1567,
+      1568,
+      1569,
+      1570,
+      1571,
+      1572
+    ]
+  },
+  {
+    "key": "TORNILLO HEXAGONAL SIN",
+    "slug": "tornillo-hexagonal-sin",
+    "categoria": "General",
+    "muestra": "TORNILLO HEXAGONAL SIN GOLILLA 10X3/4\" PUNTA BROCA (CAJA)",
+    "ids": [
+      1573
+    ]
+  },
+  {
+    "key": "TORNILLO POLICARBONATO",
+    "slug": "tornillo-policarbonato",
+    "categoria": "General",
+    "muestra": "TORNILLO POLICARBONATO 12 X 2\" PUNTA ESPADA (BOLSA 100 UN)",
+    "ids": [
+      1574
+    ]
+  },
+  {
+    "key": "TORNILLO POLICARBONATO PUNTA",
+    "slug": "tornillo-policarbonato-punta",
+    "categoria": "General",
+    "muestra": "TORNILLO POLICARBONATO PUNTA BROCA 12X1 1/2\" (BOLSA)",
+    "ids": [
+      1575,
+      1576
+    ]
+  },
+  {
+    "key": "TORNILLO SUPER JET",
+    "slug": "tornillo-super-jet-1",
+    "categoria": "General",
+    "muestra": "TORNILLO SUPER JET C/PLA.TORX 5 X 90",
+    "ids": [
+      1577
+    ]
+  },
+  {
+    "key": "TORNILLO TURBO",
+    "slug": "tornillo-turbo",
+    "categoria": "General",
+    "muestra": "TORNILLO TURBO 120 MM",
+    "ids": [
+      1578
+    ]
+  },
+  {
+    "key": "TORNILLO VOLCANITA PUNTA",
+    "slug": "tornillo-volcanita-punta",
+    "categoria": "Herramientas",
+    "muestra": "TORNILLO VOLCANITA PUNTA BROCA 6X1 1/2\" (CAJA)",
+    "ids": [
+      1579,
+      1580,
+      1581,
+      1582,
+      1583,
+      1584,
+      1585,
+      1586,
+      1587
+    ]
+  },
+  {
+    "key": "TORNILLOS CRS",
+    "slug": "tornillos-crs",
+    "categoria": "General",
+    "muestra": "TORNILLOS CRS 100 UN 8 X 3\" (CAJA)",
+    "ids": [
+      1588,
+      1589,
+      1590,
+      1591,
+      1592,
+      1593,
+      1594,
+      1595,
+      1596
+    ]
+  },
+  {
+    "key": "TORNILLOS CRS NEGRO",
+    "slug": "tornillos-crs-negro",
+    "categoria": "General",
+    "muestra": "TORNILLOS CRS NEGRO 6 X 1 1/4\" (CAJA)",
+    "ids": [
+      1597,
+      1598,
+      1599
+    ]
+  },
+  {
+    "key": "TRABADOR DE SERRUCHO",
+    "slug": "trabador-de-serrucho",
+    "categoria": "General",
+    "muestra": "TRABADOR DE SERRUCHO TRUPER",
+    "ids": [
+      1600
+    ]
+  },
+  {
+    "key": "TRAJE DE AGUA",
+    "slug": "traje-de-agua",
+    "categoria": "Herramientas",
+    "muestra": "TRAJE DE AGUA LIOI",
+    "ids": [
+      1601
+    ]
+  },
+  {
+    "key": "TRAMPA RATON METALICA",
+    "slug": "trampa-raton-metalica",
+    "categoria": "General",
+    "muestra": "TRAMPA RATON METALICA 5\" PAR",
+    "ids": [
+      1602,
+      1603
+    ]
+  },
+  {
+    "key": "TRAMPA RATON PEGAJOSA",
+    "slug": "trampa-raton-pegajosa",
+    "categoria": "Hogar",
+    "muestra": "TRAMPA RATON PEGAJOSA YTS GRANDE",
+    "ids": [
+      1604,
+      1605
+    ]
+  },
+  {
+    "key": "TRAPERO ABSORVENTE DOBLE",
+    "slug": "trapero-absorvente-doble",
+    "categoria": "General",
+    "muestra": "TRAPERO ABSORVENTE DOBLE C/OJAL",
+    "ids": [
+      1606
+    ]
+  },
+  {
+    "key": "TRAPERO CON OJAL",
+    "slug": "trapero-con-ojal",
+    "categoria": "Articulos De Aseo",
+    "muestra": "TRAPERO CON OJAL BLANCO",
+    "ids": [
+      1607
+    ]
+  },
+  {
+    "key": "TRAPERO MICROFIBRA CON",
+    "slug": "trapero-microfibra-con",
+    "categoria": "Articulos De Aseo",
+    "muestra": "TRAPERO MICROFIBRA CON OJAL",
+    "ids": [
+      1608
+    ]
+  },
+  {
+    "key": "TUBERIA COBRE METRO",
+    "slug": "tuberia-cobre-metro",
+    "categoria": "General",
+    "muestra": "TUBERIA COBRE METRO",
+    "ids": [
+      1609
+    ]
+  },
+  {
+    "key": "TUBERIA PPR",
+    "slug": "tuberia-ppr",
+    "categoria": "General",
+    "muestra": "TUBERIA PPR 20MM",
+    "ids": [
+      1610,
+      1611,
+      1612,
+      1613,
+      1614,
+      1615
+    ]
+  },
+  {
+    "key": "TUBERIA PVC HIDRAULICO",
+    "slug": "tuberia-pvc-hidraulico",
+    "categoria": "Tuberias",
+    "muestra": "TUBERIA PVC HIDRAULICO 20MM",
+    "ids": [
+      1616,
+      1617,
+      1618,
+      1619,
+      1620,
+      1621,
+      1622,
+      1623
+    ]
+  },
+  {
+    "key": "TUBERIA PVC SANITARIO",
+    "slug": "tuberia-pvc-sanitario",
+    "categoria": "Fitting PVC",
+    "muestra": "TUBERIA PVC SANITARIO 110MM",
+    "ids": [
+      1624,
+      1625,
+      1626,
+      1627,
+      1628,
+      1629,
+      1630,
+      1631,
+      1632
+    ]
+  },
+  {
+    "key": "TUBO",
+    "slug": "tubo",
+    "categoria": "General",
+    "muestra": "TUBO 80MM BLANCO",
+    "ids": [
+      1633
+    ]
+  },
+  {
+    "key": "TUBO CONDUIT",
+    "slug": "tubo-conduit",
+    "categoria": "General",
+    "muestra": "TUBO CONDUIT 16MM",
+    "ids": [
+      1634,
+      1635
+    ]
+  },
+  {
+    "key": "TUBO LED",
+    "slug": "tubo-led",
+    "categoria": "Electricidad",
+    "muestra": "TUBO LED 120CM",
+    "ids": [
+      1636,
+      1637
+    ]
+  },
+  {
+    "key": "TUERCA NEGRA",
+    "slug": "tuerca-negra",
+    "categoria": "General",
+    "muestra": "TUERCA NEGRA 1/2\" CAJA 100UN",
+    "ids": [
+      1638,
+      1639
+    ]
+  },
+  {
+    "key": "UÑETA DOBLE FIJACION",
+    "slug": "uneta-doble-fijacion",
+    "categoria": "General",
+    "muestra": "UÑETA DOBLE FIJACION LAVAMANOS",
+    "ids": [
+      1640
+    ]
+  },
+  {
+    "key": "UÑETA LARGA FIJACION",
+    "slug": "uneta-larga-fijacion",
+    "categoria": "General",
+    "muestra": "UÑETA LARGA FIJACION LAVAMANOS",
+    "ids": [
+      1641
+    ]
+  },
+  {
+    "key": "UÑETA SACACLAVOS FERRAWY",
+    "slug": "uneta-sacaclavos-ferrawy",
+    "categoria": "Herramientas Manual",
+    "muestra": "UÑETA SACACLAVOS FERRAWY 12 PULGADAS",
+    "ids": [
+      1642
+    ]
+  },
+  {
+    "key": "UNION AMERICANA PPR",
+    "slug": "union-americana-ppr",
+    "categoria": "Fitting PPR",
+    "muestra": "UNION AMERICANA PPR 20MM",
+    "ids": [
+      1643,
+      1644,
+      1645
+    ]
+  },
+  {
+    "key": "UNION AMERICANA PVC",
+    "slug": "union-americana-pvc",
+    "categoria": "Fitting Hidraulico",
+    "muestra": "UNION AMERICANA PVC HIDRAULICO 20MM",
+    "ids": [
+      1646,
+      1647,
+      1648,
+      1649,
+      1650
+    ]
+  },
+  {
+    "key": "UNION CADENA CHICA",
+    "slug": "union-cadena-chica",
+    "categoria": "General",
+    "muestra": "UNION CADENA CHICA",
+    "ids": [
+      1651
+    ]
+  },
+  {
+    "key": "UNION CADENA GRANDE",
+    "slug": "union-cadena-grande",
+    "categoria": "General",
+    "muestra": "UNION CADENA GRANDE",
+    "ids": [
+      1652
+    ]
+  },
+  {
+    "key": "UNION PLANZA",
+    "slug": "union-planza",
+    "categoria": "General",
+    "muestra": "UNION PLANZA 1\"",
+    "ids": [
+      1653,
+      1654,
+      1655
+    ]
+  },
+  {
+    "key": "VALVULA DESCARGA CON",
+    "slug": "valvula-descarga-con",
+    "categoria": "General",
+    "muestra": "VALVULA DESCARGA CON FLOTADOR MIRAGE",
+    "ids": [
+      1656
+    ]
+  },
+  {
+    "key": "VALVULA DESCARGA DUAL",
+    "slug": "valvula-descarga-dual",
+    "categoria": "General",
+    "muestra": "VALVULA DESCARGA DUAL",
+    "ids": [
+      1657
+    ]
+  },
+  {
+    "key": "VALVULA DOBLE DESCARGA",
+    "slug": "valvula-doble-descarga",
+    "categoria": "General",
+    "muestra": "VALVULA DOBLE DESCARGA BOTON LATERAL",
+    "ids": [
+      1658
+    ]
+  },
+  {
+    "key": "VEE PVC SANITARIO",
+    "slug": "vee-pvc-sanitario",
+    "categoria": "Fitting PVC",
+    "muestra": "VEE PVC SANITARIO 110X110MM",
+    "ids": [
+      1659,
+      1660,
+      1661,
+      1662,
+      1663,
+      1664,
+      1665,
+      1666,
+      1667
+    ]
+  },
+  {
+    "key": "VIDRIO RECTANGULAR OSCURO",
+    "slug": "vidrio-rectangular-oscuro",
+    "categoria": "General",
+    "muestra": "VIDRIO RECTANGULAR OSCURO G12",
+    "ids": [
+      1668
+    ]
+  },
+  {
+    "key": "VIRUTILLA FINA N°",
+    "slug": "virutilla-fina-n",
+    "categoria": "General",
+    "muestra": "VIRUTILLA FINA N° 2",
+    "ids": [
+      1669
+    ]
+  },
+  {
+    "key": "YESO POR KILO",
+    "slug": "yeso-por-kilo",
+    "categoria": "Herramientas",
+    "muestra": "YESO POR KILO",
+    "ids": [
+      1670
+    ]
+  },
+  {
+    "key": "YESO VOLCAN SACO",
+    "slug": "yeso-volcan-saco",
+    "categoria": "General",
+    "muestra": "YESO VOLCAN SACO 25 KG",
+    "ids": [
+      1671
+    ]
+  },
+  {
+    "key": "ZAPATO DE SEGURIDAD",
+    "slug": "zapato-de-seguridad",
+    "categoria": "Herramientas",
+    "muestra": "ZAPATO DE SEGURIDAD LEGEND LG610 TALLA 42",
+    "ids": [
+      1672,
+      1673,
+      1674
+    ]
+  },
+  {
+    "key": "ZINC",
+    "slug": "zinc",
+    "categoria": "General",
+    "muestra": "ZINC 5V 2,5 X 0,35",
+    "ids": [
+      1675
+    ]
+  },
+  {
+    "key": "ZINC ACANALADO",
+    "slug": "zinc-acanalado",
+    "categoria": "General",
+    "muestra": "ZINC ACANALADO 3,66X0,35",
+    "ids": [
+      1676
+    ]
+  }
+]

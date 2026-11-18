@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"/c/Users/JUANME~1/AppData/Local/Temp/claude/c--Users-Juan-Mellado--antigravity-ide-webs-animadas-ferreteria/11dcb7f0-0796-4fb6-972c-53c4264dc05c/scratchpad\" 2>/dev/null; curl -sL --compressed -o \"/c/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/yts-test.jpg\" \"https://dojiw2m9tvv09.cloudfront.net/73975/product/M_y000147435.JPG?36&t=1784008361\" && node -e \"const fs=require\\('fs'\\);const s=fs.statSync\\('/c/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/yts-test.jpg'\\);console.log\\(s.size\\)\")"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\JUANME~1\\AppData\\Local\\Temp\\claude\\c--Users-Juan-Mellado--antigravity-ide-webs-animadas-ferreteria\\11dcb7f0-0796-4fb6-972c-53c4264dc05c\\scratchpad"
+    ]
+  }
+}

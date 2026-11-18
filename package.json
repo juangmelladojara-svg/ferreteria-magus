@@ -1,7 +1,7 @@
 {
-  "name": "ferreteria-magus",
+  "name": "distribuidora-puerto-madero",
   "version": "1.0.0",
-  "description": "Herramientas Ferreteria Magus",
+  "description": "Herramientas Distribuidora Puerto Madero",
   "scripts": {
     "convertir": "node convertir-excel.js"
   },

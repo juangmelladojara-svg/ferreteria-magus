@@ -1,0 +1,728 @@
+[
+  {
+    "type": "result",
+    "key": "v2:100e877b3579ac58267ca7acd5765374fc6567bdf638547d45505632c881787c",
+    "agentId": "acd0637256a83549f",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.sodimac.cl/sodimac-cl/articulo/110040758/Broca-HSS-para-metal-10-mm/110040759",
+      "notas": "Imagen descargada desde media.falabella.com (og:image de la ficha de producto Sodimac Chile: \"Broca HSS para metal 10 mm\", marca Bosch). Guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/broca-metal.jpg (12650 bytes)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:5ac83a197ca1b1d6645c5a0d11544cac71b2755622fd45e48aaf1ee2aff983d6",
+    "agentId": "a22bb5742a0f5990c",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.electromall.cl/tornillo-cabeza-lenteja-punta-broca-8-x-1-12",
+      "notas": "Imagen descargada desde https://cdnx.jumpseller.com/electromall/image/47189677/thumb/1079/1079?1711930388 (og:image de la ficha de producto en electromall.cl), coincide exactamente con \"Tornillo Cabeza Lenteja Punta Broca 8 x 1 1/2\"\". Guardada en img/productos/tornillo-cabeza-lenteja.jpg (11638 bytes)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:b32a58fcc46193127b68d22c6043831659fa96c5191793ba909065c827a85bcd",
+    "agentId": "ac5419e8c98d34a32",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.miferreteria.cl/producto/llave-punta-corona-de-10-mm-wurth-w-max/",
+      "notas": "Imagen descargada desde Mi Ferretería (producto: Llave Punta Corona de 10 mm Würth W-MAX). URL directa de imagen: https://www.miferreteria.cl/wp-content/uploads/2022/12/llave-punta-corona-wurth-w-max.jpg. Guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/llave-punta-corona.jpg — verificada como JPEG válido, 600x600 px, 29777 bytes."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:31875327f048867c21375b8065fe11d88316f2cc7fc1556f266ac45dd2b54fcb",
+    "agentId": "ae6799b280c698298",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.isesa.cl/sierra-copa-bimetal-starrett-a10-102mm-670128/p",
+      "notas": "Producto encontrado en ISESA.cl (tienda ferretería industrial chilena): \"Sierra Copa Bimetal Starrett A10 102mm - Fast Cut\". Imagen principal descargada desde la CDN de VTEX (isesacl.vtexassets.com) y guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/sierra-copa-bimetal.jpg (25834 bytes). Verificada visualmente: muestra claramente una sierra copa bimetal amarilla marca Starrett con etiqueta \"HSS BIMETAL\", coincide con el producto buscado. También se encontró una alternativa en MercadoLibre Chile (Sierra Copa Bimetal Irwin 4-102mm) pero esa página bloqueó el fetch con HTTP 403."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:876e945dc27a1ed415b30ddbf11c40fde1cdbbdcb86bf012d4c2b81e214533bc",
+    "agentId": "aa93a4f3e49ae3fae",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.constructor-31.com/spray-pintura-esmalte-amarillo-toronegro/p",
+      "notas": "Producto encontrado como \"SPRAY PINTURA ESMALTE AMARILLO TORO-NEGRO\" en Constructor31 (Chile). Imagen principal descargada desde el CDN VTEX de la tienda (https://constructor31.vtexassets.com/arquivos/ids/172418-800-800...). Archivo guardado en img/productos/spray-toro-negro.jpg (67269 bytes, formato real PNG aunque con extensión .jpg — consistente con otros archivos ya existentes en esa carpeta que mezclan extensión vs formato real, ej. abrazadera-para-manguera.png). No se encontró el matiz exacto \"Amarillo Rey\" confirmado en el nombre de este listado (solo dice \"Amarillo\"), pero es un spray amarillo real de la marca Toro Negro 400ml, la mejor coincidencia verificable disponible tras dos intentos (MercadoLibre Chile bloqueó el fetch con 403, tiendaallstore.cl no resolvió DNS)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:6d04838502fcf2593fd5558de90e562b6b645d151eaf0f5272c90ef197aa4ce8",
+    "agentId": "a463fafacf8eff3c5",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.electromall.cl/tornillo-hexagonal-punta-broca-12-x-1-caja-100-unidades",
+      "notas": "Imagen descargada desde ElectroMall Chile (https://cdnx.jumpseller.com/electromall/image/54267760/thumb/1079/1079). Coincide con el producto buscado: tornillo hexagonal punta broca con golilla, medida 12x1\", vendido en caja de 100 unidades. Guardada en img/productos/tornillo-hexagonal-con.jpg, 15240 bytes."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:f7f094976fe7c8b6ca4f79e5672eedf5da9f3f6137294edecb4fb54f4b941320",
+    "agentId": "a7db8dcc0557b8551",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.hemic.cl/en/brocas-para-hormigon",
+      "notas": "La imagen descargada desde hemic.cl (https://www.hemic.cl/web/image/374951-2e206f32/788000428740-5.webp) resultó ser un archivo WebP real (verificado por cabecera RIFF/WEBP), no un JPEG. Para no dejar un archivo con contenido/extensión inconsistente, se guardó como img/productos/broca-sds-plus.webp (en vez de .jpg), siguiendo la convención ya presente en la carpeta donde varios productos usan extensión .webp (ej. acero-liquido-yts.webp, adaptador.webp). Tamaño final: 15304 bytes. Es la imagen genérica de la línea \"Brocas para Hormigón SDS Plus\" del fabricante HEMIC (marca del producto \"BROCA SDS PLUS 10 X 110 MM HEMIC\"), no encontré una foto específica de la variante exacta 10x110mm en ninguna tienda (Sodimac, MercadoLibre, Herrera y Herrera, Total Metal, Aceitera Regional) con imagen accesible/descargable, así que se usó la imagen oficial del fabricante para el modelo de brocas SDS Plus. Si se requiere estrictamente extensión .jpg, sería necesario convertir el archivo con una herramienta de imagen (no disponible en este entorno)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:86648cfadb8c72181e01e35d4e78fc39c5911e868379026f1b3258c02a68f8f7",
+    "agentId": "a10e6481d2590bf6f",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.sodimac.cl/sodimac-cl/product/1077058/pack-2-bisagras-1-1-2-2-unidades-zincado/1077058/",
+      "notas": "Producto: \"Set Bisagras L38 1,5\" Zincado 2 un\" (Bisagra L38 Pasador Remachado 1 1/2\" Zincada 2 unidades, marca Lioi), encontrado en Sodimac Chile. Imagen descargada desde https://media.falabella.com/sodimacCL/1077058_01/w=1200,h=1200,fit=cover a c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/bisagra-par.jpg (70398 bytes). Nota: el archivo se guardó con extensión .jpg pero el contenido real es WebP (verificado por magic bytes RIFF/WEBP) — es un patrón ya usado en otros productos del catálogo (ej. acero-liquido-yts.webp usa extensión correcta, pero aquí el nombre esperado por batch-200.json es \"bisagra-par\" sin extensión fija, así que funciona bien; los navegadores detectan el tipo real por contenido)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:a378917ec379dcf21bd267f09a1f450c73449ff0ec128d9876dfe006eb3c47d4",
+    "agentId": "a2970bbbfda3954a4",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.sodimac.cl/sodimac-cl/articulo/110220252/Codo-90o-PVC-P-Cementar-25mm-1u/110220254",
+      "notas": "Imagen descargada desde Sodimac Chile (media.falabella.com/sodimacCL/276790_01), producto \"Codo 90° PVC-P Cementar 25mm 1u\" marca VINILIT. Guardada en img/productos/codo-pvc-hidraulico.jpg (19368 bytes), verificada correctamente."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:993204cb0d69b97c82b79711377a1484cef75d071ca4ad90ae72ac39ddac377a",
+    "agentId": "afd1e83745cb0364f",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.chocalan.cl/producto/893/tapa-gorro-he-pvc-hidraulico-20-mm",
+      "notas": "Imagen descargada desde https://www.chocalan.cl/static/1000/images/banners/1f714348945a66b785c130ec0e6e438e.jpg (producto exacto: \"Tapa Gorro HE Pvc Hidráulico 20 mm.\"). Guardada en img/productos/tapa-gorro-pvc.jpg, 20210 bytes, JPEG válido verificado (header FF D8 FF E0)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:a26b244edafc8f080096640713d4dcb009f9596813e36c6079770e9b9d2fd0c8",
+    "agentId": "a4b723c14035d78c8",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://herramientaspormayor.cl/index.php/product/dado-largo-1-2-de-10mm-hexagonal-hoteche-cod-201503/",
+      "notas": "Imagen descargada desde Herramientas por Mayor (herramientaspormayor.cl), tienda chilena de venta al por mayor de herramientas, para el producto \"DADO LARGO 1/2\" DE 10MM HEXAGONAL HOTECHE\" (cod. 201503). Nota: el listado del sitio usa el término \"hexagonal\" (bi-hexagonal) en vez de \"poligonal\", pero es el mismo tipo de dado (poligonal/bi-hex) y es de la marca HOTECHE de 10mm solicitada — no se encontró una ficha que usara textualmente la palabra \"poligonal\" junto con HOTECHE. Archivo guardado en img/productos/dado-poligonal-hoteche.jpg (22618 bytes), verificado como válido."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:e8f53067c4881a28b9e8f600d3e669dd0fc5747aed3d498d7ec965efbd04a10f",
+    "agentId": "a11d9c7a649609da3",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.sodimac.cl/sodimac-cl/product/27089X/Tee-PVC-S-Cementar-110mm-x-110mm-Gris-1u/27089X",
+      "notas": "Imagen descargada desde Sodimac Chile (producto \"Tee PVC-S Cementar 110mm x 110mm Gris 1u\", marca Vinilit/Cementar). URL directa de imagen: https://media.falabella.com/sodimacCL/27089X_001/w=1200,h=1200,fit=cover. Guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/tee-pvc-sanitario.jpg (19190 bytes). Verificada visualmente: foto real de producto mostrando la Tee sanitaria 110mm x 110mm, coincide con el rubro solicitado."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:20c6b62f86861c96f47c9d3a54a5166068ae7b7578f032a59c096f617a6203aa",
+    "agentId": "a19f0ec8affb28cc9",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.diplas.cl/cdn/shop/files/terminalhepvchidraulicopopup_700x700.jpg?v=1718720615",
+      "notas": "Imagen descargada desde la ficha de producto de Diplas.cl (\"Terminal HE PVC 20mm x ½\" - Hidráulico\", https://www.diplas.cl/products/terminal_hidraulico_he), fabricante/distribuidor chileno de piezas PVC. Guardada en C:\\Users\\Juan Mellado\\.antigravity-ide\\webs_animadas\\ferreteria\\img\\productos\\terminal-pvc-hidraulico.jpg (41750 bytes), verificada correctamente."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:50e782faa8a2c566e164ca58fd47577861d57285ac9fc0126f0c44eeeed10fb8",
+    "agentId": "a6affc3a8f002ffff",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.isesa.cl/broca-mecha-paleta-1-1-2-38mm-scmc-676043/p",
+      "notas": "Imagen descargada desde Isesa.cl (Brocas Madera Mecha Paleta 1-1/2\" (38mm) SCMC), URL directa de imagen: https://isesacl.vtexassets.com/arquivos/ids/163659-800-800?v=637565084292100000&width=800&height=800&aspect=true. Guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/broca-paleta-madera.jpg (14126 bytes)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:fb8c70f977d4b7a14df88bfa1fbaec8f8ce1716525fd9957e2c5146f9bf56e68",
+    "agentId": "a311e44bfb57934da",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.sodimac.cl/sodimac-cl/articulo/150593944/tornillo-volcanita-6x1-1-2-punta-broca-1000-unidades/150593945",
+      "notas": "Imagen descargada desde el CDN de media.falabella.com (misma plataforma que Sodimac.cl para este SKU 150593945), ficha de producto \"Tornillo Volcanita 6x1 1/2 Punta Broca 1000 Unidades\". Guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/tornillo-volcanita-punta.jpg (85732 bytes, JPEG válido)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:c871824e0299219bb64fbb42223f2a11500e4f9b7e8fb2f22357532b415be007",
+    "agentId": "ab61a67f73328253c",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.weitzler.cl/producto/tubo-pvc-sanitario-gris-110-mm-6-metros/",
+      "notas": "Imagen descargada desde Weitzler (imagen destacada del producto \"Tubo PVC Sanitario Gris 110 mm 6 Metros\"), URL directa: https://www.weitzler.cl/bitobee/wp-content/uploads/2022/12/21000100008-1.jpg. Guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/tuberia-pvc-sanitario.jpg (16319 bytes, JPEG válido)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:5ac6c6718fe7212f33f4004b806fc8658300cfbfabefa20e68938939f7e7497c",
+    "agentId": "a9fef4d68a67aee37",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.chilemat.com/tornillo-volcanita-crs-8-x-3----caja-100-unid--imporper-30502/p",
+      "notas": "Imagen descargada correctamente en img/productos/tornillos-crs.jpg (JPEG 800x800, 15745 bytes). Producto: Tornillo Volcanita CRS 8x3\" Caja 100 Unid. Imporper, encontrado en Chilemat.com (marketplace ferretero chileno). URL directa de la imagen: https://chilemat.vtexassets.com/arquivos/ids/254371-800-auto?v=638554607510600000&width=800&height=auto&aspect=true"
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:da1652fc5735e722b31c53ed73a8231f7ba33289dd91f2c440c5c7530d295a14",
+    "agentId": "a5f319f212f017996",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://fibra-chile.cl/products/vee-pvc-sanitario-gris-110x110mm",
+      "notas": "Imagen descargada desde Fibra Chile (URL directa: https://fibra-chile.cl/cdn/shop/files/FERRE00410.png?v=1776170019&width=1946) y guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/vee-pvc-sanitario.jpg (121146 bytes). Producto: Vee PVC Sanitario Gris 110x110mm."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:89134cf2a49eb95035a409a5c0117322a72fd9420066ad017de05ca695e27586",
+    "agentId": "a2f0dab6c3eea9f9c",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://fibra-chile.cl/products/disco-corte-metal-krafter-4-1-2-x-1mm",
+      "notas": "Imagen descargada desde Fibra Chile (https://fibra-chile.cl/cdn/shop/files/DISCO_CORTE_METAL_KRAFTER_4_1_2_X_1MM.png), producto exacto: DISCO CORTE METAL KRAFTER 4 1/2\" X 1MM. Guardada en img/productos/disco-de-corte.jpg, 1,381,358 bytes, verificada correctamente."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:b8117b59d3bfcae76a530bc7083c45663e1d627a8200a19947d8056af1de1afd",
+    "agentId": "a9635d6467820ad35",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://ferreteriateja.cl/producto/codo-pvc-sanitario-45-x-110-mm/",
+      "notas": "Imagen descargada desde https://ferreteriateja.cl/wp-content/uploads/2024/10/codo-pvc-sanitario-110x45mm.jpg (ficha de producto: Ferretería Teja, Chile) y guardada en img/productos/codo-pvc-sanitario.jpg (11,615 bytes, JPEG válido). Verificada visualmente: foto real de un codo PVC gris sanitario de 45 grados, coincide con el producto buscado (110mm x 45)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:6453acbd6605bfdf889c5213b9cfc0dbbbf9226a490d484cfead2c5a2830a327",
+    "agentId": "a227c8db1e580b451",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.sodimac.cl/sodimac-cl/articulo/123958437/Manguera-De-Agua-Para-Jardin-Riego-1-2-Pulgada-10-Mts-Yts/123958438",
+      "notas": "Imagen descargada desde Sodimac Chile (CDN Falabella) para el producto \"Manguera De Agua Para Jardín Riego 1/2 Pulgada 10 Mts Yts\". URL de imagen: https://media.falabella.com/falabellaCL/123958438_01/w=1200,h=1200,fit=cover. Guardada en img/productos/manguera-riego.jpg (109003 bytes), verificada correctamente."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:7c728e746c3d3d78bb49f63796436946c099f030efb33f2f9d986b8c96cd4e08",
+    "agentId": "a6a17679fbde9fd45",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.sodimac.cl/sodimac-cl/articulo/110312403/Tubo-PN-16-Cementar-PVC-Agua-20-mmx6-m/110312415",
+      "notas": "Imagen obtenida de la ficha de producto \"Tubo PN-16 Cementar PVC Agua 20 mmx6 m\" (marca Vinilit) en Sodimac Chile. La URL directa de imagen (media.falabella.com) entregaba el archivo en formato WEBP aunque la extensión de la URL sugería jpg; se descargó y luego se convirtió correctamente a JPEG real con Python/Pillow para que el archivo .jpg sea válido. Guardado en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/tuberia-pvc-hidraulico.jpg (1200x1200px, 37833 bytes, header JPEG válido ffd8ffe0). Verificado visualmente: muestra un tubo PVC celeste con marcas \"vinilit\" y \"PN16\", coincide con el producto."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:29bfb483561227f78fff49beb151d6c399b774d4780c22e81068ef2fe53feaf8",
+    "agentId": "a05c8c26abfc6f568",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://store.crosur.cl/zonafranca/accesorios-de-electricidad/14271-amarra-plastica-negra-10cm-100u-volteck.html",
+      "notas": "Producto encontrado: \"AMARRA PLASTICA NEGRA 10CM 100U VOLTECK\" en Crosur (tienda zona franca, Chile/Iquique). Imagen principal descargada directamente desde https://store.crosur.cl/zonafranca/6889/amarra-plastica-negra-10cm-100u-volteck.jpg y guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/amarra-plastica-unidad.jpg (14298 bytes). Imagen verificada visualmente: muestra dos amarras/bridas plásticas negras de cable sobre fondo blanco, coincide con el producto solicitado. No se encontró una ficha específica de venta \"por unidad\" (la mayoría de tiendas venden en pack de 50-100), pero la foto es representativa y real del mismo tipo de producto (amarra plástica 10cm)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:8e64b4b3eac104f57b3a5bd2a3f0307def6197f5a902a099193e9074bf08abd4",
+    "agentId": "a1424b0bf072ac87a",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.sodimac.cl/sodimac-cl/articulo/110038130/Broca-madera-10x380x280-mm",
+      "notas": "Producto: Broca madera 10x380x280 mm, marca DEWALT, encontrado en Sodimac Chile. Imagen descargada desde https://media.falabella.com/sodimacCL/4008758_001/w=1200,h=1200,fit=cover y guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/broca-madera-dewalt.jpg (12498 bytes, verificado válido)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:9ee66aab7600e28a8b8253be5c3652ce844ebee5e831cdd4c1ffee02979a0bad",
+    "agentId": "ad244746d84a76f7f",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://ferreco.com/inicio/477-cancamo-cerrado-n10-144und-fiero.html",
+      "notas": "Imagen descargada desde https://ferreco.com/474-large_default/cancamo-cerrado-n10-144und-fiero.jpg (producto: Cancamo Cerrado N°10 144UND Fiero). Guardada en img/productos/cancamo-cerrado.jpg, 42220 bytes, JPEG válido (verificado magic bytes FF D8 FF E0)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:3fda3c8b687fb52a16c440dc756ab2d812211ac794006198d5f3fee439bd04b5",
+    "agentId": "acd20985c50e04fec",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.sodimac.cl/sodimac-cl/articulo/110275288/Clavo-corriente-2-x-12mm-bolsa-1kg/110275289",
+      "notas": "Imagen descargada en img/productos/clavo-corriente.jpg (25246 bytes, 1200x1200). Nota: el archivo es en realidad formato WebP aunque tiene extensión .jpg (verificado con `file`); si el sitio requiere estrictamente JPEG real, podría necesitar reconversión con una herramienta de imagen. Producto: Clavo corriente 2\" x 12mm bolsa 1kg, marca Inchalam, Sodimac Chile."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:6b7f65072e942536ad08101318f022df7fc0659607cc3d2a04cbedca65b03dc6",
+    "agentId": "a35b4083a6259eefd",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.sodimac.cl/sodimac-cl/articulo/110222734/Modulo-tomacorriente-10-a-16-A-blanco/110222738",
+      "notas": "Imagen descargada desde Sodimac Chile (Módulo tomacorriente 10 a 16 A blanco, marca HALUX). Guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/enchufe-embutido.jpg (38,485 bytes). URL directa de imagen: https://media.falabella.com/sodimacCL/3337820_01/w=1200,h=1200,fit=cover"
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:f5b07a556ecc6dfcf14fa33284cbc6153e9102a92f813d5be786318615d8ca82",
+    "agentId": "adfd42b455dbe9319",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.nidogroup.net/DISCO-SIERRA-CIRCULAR-CORTE-MADERA-7-1-4-24-DIENTES-ID-5-8-3-AK-118502",
+      "notas": "Producto encontrado en nidogroup.net: \"DISCO SIERRA CIRCULAR (CORTE MADERA) 7 1/4\", 24 DIENTES, ID 5/8\" (3) AK #118502\" — coincide exactamente con especificaciones (7 1/4\", 24 dientes) y marca AK (Akilda). Imagen descargada desde https://www.nidogroup.net/site/Product_Images/60907510-01.png?resizeid=5&resizeh=1200&resizew=1200 y guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/disco-sierra-circular.jpg (78529 bytes, JPEG válido verificado por firma de bytes FF D8 FF E0)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:77c3b2fa3545c161d7d40b30c8edbe49a8a8615498a88a212b541d9921d339b0",
+    "agentId": "aeff94d317e062a39",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://dojiw2m9tvv09.cloudfront.net/73975/product/M_rex600493162.jpg?36&t=1784084659",
+      "notas": "Imagen encontrada en la ficha de producto de Importadora Oro Limitada (https://www.importadoraoro.cl/product/pintura-spray-barniz-alerce-400ml) para \"Pintura Spray Barniz Alerce 400ml\" marca Rex. Descargada a img/productos/barniz-rex.jpg (10482 bytes, JPEG válido verificado por magic bytes ff d8 ff e0). Nota: la primera descarga con curl -sL vino comprimida en gzip (headers 1f 8b), fue necesario reintentar con --compressed para obtener el JPEG real."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:e57ea814b5aa91605d4d4f3d6b447478fa4413142a0500d13c90bb7b2dcf4d10",
+    "agentId": "a0209453a6086302e",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.ferreteriagema.cl/producto/lija-al-agua-grano-1000/",
+      "notas": "Imagen descargada desde Ferretería Gema (https://www.ferreteriagema.cl/wp-content/uploads/2025/02/LIJAGRANO1000.webp), producto \"Lija Al Agua Grano 1000\" que coincide exactamente. Sodimac tenía el producto pero sus fotos son placeholders \"NoImage\" (carga vía JS). MercadoLibre bloqueó el fetch con 403. Archivo guardado en img/productos/lija-al-agua.webp (23,818 bytes, verificado por firma RIFF/WEBP real, no placeholder). Se usó extensión .webp en vez de .jpg porque el contenido real es WebP y esa convención ya coexiste en la carpeta con otros productos."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:01c6836560b5defd8dfd8e848172fede53ee7f6d3ad2b2a6f9cddf96d8e9339e",
+    "agentId": "a9169e6a573218948",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.sodimac.cl/sodimac-cl/articulo/110233533/Brocha-mas-economica-1-pulgada/110233554",
+      "notas": "Imagen descargada desde Sodimac Chile (producto: Brocha Económica Mas 1 Pulgada Para Pintura General Amarillo). URL directa de imagen: https://media.falabella.com/sodimacCL/4158385_01/w=1200,h=1200,fit=cover. Guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/brocha.jpg (15222 bytes, verificado por encima del umbral de 3000 bytes)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:4672cabf45b1884a8001699ae31f2dbe292b5f42bf37aa0e2b3e64329ea54443",
+    "agentId": "aaf0b68386b67116f",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.balbico.com.ar/producto/candado-bronce-economico-20mm/",
+      "notas": "Producto \"CANDADO ECO 20MM\" interpretado como candado económico (bronce) de 20mm. No se encontró una marca chilena registrada específicamente como \"ECO\", así que se usó la ficha de \"CANDADO BRONCE ECONOMICO 20MM\" de Balbico (distribuidor mayorista de ferretería, Argentina), cuyo nombre y producto coinciden con el ítem buscado. Imagen descargada y verificada (JPEG válido, 170145 bytes, magic bytes ffd8ffe1) y confirmada visualmente: candado de bronce grabado \"20mm\" con dos llaves, fondo blanco, estilo foto de producto de ferretería. Guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/candado-eco.jpg"
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:1c75f7724a29668a3dc4dc5ebf2059a628d48b736307809dfe316d12805ffbb6",
+    "agentId": "a42fb80a085424ae0",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.sodimac.cl/sodimac-cl/product/985724/clavo-sdm-1-1-2-30-unidades/",
+      "notas": "Imagen del producto \"Clavo SDM 1 1/2\" 30 unidades\" (marca Dimafi) obtenida de la ficha de producto en Sodimac Chile. URL directa de imagen: https://media.falabella.com/sodimacCL/985724_001/w=1200,h=1200,fit=cover. Descargada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/clavo-sdm.jpg (41280 bytes)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:d7a456d46eb61d7efd5703a28b727fba301d04274252b4bc2a294c7ba9e96784",
+    "agentId": "aaab5c750104698e9",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.ferreteriavillagran.cl/producto/codo-ppr-20-mm-x-45-so-so/",
+      "notas": "Imagen descargada desde https://www.ferreteriavillagran.cl/wp-content/uploads/2023/02/codo-ppr-so-so-45-hoffens-600x600.jpg (marca Hoffens) y guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/codo-ppr.jpg (7264 bytes, verificado > 3000 bytes)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:8c4bb464389c746bf882426b8f5a55f412206b0a1e79ca3db48a377e6db2da36",
+    "agentId": "a04b8fda146d5958e",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://herramientastotal.com/catalogo/disco-de-desbaste-hormigon-para-amoladora-4-1-2_TAC2421151_TAC2421151",
+      "notas": "Imagen descargada desde Herramientas Total (producto \"Disco De Desbaste Hormigón Para Amoladora 4.1/2\\\"\", 115mm diámetro, eje 22.2mm). Guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/disco-de-desbaste.jpg (50519 bytes, JPEG válido verificado por firma de bytes). URL directa de la imagen: https://f.fcdn.app/imgs/f28ddf/herramientastotal.com/totauy/ac48/original/catalogo/TAC2421151_TAC2421151_1/460x460/disco-de-desbaste-hormigon-para-amoladora-4-1-2-disco-de-desbaste-hormigon-para-amoladora-4-1-2.jpg"
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:a0038a302da6b5c38f2aa19cb7c389a0da6df383c83f62fc3f0dc956e7e123f3",
+    "agentId": "af633a24ad3d1fc60",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.importadoraoro.cl/product/escuadra-para-silla-100x100mm-tmk19553",
+      "notas": "Imagen descargada desde https://dojiw2m9tvv09.cloudfront.net/73975/product/M_tmk195537160.jpg (CDN de Importadora Oro Limitada, Chile), guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/escuadra-de-silla.jpg (21372 bytes). Muestra escuadras de silla metálicas galvanizadas 100x100mm con su empaque original, marca TMK/Trojan. Verificada visualmente como foto real de producto, no placeholder."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:106a401746ee30437a12e9e68cdd1e362c98eabcccb238989bc288dfeb2a509e",
+    "agentId": "a6143cd8921dd6be6",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://static1.industrybuying.com/products/tooling-and-cutting/drills/hammer-drill-bits-and-chisels/TOO.MAS.92737718_1668030625467.webp",
+      "notas": "Producto exacto \"toma lisa\" (vástago recto cilíndrico, no SDS/hex) en DEWALT no se vende con ese nombre exacto en tiendas chilenas indexadas (Sodimac/Easy/Construmart/MercadoLibre Chile solo listaban SDS Plus o brocas escalonadas). Se identificó el SKU correcto: DEWALT DW531000C-B1, broca para hormigón/mampostería de 10mm x 120mm con vástago liso/recto (serie DW53xx, la línea DEWALT de brocas rectas para taladro percutor, no rotomartillo SDS). Se confirmó el modelo vía búsquedas cruzadas (maqcenter.pe Perú con la serie hermana DW531300C de 13mm, industrybuying.com India, ph.dewalt.global Filipinas). La imagen del producto se obtuvo de industrybuying.com (formato WebP, 27.5KB) y se descargó/verificó en img/productos/broca-hormigon-toma.jpg (ruta esperada según batch-200.json, slug \"broca-hormigon-toma\"). Nota: el archivo internamente es WebP aunque la extensión es .jpg (igual que otros archivos preexistentes en la carpeta del proyecto, ej. acero-liquido-yts.webp con extensión .jpg en otros casos); los navegadores lo renderizan igualmente por sniffing de contenido. No se encontró una ficha de e-commerce chilena con esta SKU exacta en stock al momento de la búsqueda."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:dea99ae30a1a3da8c2f0df06274753c8008bb2a8475d80c8bd4de0d8cd787918",
+    "agentId": "aa0590e62158db797",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://toolmania.cl/pinturas/esmalte-sintetico-cereluxe-brillante-amarillo-rey-1-16-gl-ceresita-10321116-50042.html",
+      "notas": "Imagen descargada desde og:image de la ficha de producto en Toolmania.cl: Esmalte Sintético Cereluxe Brillante Amarillo Rey 1/16 GL (Ceresita, cod. 10321116). Coincide exactamente con el producto buscado (marca Cereluxe/Ceresita, formato 1/16 GL, color Amarillo Rey). URL directa de imagen: https://toolmania.cl/50523-full_default/esmalte-sintetico-cereluxe-brillante-amarillo-rey-1-16-gl-ceresita-10321116.jpg. Guardada en img/productos/esmalte-sintetico.jpg (163751 bytes), verificada."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:f4ddcc6edb81fd47cff5fc42fdb8ffca34145afe321a02fe637781e1bd5c52ff",
+    "agentId": "ae40670456cea09aa",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://requeteofertas.cl/product/cinta-metrica-5-metros/",
+      "notas": "Producto exacto encontrado: \"Cinta Métrica 5 metros Marca Flovi\" en requeteofertas.cl (tienda chilena de ferretería/herramientas). Imagen principal (og:image / featured image) descargada desde https://requeteofertas.cl/media/photos/products/RQT-044_1.jpg y guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/huincha-de-medir.jpg. Verificada: 102928 bytes, magic bytes JPEG válidos (FF D8 FF E0)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:bcd99ca16cf62fd21e56cff7c0fce260bfd6ff81ad179b4381b789e9950e4ca7",
+    "agentId": "a989fe512ec98a6ea",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.ferreteriateja.cl/producto/perno-fijacion-1-2-x-2-3-4/",
+      "notas": "Imagen descargada desde Ferretería Teja (https://ferreteriateja.cl/wp-content/uploads/2024/10/66-3.jpg) hacia c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/perno-anclaje.jpg. Archivo válido: 7629 bytes, cabecera JPEG (FF D8 FF E0) confirmada. Producto: \"PERNO Anclaje 1/2\\\" X 2 3/4\\\"\" coincide exactamente con la búsqueda."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:ce72a4b4f3417df02a30398dd1a09c81abe9c8213007afec6c7c89d054d743ed",
+    "agentId": "a41cd833c68387c3e",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://construplaza.cl/picaporte-corriente-de-2-1-2.html",
+      "notas": "Imagen descargada desde Construplaza (ferretería online chilena), producto exacto \"PICAPORTE CORRIENTE DE 2.1/2\\\"\". URL directa de imagen: https://construplaza.cl/media/catalog/product/p/i/piccor292020_dioq4d8nnl25k2dc.jpg. Guardada en img/productos/picaporte.jpg (29258 bytes), verificada correctamente."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:d7ba51c6b67d85b1011c2de07115d6c15a84e69be47fa6856dd036a1c41c138e",
+    "agentId": "a9fd3d2bc0ed1c3d1",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://servimetal.cl/producto/pomeles-1-par/",
+      "notas": "Imagen descargada desde Servimetal (Barraca de Fierro y Maestranza), producto \"POMELES 1\\\" (PAR)\". URL directa de imagen: https://servimetal.cl/wp-content/uploads/2023/06/MX_40100932500_IMG_PROD1_BL.png. Guardada en img/productos/pomel-par.jpg (953224 bytes, formato real PNG pese a la extensión .jpg). Verificada con magic bytes PNG válidos."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:72532ecfa2c452a12ae7e05cb3441f6c6481ae19a6598c1c545263289aedcb9f",
+    "agentId": "a1919871167c7a1ee",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://socodima.cl/11743-large_default/tornillo-tirafondo-hexagonal-negro-14-x-2.jpg",
+      "notas": "Imagen descargada desde la ficha de producto \"Tornillo Tirafondo Hexagonal Negro 1/4 X 2\" en Socodima.cl (https://socodima.cl/ferreteria-y-gasfiteria_fijaciones-y-adhesivos_tornillos/9858-tornillo-tirafondo-hexagonal-negro-14-x-2.html). Guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/tirafondo.jpg (93010 bytes, verificada)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:68c674be790bc4007dbf7e586170eed3000400a21bfcf47c10060d4676fc0057",
+    "agentId": "a98407ac10c011c25",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.sodimac.cl/sodimac-cl/articulo/129957487/Tornillo-Autoperforante-Hexagonal-Techo-Punta-Espada-10-X-1-1-2-100-U/129957488",
+      "notas": "Imagen descargada desde el CDN de Falabella/Sodimac (https://media.falabella.com/falabellaCL/129957488_01/w=1200,h=1200,fit=cover), producto \"Tornillo Autoperforante Hexagonal Techo Punta Espada 10 X 1 1/2 100 U\" en Sodimac Chile. Guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/tornillo-hexagonal-punta.jpg (17276 bytes). Verificada visualmente: muestra un tornillo hexagonal con golilla de goma negra y punta espada/autoperforante, coincide con el producto solicitado."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:6c91e7003375bfc2ab9219b2130961131b0f14ff655b3371b13a074ff8b045a0",
+    "agentId": "ad35e0bd03a4d4a04",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://mundotool.com/products/espatula-flexible-mango-de-madera-1-truper-14447",
+      "notas": "Producto: Espátula Flexible Mango de Madera 1\" Truper 14447 (25mm), vendida en la ferretería online mexicana MundoTool. Imagen descargada desde og:image (CDN de Shopify): https://mundotool.com/cdn/shop/files/84eaa7db-6e88-4df6-ab16-007779d33621.jpg?v=1721353160. Guardada en img/productos/espatula.jpg (102698 bytes, JPEG válido verificado por magic bytes ff d8 ff e1). Nota: no se encontró una espátula de exactamente 1\" (25mm) con foto real en Sodimac Chile (su único producto \"1 1/4\" tenía imagen placeholder NoImage) ni en MercadoLibre Chile (bloqueó el scraping con 403). Se optó por Truper 14447, que es exactamente 1\" (25mm), coincidiendo con la medida solicitada, aunque la tienda de origen es mexicana en vez de chilena."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:883743af109d737cda779cba1ce7269347e65f48b0c6aad5d4ce466fe32d121f",
+    "agentId": "ae402d4f896161ca1",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.sodimac.cl/sodimac-cl/articulo/110216460/interruptor-automatico-10-a/110216461",
+      "notas": "Producto: Interruptor Automático 10 A (marca LEXO), encontrado en Sodimac Chile. Imagen descargada desde https://media.falabella.com/sodimacCL/277835_01/w=1200,h=1200,fit=cover y guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/automatico.jpg (25696 bytes, verificado > 3000 bytes)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:5943711a1ccc12a64c67d5eaeb71bc8695be51f2ae8788014de3ab749d0906f8",
+    "agentId": "a70039b5e4028f1aa",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.sodimac.cl/sodimac-cl/articulo/110264258/bolsa-basura-50x70-cm-30-litros-10-unidades/110264274 (imagen: https://media.falabella.com/sodimacCL/52865X_001/w=1200,h=1200,fit=cover)",
+      "notas": "Producto: Bolsa Basura 50x70 cm 30 Litros 10 unidades, marca VIRUTEX, vendido en Sodimac Chile. Imagen descargada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/bolsa-basura.jpg (62296 bytes, 1200x1200, formato real WebP guardado con extensión .jpg — consistente con el patrón ya existente en la carpeta img/productos donde muchos .jpg contienen datos WebP/PNG). Verificado con `file` y con chequeo de tamaño de archivo."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:a1b47f064ee962e3cb26910bed640646720cd67de8752682b7421c9539de7a81",
+    "agentId": "a88cf08b8e8869da0",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://ferreteriachacabuco.cl/products/tubo-ppr-20mm-x-6-mts",
+      "notas": "Imagen descargada desde Ferretería Chacabuco (Shopify), producto \"Tubo PPR 20MM X 6MTS\". URL directa de la imagen: https://ferreteriachacabuco.cl/cdn/shop/products/3538.jpg?v=1696443964. Guardada en img/productos/tuberia-ppr.jpg, JPEG válido 800x800, 20519 bytes. (Se descartó Sodimac por servir imágenes vía JS/API sin og:image estático accesible, MercadoLibre por bloqueo anti-bot 403, y Barraca La Estrella porque su og:image para el producto de 20mm en realidad apuntaba a un archivo nombrado \"TuberiaPPR_25mm\" -mismo asset reutilizado-, por lo que se prefirió la fuente con imagen específica y verificable.)"
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:287fdcc524ac156dc977b8fd2e3723237f3268cc58b5ef1d9b3ee74a747170a5",
+    "agentId": "acf25990ead11c689",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.sodimac.cl/sodimac-cl/articulo/115386890/CHALECO-GEOLOGO-AMARILLO/115411153",
+      "notas": "Imagen descargada desde el CDN de Falabella/Sodimac (https://media.falabella.com/falabellaCL/115411153_01/w=1200,h=1200,fit=cover), producto \"CHALECO GEOLOGO AMARILLO\" listado en Sodimac Chile. Guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/chaleco-geologo-amarillo.jpg (200251 bytes). La ficha específica no confirmó visualmente disponibilidad de talla L en el texto extraído, pero corresponde al mismo producto genérico \"chaleco geólogo amarillo\" de la búsqueda."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:cef6a00985c32e597a285b7f86dbc133bd5fe6b4bf470d7826a07ded7f1b5cd7",
+    "agentId": "ada560b75ddc1afd7",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.ferreteriabervar.com/products/cancamo-abierto-1-1-2-n10",
+      "notas": "Se descargó la foto real del producto \"CANCAMO ABIERTO 1 1/2 N10\" desde Ferretería Bervar (imagen: https://www.ferreteriabervar.com/cdn/shop/files/CANCAMO_ABIERTO_1_1_2_N10_273568fc-8b4d-410a-8701-4ffe9040323c.png). Guardada en img/productos/cancamo-abierto.jpg (107,378 bytes). Nota: el archivo descargado es realmente formato PNG (firma 89 50 4E 47) aunque se guardó con extensión .jpg tal como se solicitó; los navegadores lo renderizan correctamente igual. No se encontró un \"cáncamo abierto Nº10\" exacto en tiendas chilenas grandes (Sodimac, Easy, Construmart, MercadoLibre Chile) — las series estándar chilenas suelen ir de N°0 a N°9 (impares) o similares, y N°10 no aparece en sus catálogos. Ferretería Bervar (aparenta ser de Colombia, precios en COP) sí tiene el producto exacto \"CANCAMO ABIERTO 1 1/2 N10\" con foto de producto real y clara, por lo que se usó como mejor fuente disponible."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:9456873029fcc6bb7bfdc4e6e072cd0ef3ab37735e19d19b6bcd79d7406f831a",
+    "agentId": "a0e40ea95e47a17ee",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.sodimac.cl/sodimac-cl/articulo/135507501/Cuerda-6-mm-x-15-m/135507502",
+      "notas": "Producto: \"Cuerda 6 mm x 15 m\" marca FIXSER, encontrado en Sodimac Chile. Imagen principal (og:image) descargada desde https://media.falabella.com/sodimacCL/9027319_001/w=1200,h=1200,fit=cover y guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/cordel.jpg (269083 bytes, verificado)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:9f0f55b0be53756fad2bcddb93b01d15e19acf25ffdbaf7aa684c8e6b738fafa",
+    "agentId": "a98462b4a46baabc7",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://construplaza.cl/construplaza-chageo303002.html",
+      "notas": "Producto exacto encontrado: \"CHALECO GEOLOGO AZUL 100% POLIESTER (L)\" en Construplaza.cl. Imagen descargada desde https://construplaza.cl/media/catalog/product/1/0/1002961110-1_rjtoq4jnaj8a7vro.jpg y guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/chaleco-geologo-azul.jpg (JPEG real, 93120 bytes, header ffd8ffe0 verificado, verificada visualmente: chaleco azul marino oscuro con bandas reflectantes y bolsillos con cierre). Nota: la primera fuente intentada (O'higgins Herramientas) servía la imagen en formato WebP disfrazado de .jpg, por lo que se descartó y se usó Construplaza como fuente alternativa con JPEG real."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:4739f248f7d414ee0e4ff93c8db0dfbe5adcda7022edc6f5a95582a7042765ff",
+    "agentId": "a7501553af53b8665",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.constructor-31.com/flexible-agua-hi-he-35cm/p",
+      "notas": "Imagen descargada desde Constructor31 (tienda online de ferretería chilena), URL directa: https://constructor31.vtexassets.com/arquivos/ids/166185-800-800?v=638182437766100000&width=800&height=800&aspect=true. Guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/flexible-agua-hi-he.jpg (21170 bytes, verificado > 3000 bytes)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:a40ff8a3b7f0c1f27cb8063fe6897279477e01da57ee11531401c69e8792f4b3",
+    "agentId": "ac4d71d28fa805413",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://construplaza.cl/flexible-agua-hi-hi-de-1-2-de-40-cm.html",
+      "notas": "Imagen descargada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/flexible-agua-hi-hi.jpg (7785 bytes). Foto real de producto: flexible de agua trenzado en acero inoxidable con conectores HI-HI 1/2\", 40 cm, marca Täumm, tomada de la ficha de producto en Construplaza.cl."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:4796cdc9b6b5293a11e7018a7d0bf4d6752886197d4adc3a3c2b130b277a1166",
+    "agentId": "ae560e1cdd102d37f",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.pinturasbmac.cl/esmalte-al-agua-azul-merlin-semibrillo-tineta",
+      "notas": "No encontré una foto de producto específicamente rotulada como marca \"GALÁN\" en formato \"Galón\" para el color Azul Merlín (Sodimac vende \"Pintura esmalte al agua 1 gl azul merlin\" de marca REX pero su página no tiene foto real, solo placeholder \"NoImage\"; MercadoLibre bloquea el fetch directo con 403). La imagen descargada corresponde al mismo color/producto genérico \"Esmalte al Agua Azul Merlín\" (semibrillo, formato Tineta de 4 galones) de Pinturas BMAC, una ferretería/fabricante chilena real, tomada directamente de su og:image (https://cdnx.jumpseller.com/pinturas-bmac/image/57432281/Azul_Merlin_Tineta_BMAC.png). Es una foto real de producto físico con el color y nombre \"Azul Merlín\" correctos, aunque el envase mostrado es tineta y no necesariamente galón, y la marca en la etiqueta es BMAC, no Galán (el nombre de color \"Azul Merlín\" es un tono estándar usado por varios fabricantes). Archivo guardado en img/productos/esmalte-al-agua.jpg (370,606 bytes)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:345524423d2d15a8c628431495ed4400d529f0ca8dc6b2a1fe8136a43f1193c8",
+    "agentId": "af5c6fbf6c2a480a8",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://ferreteriachacabuco.cl/products/grapa-coaxial-10mm",
+      "notas": "Descargada correctamente en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/grapa-cable-coaxial.jpg (10648 bytes). Fuente: Ferretería Chacabuco (Chile), producto \"Grapa Coaxial 10MM. Cantidad: 100 Unidades\" - coincide exactamente con la descripción buscada. Imagen verificada visualmente: grapa plástica blanca con clavo metálico integrado sobre fondo blanco, foto real de producto."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:d3f5c29d7a0807f9fa3ca40bd84448cb699765bff33e4b6a26d9773de1883fe9",
+    "agentId": "a1555626dc0c9e2c8",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.sodimac.cl/sodimac-cl/articulo/110265148/Lija-para-madera-9-x11%27%27-grano-100/110265155",
+      "notas": "Imagen descargada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/lija-madera.jpg (208738 bytes, formato WebP 1200x1200 real, guardado con extensión .jpg). Producto: Lija para madera 9\"x11'' grano 100, marca ISESA, de Sodimac Chile. URL directa de imagen: https://media.falabella.com/sodimacCL/759643_01/w=1200,h=1200,fit=cover. Verificado visualmente: muestra la hoja de lija roja/naranja característica."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:6191cc09160c9d23df7b24b09886014a4915bdc5f9d10455ed90c81e3de86771",
+    "agentId": "ad1e79497ed62d766",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://construplaza.cl/pvc-llave-de-paso-bola-20-mm-cementar.html",
+      "notas": "Imagen descargada correctamente en img/productos/llave-paso-pvc.jpg (9006 bytes, JPEG válido). Muestra una llave de paso/válvula de bola PVC cementar de 20mm, azul con manilla naranja, foto real de producto de la tienda Construplaza (Chile). URL directa de la imagen: https://construplaza.cl/media/catalog/product/P/V/PVLLA351018_20231108112559.jpg"
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:9de1304aeb44ae543ffc1dea742733adc17146ee5562a2c875885f37ae7271d0",
+    "agentId": "aa64cf40a88a65f37",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://dimafi.cl/producto/punta-philips-2-con-tope/",
+      "notas": "Imagen real descargada desde Dimafi.cl (tienda ferretería chilena), producto \"PUNTA PHILLIPS #2 (10 UDS)\" con tope. URL directa de imagen: https://www.dimafi.cl/cdn/shop/files/FOTOS_MERCADOLIBRE.jpg?v=1714061909. Guardada en img/productos/punta-phillips-ph2.jpg (50141 bytes), verificada visualmente: muestra punta Phillips con tope/manguito metálico, corresponde al producto solicitado."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:1aadcfadc53e77185be4aaa6eb7a0dfd19129a3eaaf27931e70ce369ba1831d5",
+    "agentId": "a31766708aba285db",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://ferrohogar.eltit.cl/products/reduccion-pvc-hidraulico-25-x-20-mm",
+      "notas": "Imagen real de producto: Reducción PVC Hidráulica Tigre 25x20mm (pieza azul con marcado \"25 x 20\" visible), obtenida de la ficha de producto en Ferrohogar Eltit (Chile). Descargada a img/productos/reduccion-pvc-hidraulico.jpg (326048 bytes) desde la URL directa https://i.bolder.run/r/czoyMzA1NSxnOjEwMDB4/672ee1da/863693-581-1.png. Verificada visualmente: corresponde al producto solicitado."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:0179209e216b7b116a3cf0f5e6a06c2269a5ff4763649285b8532201a2b2cd8c",
+    "agentId": "af3d2bdd358be66e4",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://ferreteriachacabuco.cl/products/lija-fierro-grano-100",
+      "notas": "Imagen descargada desde Ferretería Chacabuco (URL directa: https://ferreteriachacabuco.cl/cdn/shop/products/3765.jpg). Muestra un pliego de lija/tela esmeril Norton en fondo blanco, foto real de producto, 28556 bytes. Guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/repuesto-lija-grano.jpg. Nota: la etiqueta visible en el pliego dice grano 60, no 100, pero corresponde a la misma línea de producto (lija/tela esmeril Norton) y es la imagen de ficha para \"Lija Fierro Grano 100\" en la tienda de origen."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:e2e1ed45c9bd949f0c542ad18f4eb63138468286a79060e916e26fbc829563e7",
+    "agentId": "a2a0aa5445607ed89",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://construplaza.cl/rodillo-esponja-12-cm.html",
+      "notas": "No se encontró un producto con marca literal \"ECO\" de 12 cm; se usó la ficha de Construplaza.cl para \"RODILLO ESPONJA 12 CM\" (marca Lizcal), que coincide en tipo y medida (12 cm) con el producto buscado. Imagen descargada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/rodillo-esponja-eco.jpg (JPEG 600x420, 11336 bytes), verificada como archivo de imagen válido."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:18f4e22e0486963ec1bf2062390f6934311c073ddd4e6718cebac78bc7a09426",
+    "agentId": "a068301e050724b56",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://ferreteriachacabuco.cl/products/rueda-porton-con-placa-100-mm",
+      "notas": "Imagen descargada desde Ferretería Chacabuco (og:image / foto destacada del producto \"Rueda Portón con Placa 100MM\"), URL directa: https://ferreteriachacabuco.cl/cdn/shop/products/3313.jpg?v=1746480650&width=1946. Guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/rueda-porton-con.jpg (26027 bytes). Nota: aunque el nombre de archivo destino es \"rueda-porton-con.jpg\" (posible truncamiento del nombre pedido), corresponde al producto solicitado \"RUEDA PORTON CON BASE 100 MM PAR\"."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:fcf8144c4b089c8c9ff921dee1de9e533446ee1437da79e977368a8d39521ef1",
+    "agentId": "a901ceeb346d20ec4",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://ferreteriagomila.cl/tapa-gorro-ppr-20mm-so-vinilit.html",
+      "notas": "Imagen descargada correctamente en img/productos/tapa-gorro-ppr.jpg (7091 bytes) desde Ferretería Gómila (Chile). El producto se llama \"Tapa Gorro PPR 20mm SO Vinilit\" (SO = soldar). La imagen muestra el tapón/tapa gorro gris con etiqueta \"TAPÓN SO\" tal como aparece en la ficha del producto. URL directa de la imagen: https://ferreteriagomila.cl/media/catalog/product/T/A/TAPPP1001001_20220905160606.jpg"
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:f6dc3e98a709dd84d50fddef1a94d419f9c8ae9250825c45c57efa2703dcee6d",
+    "agentId": "a969bb54a63d99a02",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.constructor-31.com/separadores-ceramica-2-5mm-200und/p (imagen: https://constructor31.vtexassets.com/arquivos/ids/171828-800-800?v=638359206840700000&width=800&height=800&aspect=true)",
+      "notas": "No se encontró exactamente la variante AKILDA 2,5MM 100UN. El sitio oficial Akilda (akilda.cl) tiene un producto \"Separador Cerámica 2.5mm\" pero su imagen de catálogo comparte la misma foto genérica usada para todas las variantes (etiquetada 2.0mm 200pcs en la infografía), por lo que no era representativa. En su lugar se usó una foto real de producto de Constructor31 (retailer chileno de ferretería/construcción) que muestra separadores cerámicos plásticos en forma de X del espesor correcto (2,5mm), aunque el empaque de esa ficha es de 200 unidades en vez de 100 (no se encontró una foto real verificable del empaque exacto de 100un). Imagen descargada y verificada en img/productos/separador-de-ceramica.jpg (18183 bytes, foto de producto sobre fondo blanco)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:1282eb37515a48b34fbe0434d5e07b58549e945d315fc7526f9af7eccfa124de",
+    "agentId": "a2dbf4e20cc9aafe1",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.sodimac.cl/sodimac-cl/product/277568/tee-trans-pvc-p-ce-hi-20mm-x-1-2%22-1u",
+      "notas": "Imagen descargada correctamente en img/productos/tee-pvc-hidraulico.jpg (52948 bytes, JPEG válido verificado por magic bytes FF D8 FF). Producto: \"Tee Trans PVC-P CE/HI 20MM x 1/2\" 1u\" marca VINILIT, vendido en Sodimac Chile. URL directa de la imagen usada (CDN Falabella/Sodimac con conversión a JPEG explícita): https://media.falabella.com/sodimacCL/277568_01/w=1200,h=1200,fit=cover,format=jpeg. Nota: la primera descarga desde esa misma URL sin el parámetro format=jpeg vino en realidad codificada como WEBP pese al content-type declarado; se corrigió agregando format=jpeg al query de la CDN y se reverificó el magic bytes del archivo final."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:472bc0ecd2794382013a64cf70ac00522ee599b1d9cd2a8a9565bb996fd91cce",
+    "agentId": "a8e0387504c738131",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.ferreteriaeldato.cl/producto/terminal-so-he-1-2-bronce/",
+      "notas": "Imagen descargada desde Ferretería El Dato (imagen directa: https://www.ferreteriaeldato.cl/wp-content/uploads/2022/11/BRPO038-1.jpg) a c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/terminal-so.jpg (59656 bytes). Coincide exactamente con \"TERMINAL SO-HE 1/2\\\" BRONCE\"."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:0cadc537051b79964eb7b438b059c6e0bc07c1882750d15d3883add6a7338b30",
+    "agentId": "ad6ee4609529883fb",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://www.sodimac.cl/sodimac-cl/product/278068/union-americana-pvc-p-cementar-20mm-1u",
+      "notas": "Producto: VINILIT Unión Americana PVC-P Cementar 20mm 1u (Sodimac Chile). Imagen descargada desde el CDN de Falabella/Sodimac (https://media.falabella.com/sodimacCL/278068_01/w=1200,h=1200,fit=cover). El contenido real es WEBP (verificado por magic bytes RIFF/WEBP), por lo que se guardó como img/productos/union-americana-pvc.webp (27548 bytes) en vez de .jpg, consistente con otros productos de la carpeta que usan extensión .webp."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:8cd41c895d782efe73dd927a6a10bcb846be2aa5fd72fbfa71158703084321c2",
+    "agentId": "a1fafbe503fbfdce0",
+    "result": {
+      "encontrada": true,
+      "urlOrigen": "https://covepa.cl/product/brocha-itibra-12-x-2-14",
+      "notas": "Producto encontrado en Covepa.cl: \"BROCHA ITIBRA 1/2 X 2\"\" (100% Cerda natural gris, tratamiento epóxico vulcanizado, mango de madera anatómico). Imagen principal descargada desde https://covepa.cl/storage/products/c8649abc075e2671969e8f2b6d48dd6d.jpg y guardada en c:/Users/Juan Mellado/.antigravity-ide/webs_animadas/ferreteria/img/productos/brocha-itibra.jpg (49419 bytes, verificado)."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:af021218005bdc225dde96c2c50846b5d06383e8b9af8585f42b22490d499290",
+    "agentId": "a6cde050871021934",
+    "result": {
+      "encontrada": false,
+      "notas": "No se pudo completar la búsqueda. La herramienta WebSearch estuvo persistentemente no disponible durante toda la sesión (\"claude-sonnet-5 is temporarily unavailable, so auto mode cannot determine the safety of WebSearch right now\"), pese a múltiples reintentos espaciados con esperas crecientes (45s, 90s, 150s) a lo largo de varios minutos. No se llegó a ejecutar ninguna búsqueda real ni se descargó ningún archivo, por lo que no existe archivo roto ni placeholder en img/productos/ampolleta-led.jpg (se verificó que el archivo no existe). Esto es una falla de disponibilidad de la herramienta, no una conclusión de que la foto no exista: se recomienda reintentar esta tarea más tarde cuando WebSearch esté disponible."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:824f9dfb9d22525abbe0b7bd8688f04d07402478ed3540b1788b33f490e28826",
+    "agentId": "aefe35c5a65fecf52",
+    "result": {
+      "encontrada": false,
+      "notas": "No se pudo completar la búsqueda: durante toda la sesión, las herramientas WebSearch, WebFetch, Bash y Monitor devolvieron el error \"claude-sonnet-5 is temporarily unavailable, so auto mode cannot determine the safety of [tool] right now\" (fallo del clasificador de seguridad de la plataforma, no relacionado con el producto). Se reintentó la búsqueda \"BROCA CERAMICA 10 MM TRUPER comprar\" más de una decena de veces con pausas entre intentos, y también se probó WebFetch a Google como alternativa; todos los intentos fallaron con el mismo error de disponibilidad. No se localizó ni descargó ninguna imagen, por lo que no se creó/modificó el archivo img/productos/broca-ceramica.jpg. Recomendación: reintentar esta tarea en una nueva sesión cuando el servicio esté disponible."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:5dfabcbf88f05d8b1d9cfdf08cc6bb96e7790445586b7d8cc0cf3d4c794c3cef",
+    "agentId": "a6d09830debcae9e7",
+    "result": {
+      "encontrada": false,
+      "notas": "No se pudo completar la búsqueda: las herramientas WebSearch y WebFetch fallaron de forma persistente con el error \"claude-sonnet-5 is temporarily unavailable, so auto mode cannot determine the safety of WebSearch/WebFetch right now\". Se reintentó múltiples veces (incluyendo esperas de 20s, 60s y 90s entre intentos) sin éxito — es un problema a nivel de sistema/infraestructura, no de la disponibilidad del producto. No se descargó ningún archivo ni se dejó ningún placeholder. Recomendación: reintentar esta tarea más tarde cuando el servicio de clasificación de seguridad esté disponible."
+    }
+  },
+  {
+    "type": "result",
+    "key": "v2:cfa537e04921cc8f885a6f8c002a293540d41ec6bd9b75e9bddb1afd682dad30",
+    "agentId": "a76892eb4d74ceb03",
+    "result": {
+      "encontrada": false,
+      "notas": "No se pudo completar la búsqueda: las herramientas WebSearch y WebFetch estuvieron indisponibles durante toda la sesión (\"claude-sonnet-5 is temporarily unavailable, so auto mode cannot determine the safety of WebSearch/WebFetch right now\"). Se reintentó más de 15 veces a lo largo de varios minutos (incluyendo esperas reales entre intentos) sin éxito, tanto con WebSearch como con WebFetch (incluso vía Google search URL). No se descargó ningún archivo ni se creó img/productos/broca-toma-lisa.jpg, para evitar dejar un placeholder o archivo roto, conforme a las instrucciones. El producto \"BROCA TOMA LISA 12MM BOSCH\" sí existe en el catálogo local (products.json, id 242, sku 73505890487601, código de barras EAN 3165140439671) y actualmente no tiene imagen propia (usa fallback). Se recomienda reintentar esta tarea en otra sesión cuando las herramientas de búsqueda web estén disponibles nuevamente."
+    }
+  }
+]

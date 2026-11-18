@@ -1,5 +1,5 @@
 /* ============================================================
-   FERRETERÍA MAGUS — catalogo.js
+   DISTRIBUIDORA PUERTO MADERO — catalogo.js
    Carga products.json y maneja filtros, búsqueda, paginación
    ============================================================ */
 (function () {
@@ -12,7 +12,6 @@
   let   paginaActual      = 1;
   let   vistaActual       = 'grid';   // 'grid' | 'list'
   let   categoriaActiva   = 'todas';
-  let   soloConStock      = true;
   let   ordenActual       = 'nombre-asc';
   let   busquedaActual    = '';
   let   precioMin         = null;
@@ -26,7 +25,6 @@
   const catList      = document.getElementById('cat-list');
   const searchInput  = document.getElementById('search-input');
   const sortSelect   = document.getElementById('sort-select');
-  const filterStock  = document.getElementById('filter-stock');
   const priceMin     = document.getElementById('price-min');
   const priceMax     = document.getElementById('price-max');
   const cartCountEl  = document.getElementById('cart-count');
@@ -59,9 +57,6 @@
         busquedaActual = urlQ;
         if (searchInput) searchInput.value = urlQ;
       }
-
-      // Estado inicial del checkbox de stock
-      soloConStock = filterStock ? filterStock.checked : true;
 
       buildCatList(data.categorias || []);
 
@@ -99,13 +94,13 @@
     const btnTodas = document.createElement('button');
     btnTodas.className = 'cat-btn' + (categoriaActiva === 'todas' ? ' active' : '');
     btnTodas.dataset.cat = 'todas';
-    const totalStock = todosLosProductos.filter(p => !soloConStock || p.enStock).length;
-    btnTodas.innerHTML = `<span>Todas</span><span class="cat-count">${totalStock.toLocaleString('es-CL')}</span>`;
+    const totalProductos = todosLosProductos.length;
+    btnTodas.innerHTML = `<span>Todas</span><span class="cat-count">${totalProductos.toLocaleString('es-CL')}</span>`;
     btnTodas.addEventListener('click', () => setCat('todas'));
     catList.appendChild(btnTodas);
 
     categorias.forEach(cat => {
-      const count = todosLosProductos.filter(p => p.categoria === cat && (!soloConStock || p.enStock)).length;
+      const count = todosLosProductos.filter(p => p.categoria === cat).length;
       const btn   = document.createElement('button');
       btn.className    = 'cat-btn' + (cat === categoriaActiva ? ' active' : '');
       btn.dataset.cat  = cat;
@@ -129,9 +124,8 @@
     const q = busquedaActual.toLowerCase().trim();
 
     filtrados = todosLosProductos.filter(p => {
-      if (soloConStock && !p.enStock) return false;
       if (categoriaActiva !== 'todas' && p.categoria !== categoriaActiva) return false;
-      if (q && !p.nombre.toLowerCase().includes(q)) return false;
+      if (q && !p.nombre.toLowerCase().includes(q) && !(p.sku || '').toLowerCase().includes(q)) return false;
       if (precioMin !== null && p.precio < precioMin) return false;
       if (precioMax !== null && p.precio > precioMax) return false;
       return true;
@@ -144,7 +138,6 @@
         case 'nombre-desc':  return b.nombre.localeCompare(a.nombre, 'es');
         case 'precio-asc':   return a.precio - b.precio;
         case 'precio-desc':  return b.precio - a.precio;
-        case 'stock-desc':   return b.stock - a.stock;
         default:             return 0;
       }
     });
@@ -182,34 +175,34 @@
     const card = document.createElement('article');
     card.className = 'prod-card';
 
-    const precioFmt  = p.precio > 0
+    const precioFmt = p.precio > 0
       ? `$${p.precio.toLocaleString('es-CL')}`
       : 'Consultar';
-    const stockClass = p.enStock ? 'in' : 'out';
-    const stockText  = p.enStock ? `Stock: ${p.stock.toLocaleString('es-CL')} ${p.unidad}` : 'Sin stock';
 
-    card.innerHTML = `
-      <div class="prod-card-img">
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2" aria-hidden="true">
+    const imgHtml = p.imagen
+      ? `<img src="${p.imagen}" alt="${p.nombre}" loading="lazy" />`
+      : `<svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2" aria-hidden="true">
           <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/>
         </svg>
-        ${p.subcategoria || p.categoria}
+        ${p.subcategoria || p.categoria}`;
+
+    card.innerHTML = `
+      <div class="prod-card-img${p.imagen ? ' has-photo' : ''}">
+        ${imgHtml}
       </div>
       <div class="prod-card-body">
         <span class="prod-categoria">${p.categoria}</span>
         <h3 class="prod-nombre">${p.nombre}</h3>
-        <span class="prod-stock-badge ${stockClass}">${stockText}</span>
+        <span class="prod-sku">SKU ${p.sku || '—'}</span>
         <span class="prod-precio">${precioFmt}</span>
       </div>
       <div class="prod-card-footer">
         <div class="prod-qty-wrap">
           <button class="prod-qty-btn minus" aria-label="Restar">−</button>
-          <input type="number" class="prod-qty-input" value="1" min="1" max="${Math.max(p.stock,999)}" aria-label="Cantidad" />
+          <input type="number" class="prod-qty-input" value="1" min="1" max="999" aria-label="Cantidad" />
           <button class="prod-qty-btn plus" aria-label="Sumar">+</button>
         </div>
-        <button class="btn-add-cart" ${!p.enStock ? 'disabled' : ''} data-nombre="${p.nombre}">
-          ${p.enStock ? 'Agregar' : 'Sin stock'}
-        </button>
+        <button class="btn-add-cart" data-nombre="${p.nombre}">Agregar</button>
       </div>`;
 
     // Eventos qty
@@ -224,20 +217,18 @@
 
     // Evento carrito
     const addBtn = card.querySelector('.btn-add-cart');
-    if (p.enStock) {
-      addBtn.addEventListener('click', () => {
-        const qty = parseInt(qtyInput.value) || 1;
-        cartCount += qty;
-        if (cartCountEl) cartCountEl.textContent = cartCount;
-        const orig = addBtn.textContent;
-        addBtn.textContent = `+${qty} ✓`;
-        addBtn.style.background = '#16a34a';
-        setTimeout(() => {
-          addBtn.textContent = orig;
-          addBtn.style.background = '';
-        }, 1500);
-      });
-    }
+    addBtn.addEventListener('click', () => {
+      const qty = parseInt(qtyInput.value) || 1;
+      cartCount += qty;
+      if (cartCountEl) cartCountEl.textContent = cartCount;
+      const orig = addBtn.textContent;
+      addBtn.textContent = `+${qty} ✓`;
+      addBtn.style.background = '#16a34a';
+      setTimeout(() => {
+        addBtn.textContent = orig;
+        addBtn.style.background = '';
+      }, 1500);
+    });
 
     return card;
   }
@@ -285,14 +276,6 @@
   }
 
   // ── EVENTOS ──
-  if (filterStock) {
-    filterStock.addEventListener('change', () => {
-      soloConStock = filterStock.checked;
-      paginaActual = 1;
-      aplicarFiltros();
-    });
-  }
-
   if (searchInput) {
     let debounce;
     searchInput.addEventListener('input', () => {
@@ -338,11 +321,9 @@
   function limpiarFiltros() {
     busquedaActual  = '';
     categoriaActiva = 'todas';
-    soloConStock    = true;
     precioMin       = null;
     precioMax       = null;
     if (searchInput)   searchInput.value   = '';
-    if (filterStock)   filterStock.checked = true;
     if (priceMin)      priceMin.value      = '';
     if (priceMax)      priceMax.value      = '';
     if (sortSelect)    sortSelect.value    = 'nombre-asc';
